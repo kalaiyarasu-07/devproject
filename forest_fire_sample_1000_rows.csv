@@ -1,0 +1,1001 @@
+fire_id,date,year,month,season,region,state,latitude,longitude,temperature_c,humidity_pct,wind_speed_kmh,rainfall_mm,vegetation_type,fire_cause,detection_source,fire_area_hectares,fire_duration_hours,severity,response_time_minutes,containment_pct,fatalities,people_evacuated,risk_score
+FF-0001,2025-09-23,2025,9,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.62931,76.8014,22.9,64.4,7.4,17.4,Tropical Moist Deciduous,Agricultural Burning,Forest Watchtower,3.9,10,Moderate,120,75.8,0,1,0.429
+FF-0002,2024-10-03,2024,10,Post-monsoon,Kanha,Madhya Pradesh,22.31464,80.62063,38.1,57.3,9.9,7.3,Grassland,Agricultural Burning,Satellite,0.48,13,High,88,73.4,0,65,0.626
+FF-0003,2023-07-11,2023,7,Monsoon,Sundarbans,West Bengal,21.99292,88.95939,25.9,64.5,2.5,16.9,Tropical Dry Deciduous,Agricultural Burning,Forest Watchtower,1.43,14,Moderate,49,81.3,1,1,0.356
+FF-0004,2025-05-06,2025,5,Pre-monsoon,Periyar,Kerala,9.49091,77.33997,38.6,26.1,5.2,0.7,Thorn Forest,Agricultural Burning,Satellite,10.03,14,High,78,73.8,0,58,0.643
+FF-0005,2023-06-07,2023,6,Monsoon,Periyar,Kerala,9.47273,77.05429,25.8,82.1,5.0,24.8,Montane Forest,Agricultural Burning,Satellite,1.52,11,Low,61,87.3,0,3,0.301
+FF-0006,2024-02-18,2024,2,Winter,Tadoba,Maharashtra,20.07528,79.45805,28.9,69.3,2.1,2.4,Thorn Forest,Human Activity,Patrol Team,1.19,12,Moderate,72,82.2,0,3,0.446
+FF-0007,2023-12-28,2023,12,Winter,Nilgiri Biosphere,Tamil Nadu,11.46885,76.45286,26.4,89.8,7.2,6.4,Thorn Forest,Human Activity,Local Report,1.33,13,Moderate,98,79.9,0,4,0.43
+FF-0008,2023-01-14,2023,1,Winter,Jim Corbett,Uttarakhand,29.36375,78.85911,29.5,56.6,2.5,22.4,Tropical Moist Deciduous,Lightning,Patrol Team,0.19,12,Moderate,76,90.7,0,3,0.469
+FF-0009,2025-06-03,2025,6,Monsoon,Bandipur,Karnataka,11.80649,76.63217,27.4,83.1,6.9,23.8,Tropical Dry Deciduous,Lightning,Forest Watchtower,0.89,13,Moderate,104,84.1,0,0,0.383
+FF-0010,2024-07-12,2024,7,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.57365,76.58907,22.5,83.4,10.4,22.9,Thorn Forest,Unknown,Sensor Network,5.43,16,Moderate,65,99.4,0,4,0.406
+FF-0011,2023-12-13,2023,12,Winter,Similipal,Odisha,21.95865,86.39592,28.4,62.4,23.5,10.8,Evergreen,Human Activity,Forest Watchtower,1.72,13,Moderate,88,76.5,0,2,0.517
+FF-0012,2024-07-09,2024,7,Monsoon,Gir,Gujarat,21.0542,70.68794,23.3,89.4,4.8,21.0,Montane Forest,Human Activity,Patrol Team,1.1,13,Low,81,92.4,0,0,0.269
+FF-0013,2023-01-01,2023,1,Winter,Jim Corbett,Uttarakhand,29.57263,78.60709,39.3,76.9,10.2,2.5,Tropical Dry Deciduous,Unknown,Patrol Team,0.48,22,High,110,62.7,0,36,0.617
+FF-0014,2024-04-23,2024,4,Pre-monsoon,Kanha,Madhya Pradesh,22.25061,80.53635,33.6,52.6,5.8,11.1,Tropical Moist Deciduous,Human Activity,Local Report,0.83,16,High,110,83.4,0,44,0.59
+FF-0015,2024-07-23,2024,7,Monsoon,Jim Corbett,Uttarakhand,29.64969,78.60128,33.0,75.4,2.4,26.5,Tropical Moist Deciduous,Unknown,Satellite,6.73,15,Moderate,71,71.8,0,1,0.453
+FF-0016,2024-01-08,2024,1,Winter,Kanha,Madhya Pradesh,22.00698,80.6581,28.1,61.0,23.7,1.9,Grassland,Human Activity,Patrol Team,5.03,11,Moderate,83,79.7,0,3,0.542
+FF-0017,2025-06-29,2025,6,Monsoon,Similipal,Odisha,21.8463,86.19298,27.2,59.9,10.7,19.9,Thorn Forest,Lightning,Patrol Team,0.96,13,Moderate,37,73.6,0,5,0.527
+FF-0018,2023-10-01,2023,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.08147,76.82816,23.1,54.7,13.2,7.9,Montane Forest,Lightning,Forest Watchtower,1.62,10,Moderate,77,81.3,0,1,0.509
+FF-0019,2023-06-01,2023,6,Monsoon,Tadoba,Maharashtra,19.96079,79.08733,24.0,70.3,26.2,16.6,Tropical Moist Deciduous,Human Activity,Patrol Team,2.75,12,Moderate,100,74.6,0,4,0.517
+FF-0020,2024-08-01,2024,8,Monsoon,Periyar,Kerala,9.71822,77.09807,26.9,63.3,6.8,23.8,Evergreen,Human Activity,Forest Watchtower,0.79,11,Moderate,88,74.8,0,0,0.4
+FF-0021,2025-08-30,2025,8,Monsoon,Similipal,Odisha,22.04323,86.28757,33.1,85.2,3.3,23.1,Tropical Dry Deciduous,Human Activity,Local Report,0.41,22,Moderate,72,73.3,0,2,0.417
+FF-0022,2024-02-16,2024,2,Winter,Wayanad,Kerala,11.58488,76.33853,30.0,82.8,4.8,1.1,Tropical Moist Deciduous,Human Activity,Local Report,2.24,11,Moderate,108,90.8,0,0,0.474
+FF-0023,2023-02-21,2023,2,Winter,Bandipur,Karnataka,11.4596,76.65945,35.2,53.3,3.0,19.5,Tropical Moist Deciduous,Human Activity,Patrol Team,5.17,14,High,78,77.5,0,51,0.571
+FF-0024,2025-11-29,2025,11,Post-monsoon,Gir,Gujarat,20.62568,70.76189,31.9,70.0,19.6,3.4,Evergreen,Unknown,Satellite,5.22,12,High,72,64.4,0,46,0.568
+FF-0025,2024-05-01,2024,5,Pre-monsoon,Kanha,Madhya Pradesh,22.21304,80.68977,41.3,33.5,31.0,1.1,Evergreen,Human Activity,Satellite,11.48,18,Critical,95,72.1,0,55,0.817
+FF-0026,2023-07-09,2023,7,Monsoon,Sundarbans,West Bengal,22.28727,88.52071,25.7,74.7,10.3,27.3,Tropical Moist Deciduous,Lightning,Satellite,0.62,14,Moderate,54,71.7,0,3,0.426
+FF-0027,2024-11-05,2024,11,Post-monsoon,Wayanad,Kerala,11.76958,76.09224,39.8,56.3,15.2,13.2,Grassland,Human Activity,Satellite,3.88,18,High,101,75.5,0,33,0.639
+FF-0028,2023-12-17,2023,12,Winter,Kanha,Madhya Pradesh,22.21047,80.95955,26.8,74.4,17.9,1.6,Thorn Forest,Campfire,Local Report,2.09,12,Moderate,83,82.1,0,3,0.484
+FF-0029,2025-10-24,2025,10,Post-monsoon,Similipal,Odisha,21.97441,86.42382,25.6,56.5,27.3,4.5,Tropical Moist Deciduous,Unknown,Satellite,2.66,12,Moderate,92,81.2,0,4,0.524
+FF-0030,2023-11-19,2023,11,Post-monsoon,Periyar,Kerala,9.25025,77.21222,23.6,80.2,30.2,0.3,Tropical Moist Deciduous,Campfire,Patrol Team,2.11,20,Moderate,70,89.5,0,1,0.467
+FF-0031,2024-08-25,2024,8,Monsoon,Periyar,Kerala,9.45243,77.29866,36.5,75.6,1.6,26.8,Grassland,Unknown,Satellite,1.52,12,Moderate,78,70.8,0,1,0.491
+FF-0032,2024-08-18,2024,8,Monsoon,Bandipur,Karnataka,11.71592,76.76121,29.7,69.9,5.9,21.1,Thorn Forest,Human Activity,Satellite,0.16,7,Moderate,32,88.3,0,4,0.384
+FF-0033,2023-09-23,2023,9,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.38622,76.34046,24.5,61.5,9.5,16.8,Thorn Forest,Agricultural Burning,Satellite,5.67,17,Moderate,78,88.9,0,3,0.385
+FF-0034,2024-07-01,2024,7,Monsoon,Similipal,Odisha,22.02653,86.09718,31.6,82.5,5.4,18.3,Tropical Dry Deciduous,Human Activity,Forest Watchtower,3.41,9,Moderate,79,74.2,0,1,0.475
+FF-0035,2023-04-30,2023,4,Pre-monsoon,Tadoba,Maharashtra,20.25514,79.33785,37.1,60.5,7.7,0.0,Evergreen,Unknown,Satellite,0.97,21,High,68,63.4,0,39,0.606
+FF-0036,2024-12-06,2024,12,Winter,Western Ghats,Tamil Nadu,10.40693,77.07132,37.8,69.8,12.7,2.1,Montane Forest,Lightning,Satellite,4.3,11,Moderate,80,74.4,0,1,0.526
+FF-0037,2025-04-11,2025,4,Pre-monsoon,Tadoba,Maharashtra,20.08986,79.53616,27.0,79.3,12.4,0.0,Tropical Moist Deciduous,Lightning,Satellite,1.61,9,Moderate,70,83.4,0,4,0.434
+FF-0038,2025-11-07,2025,11,Post-monsoon,Kanha,Madhya Pradesh,22.44365,80.54327,27.8,86.0,17.6,16.0,Tropical Moist Deciduous,Unknown,Satellite,1.82,10,Moderate,110,67.5,0,3,0.478
+FF-0039,2023-12-24,2023,12,Winter,Nagarhole,Karnataka,12.26063,75.75178,26.9,61.7,9.7,1.6,Montane Forest,Unknown,Local Report,1.34,11,Moderate,59,82.8,0,3,0.477
+FF-0040,2023-11-09,2023,11,Post-monsoon,Sundarbans,West Bengal,21.74478,88.67176,20.1,61.5,0.8,5.3,Tropical Dry Deciduous,Campfire,Patrol Team,3.2,16,Moderate,75,68.7,0,1,0.366
+FF-0041,2024-08-24,2024,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.25797,76.20506,30.8,85.6,7.2,23.8,Grassland,Human Activity,Local Report,1.12,9,Moderate,53,92.1,0,0,0.406
+FF-0042,2025-01-29,2025,1,Winter,Kanha,Madhya Pradesh,22.51373,80.55786,27.8,54.3,11.8,13.2,Mangrove,Human Activity,Satellite,1.01,15,Moderate,67,80.8,0,1,0.472
+FF-0043,2025-12-23,2025,12,Winter,Jim Corbett,Uttarakhand,29.46938,78.76609,32.3,82.3,18.4,5.5,Tropical Dry Deciduous,Human Activity,Forest Watchtower,7.91,15,Moderate,88,89.4,0,0,0.548
+FF-0044,2023-01-28,2023,1,Winter,Wayanad,Kerala,11.92461,76.0236,39.6,71.1,16.7,4.0,Grassland,Lightning,Forest Watchtower,2.72,15,High,81,78.7,0,44,0.569
+FF-0045,2023-09-19,2023,9,Monsoon,Western Ghats,Tamil Nadu,10.22919,77.3942,24.4,82.6,8.7,21.7,Evergreen,Lightning,Local Report,1.8,15,Moderate,70,77.9,0,0,0.37
+FF-0046,2023-10-15,2023,10,Post-monsoon,Gir,Gujarat,21.33281,71.01573,27.1,75.6,5.6,1.5,Mangrove,Human Activity,Patrol Team,3.85,12,Moderate,77,74.5,0,2,0.391
+FF-0047,2023-10-07,2023,10,Post-monsoon,Periyar,Kerala,9.52104,77.16933,29.5,90.1,9.0,1.7,Montane Forest,Unknown,Forest Watchtower,1.18,12,Moderate,61,83.3,0,4,0.377
+FF-0048,2024-05-23,2024,5,Pre-monsoon,Tadoba,Maharashtra,20.24132,78.91576,38.4,50.4,1.9,1.9,Mangrove,Human Activity,Satellite,2.02,17,Moderate,99,73.0,0,0,0.546
+FF-0049,2025-08-14,2025,8,Monsoon,Jim Corbett,Uttarakhand,29.75035,78.91111,23.4,77.4,6.1,16.2,Tropical Dry Deciduous,Agricultural Burning,Satellite,2.91,10,Moderate,67,90.5,0,1,0.413
+FF-0050,2023-02-03,2023,2,Winter,Kanha,Madhya Pradesh,22.24212,80.69996,26.2,87.1,20.6,2.5,Thorn Forest,Unknown,Satellite,0.62,12,Moderate,72,72.3,0,4,0.426
+FF-0051,2025-06-13,2025,6,Monsoon,Kanha,Madhya Pradesh,22.14942,80.65569,30.8,92.5,9.0,19.2,Montane Forest,Agricultural Burning,Sensor Network,2.53,12,Moderate,77,97.4,0,2,0.382
+FF-0052,2024-11-07,2024,11,Post-monsoon,Bandipur,Karnataka,11.62823,76.77667,30.7,61.5,12.2,22.6,Grassland,Lightning,Satellite,1.31,16,Moderate,81,86.9,0,2,0.46
+FF-0053,2024-11-05,2024,11,Post-monsoon,Wayanad,Kerala,11.77237,75.89033,19.8,66.1,2.9,14.6,Evergreen,Human Activity,Forest Watchtower,4.31,11,Moderate,82,80.2,0,1,0.379
+FF-0054,2025-01-13,2025,1,Winter,Periyar,Kerala,9.24948,77.56158,23.5,68.7,18.3,7.8,Tropical Dry Deciduous,Human Activity,Satellite,3.98,12,Moderate,82,92.8,0,2,0.463
+FF-0055,2023-05-07,2023,5,Pre-monsoon,Periyar,Kerala,9.602,77.0273,40.8,53.1,8.4,9.0,Mangrove,Agricultural Burning,Forest Watchtower,5.74,18,High,101,61.9,0,50,0.679
+FF-0056,2025-03-29,2025,3,Pre-monsoon,Western Ghats,Tamil Nadu,10.2138,77.33486,35.8,29.0,11.9,0.0,Tropical Dry Deciduous,Lightning,Forest Watchtower,1.07,16,High,88,70.1,0,40,0.696
+FF-0057,2023-09-29,2023,9,Monsoon,Similipal,Odisha,22.08365,86.09628,22.6,57.4,13.7,21.9,Tropical Moist Deciduous,Human Activity,Satellite,2.22,10,Moderate,56,69.6,0,1,0.449
+FF-0058,2024-07-20,2024,7,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.01692,76.53255,25.2,66.6,17.9,25.9,Montane Forest,Campfire,Satellite,0.96,16,Moderate,52,90.8,0,1,0.479
+FF-0059,2025-01-11,2025,1,Winter,Jim Corbett,Uttarakhand,29.37415,79.07295,29.1,52.5,10.7,1.7,Montane Forest,Agricultural Burning,Forest Watchtower,2.54,13,Moderate,48,64.1,0,0,0.483
+FF-0060,2024-10-23,2024,10,Post-monsoon,Jim Corbett,Uttarakhand,29.23017,78.75304,32.3,57.0,8.6,7.1,Montane Forest,Unknown,Local Report,0.46,14,High,118,61.5,0,46,0.592
+FF-0061,2023-12-21,2023,12,Winter,Gir,Gujarat,20.9678,70.95119,22.9,74.9,3.5,1.0,Evergreen,Lightning,Local Report,0.64,9,Moderate,35,75.6,0,2,0.436
+FF-0062,2024-03-10,2024,3,Pre-monsoon,Jim Corbett,Uttarakhand,29.53963,78.84265,30.2,45.6,2.6,6.4,Tropical Dry Deciduous,Campfire,Forest Watchtower,7.34,10,Moderate,100,88.9,0,3,0.492
+FF-0063,2024-06-06,2024,6,Monsoon,Wayanad,Kerala,11.67132,76.08111,27.2,81.7,10.5,29.0,Evergreen,Human Activity,Patrol Team,3.06,14,Moderate,58,86.9,0,2,0.411
+FF-0064,2023-02-15,2023,2,Winter,Gir,Gujarat,21.05946,71.04549,28.6,48.9,11.9,1.8,Tropical Dry Deciduous,Human Activity,Satellite,2.07,12,Moderate,102,77.6,0,1,0.513
+FF-0065,2025-03-06,2025,3,Pre-monsoon,Wayanad,Kerala,11.67453,76.0574,36.6,41.5,13.3,0.0,Mangrove,Unknown,Sensor Network,1.79,13,High,52,79.1,0,47,0.662
+FF-0066,2023-04-20,2023,4,Pre-monsoon,Nagarhole,Karnataka,12.03254,75.77947,28.5,56.2,4.9,10.7,Evergreen,Unknown,Sensor Network,1.11,11,Moderate,76,76.3,0,2,0.51
+FF-0067,2024-05-17,2024,5,Pre-monsoon,Tadoba,Maharashtra,20.03863,79.15542,35.6,56.3,6.1,3.5,Tropical Moist Deciduous,Lightning,Satellite,4.17,16,High,114,74.6,0,41,0.617
+FF-0068,2024-12-18,2024,12,Winter,Wayanad,Kerala,11.8131,76.19921,33.9,55.9,10.4,11.4,Tropical Dry Deciduous,Human Activity,Satellite,2.21,12,Moderate,95,88.9,0,1,0.539
+FF-0069,2023-03-30,2023,3,Pre-monsoon,Western Ghats,Tamil Nadu,10.40603,77.27119,36.2,50.3,6.7,2.1,Tropical Moist Deciduous,Human Activity,Patrol Team,13.04,17,High,82,68.8,0,48,0.615
+FF-0070,2025-12-27,2025,12,Winter,Periyar,Kerala,9.56161,76.91793,29.6,96.8,39.1,4.4,Mangrove,Unknown,Satellite,2.71,13,High,50,68.1,0,42,0.569
+FF-0071,2024-02-18,2024,2,Winter,Kanha,Madhya Pradesh,22.38905,80.46962,28.6,65.8,6.0,5.4,Grassland,Unknown,Satellite,2.47,12,Moderate,51,83.2,0,3,0.434
+FF-0072,2023-01-18,2023,1,Winter,Bandipur,Karnataka,11.74743,76.49529,25.2,56.3,12.5,19.2,Tropical Dry Deciduous,Human Activity,Local Report,0.81,13,Moderate,104,83.0,0,0,0.488
+FF-0073,2024-12-22,2024,12,Winter,Periyar,Kerala,9.82561,77.13422,28.7,63.6,16.4,10.7,Tropical Dry Deciduous,Human Activity,Satellite,2.17,17,Moderate,76,74.4,0,2,0.537
+FF-0074,2024-09-03,2024,9,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.38606,76.45234,31.7,80.3,17.0,18.4,Tropical Moist Deciduous,Agricultural Burning,Patrol Team,3.34,16,Moderate,80,82.5,0,3,0.525
+FF-0075,2024-12-02,2024,12,Winter,Jim Corbett,Uttarakhand,29.45087,78.68689,28.5,63.9,6.6,6.3,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,2.13,14,Moderate,87,73.4,0,3,0.533
+FF-0076,2025-04-03,2025,4,Pre-monsoon,Periyar,Kerala,9.37944,77.06885,30.0,47.6,13.8,1.8,Montane Forest,Lightning,Patrol Team,1.88,11,Moderate,58,77.8,1,1,0.521
+FF-0077,2024-06-05,2024,6,Monsoon,Nagarhole,Karnataka,11.83484,76.23888,23.8,58.8,12.6,19.1,Grassland,Agricultural Burning,Patrol Team,2.98,17,Moderate,81,80.8,0,1,0.416
+FF-0078,2025-06-25,2025,6,Monsoon,Bandipur,Karnataka,11.50088,76.74564,26.9,65.5,14.2,24.2,Tropical Dry Deciduous,Campfire,Local Report,8.27,11,Moderate,66,82.6,0,2,0.421
+FF-0079,2024-02-10,2024,2,Winter,Similipal,Odisha,21.75779,86.37375,27.3,63.9,10.3,6.8,Thorn Forest,Human Activity,Local Report,2.68,8,Moderate,80,94.0,0,2,0.438
+FF-0080,2024-08-20,2024,8,Monsoon,Jim Corbett,Uttarakhand,29.48869,78.72943,28.2,76.7,16.4,17.8,Tropical Moist Deciduous,Agricultural Burning,Sensor Network,6.61,14,Moderate,66,80.5,0,1,0.462
+FF-0081,2023-06-23,2023,6,Monsoon,Gir,Gujarat,21.15349,70.82519,28.4,71.1,11.2,21.4,Tropical Moist Deciduous,Agricultural Burning,Sensor Network,4.58,14,Moderate,51,73.9,0,2,0.497
+FF-0082,2024-11-10,2024,11,Post-monsoon,Periyar,Kerala,9.50818,77.05302,33.0,63.5,3.1,3.0,Evergreen,Agricultural Burning,Patrol Team,6.81,12,Moderate,72,81.4,0,2,0.499
+FF-0083,2023-10-14,2023,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.27751,76.49357,35.4,66.9,10.9,7.8,Tropical Dry Deciduous,Unknown,Patrol Team,1.9,11,High,96,83.1,0,39,0.572
+FF-0084,2025-02-02,2025,2,Winter,Kanha,Madhya Pradesh,22.44403,80.43076,33.5,78.5,11.8,2.9,Evergreen,Agricultural Burning,Local Report,2.28,10,Moderate,87,84.2,0,2,0.499
+FF-0085,2025-05-27,2025,5,Pre-monsoon,Sundarbans,West Bengal,22.01831,88.78573,29.8,46.6,15.7,2.4,Mangrove,Lightning,Satellite,2.63,14,High,85,79.7,0,49,0.564
+FF-0086,2025-07-30,2025,7,Monsoon,Jim Corbett,Uttarakhand,29.47446,78.59057,21.9,84.6,10.5,19.2,Montane Forest,Human Activity,Patrol Team,3.41,9,Moderate,88,70.2,0,3,0.393
+FF-0087,2025-10-15,2025,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.29553,76.72917,28.7,58.4,27.7,18.4,Tropical Moist Deciduous,Agricultural Burning,Forest Watchtower,6.6,19,High,83,50.6,0,59,0.597
+FF-0088,2023-05-15,2023,5,Pre-monsoon,Nagarhole,Karnataka,12.08775,76.23135,32.0,56.0,8.8,3.3,Grassland,Human Activity,Satellite,3.2,13,Moderate,82,85.9,0,1,0.526
+FF-0089,2023-06-01,2023,6,Monsoon,Kanha,Madhya Pradesh,22.33008,80.31432,20.9,84.3,6.4,34.9,Tropical Dry Deciduous,Human Activity,Satellite,4.09,9,Moderate,59,87.3,0,1,0.346
+FF-0090,2025-10-12,2025,10,Post-monsoon,Kanha,Madhya Pradesh,22.0683,80.60452,27.0,78.1,22.4,5.6,Evergreen,Lightning,Local Report,1.69,23,Moderate,97,71.9,1,0,0.502
+FF-0091,2024-02-22,2024,2,Winter,Periyar,Kerala,9.48912,77.16041,26.9,76.0,8.6,9.5,Tropical Moist Deciduous,Agricultural Burning,Local Report,4.55,7,Moderate,77,88.7,0,3,0.392
+FF-0092,2023-01-29,2023,1,Winter,Kanha,Madhya Pradesh,22.34193,80.66147,26.0,74.2,9.8,2.6,Evergreen,Campfire,Satellite,5.66,12,Moderate,65,94.6,0,0,0.441
+FF-0093,2023-11-11,2023,11,Post-monsoon,Tadoba,Maharashtra,20.05605,79.29767,27.6,64.6,11.8,2.7,Tropical Dry Deciduous,Agricultural Burning,Forest Watchtower,5.01,10,Moderate,54,88.8,0,0,0.516
+FF-0094,2025-07-05,2025,7,Monsoon,Wayanad,Kerala,11.73037,75.83835,31.3,82.4,11.2,21.1,Montane Forest,Unknown,Satellite,2.63,18,Moderate,94,84.4,0,1,0.433
+FF-0095,2024-01-25,2024,1,Winter,Tadoba,Maharashtra,19.96723,79.07277,29.9,80.9,14.1,18.8,Mangrove,Human Activity,Satellite,4.98,10,Moderate,66,70.9,0,1,0.5
+FF-0096,2023-03-26,2023,3,Pre-monsoon,Nagarhole,Karnataka,12.21379,76.1053,45.1,38.9,15.1,0.0,Tropical Moist Deciduous,Lightning,Forest Watchtower,2.25,19,High,100,58.8,0,59,0.76
+FF-0097,2025-03-02,2025,3,Pre-monsoon,Bandipur,Karnataka,11.89967,76.78518,34.8,39.2,5.9,0.0,Thorn Forest,Campfire,Patrol Team,4.04,16,High,130,52.6,0,51,0.604
+FF-0098,2023-08-02,2023,8,Monsoon,Jim Corbett,Uttarakhand,29.4596,78.40145,24.7,81.5,3.8,28.5,Tropical Dry Deciduous,Lightning,Satellite,2.7,8,Moderate,85,88.1,0,2,0.381
+FF-0099,2024-01-22,2024,1,Winter,Sundarbans,West Bengal,21.95815,88.96223,29.0,71.8,4.2,10.0,Thorn Forest,Unknown,Satellite,0.76,13,Moderate,104,87.8,0,1,0.433
+FF-0100,2023-01-05,2023,1,Winter,Nilgiri Biosphere,Tamil Nadu,11.01441,76.91413,30.2,54.5,20.8,3.4,Tropical Moist Deciduous,Lightning,Satellite,4.87,13,High,76,83.3,0,43,0.582
+FF-0101,2024-10-21,2024,10,Post-monsoon,Kanha,Madhya Pradesh,22.11498,80.57246,31.0,65.0,8.1,24.6,Tropical Dry Deciduous,Human Activity,Local Report,0.8,14,Moderate,93,84.2,0,1,0.425
+FF-0102,2024-05-03,2024,5,Pre-monsoon,Bandipur,Karnataka,11.653,76.69904,43.3,46.7,16.3,23.4,Grassland,Agricultural Burning,Patrol Team,2.74,15,High,93,68.6,0,40,0.669
+FF-0103,2025-08-08,2025,8,Monsoon,Kanha,Madhya Pradesh,22.12846,80.47345,22.2,48.0,15.3,16.4,Evergreen,Human Activity,Forest Watchtower,2.64,14,Moderate,84,72.7,0,1,0.472
+FF-0104,2024-01-02,2024,1,Winter,Western Ghats,Tamil Nadu,10.4143,77.17851,32.9,62.9,9.8,2.6,Evergreen,Human Activity,Satellite,1.47,13,Moderate,116,70.0,2,2,0.502
+FF-0105,2023-08-13,2023,8,Monsoon,Kanha,Madhya Pradesh,22.61957,80.30824,26.9,76.8,4.8,21.0,Evergreen,Human Activity,Patrol Team,2.34,13,Moderate,67,78.8,1,2,0.4
+FF-0106,2023-07-01,2023,7,Monsoon,Kanha,Madhya Pradesh,22.11174,80.17802,18.9,76.8,15.6,23.6,Tropical Dry Deciduous,Human Activity,Forest Watchtower,1.94,12,Low,66,75.5,0,3,0.321
+FF-0107,2023-08-08,2023,8,Monsoon,Kanha,Madhya Pradesh,22.16601,80.7697,29.5,98.8,9.6,22.6,Tropical Dry Deciduous,Lightning,Patrol Team,0.96,10,Moderate,51,97.5,0,3,0.343
+FF-0108,2024-05-09,2024,5,Pre-monsoon,Sundarbans,West Bengal,21.93767,88.7227,39.7,31.0,3.6,3.3,Evergreen,Unknown,Sensor Network,6.37,15,High,108,59.5,0,45,0.668
+FF-0109,2023-04-06,2023,4,Pre-monsoon,Periyar,Kerala,9.75778,77.118,30.1,36.5,6.8,0.0,Grassland,Lightning,Local Report,1.57,16,Moderate,73,72.1,0,3,0.547
+FF-0110,2024-03-16,2024,3,Pre-monsoon,Jim Corbett,Uttarakhand,29.30442,78.55044,34.0,12.0,2.4,6.4,Tropical Dry Deciduous,Unknown,Sensor Network,27.17,15,High,110,54.6,0,47,0.662
+FF-0111,2025-07-25,2025,7,Monsoon,Nagarhole,Karnataka,12.03985,75.84621,18.2,72.3,7.0,24.9,Tropical Moist Deciduous,Agricultural Burning,Satellite,1.77,10,Moderate,38,85.8,0,1,0.346
+FF-0112,2025-04-21,2025,4,Pre-monsoon,Kanha,Madhya Pradesh,22.59141,80.56871,28.3,42.5,10.2,9.8,Grassland,Human Activity,Satellite,1.05,21,Moderate,91,72.4,0,1,0.519
+FF-0113,2024-11-29,2024,11,Post-monsoon,Similipal,Odisha,21.63572,86.26868,33.7,58.9,8.9,1.3,Grassland,Human Activity,Forest Watchtower,1.2,13,Moderate,68,73.5,0,3,0.507
+FF-0114,2025-09-05,2025,9,Monsoon,Periyar,Kerala,9.29503,77.26803,23.9,94.5,8.1,20.3,Thorn Forest,Campfire,Forest Watchtower,4.95,13,Low,80,75.2,0,1,0.329
+FF-0115,2025-05-05,2025,5,Pre-monsoon,Similipal,Odisha,21.83222,86.48146,29.0,60.0,10.1,1.2,Tropical Moist Deciduous,Agricultural Burning,Satellite,1.78,11,Moderate,77,78.8,0,2,0.466
+FF-0116,2024-12-16,2024,12,Winter,Similipal,Odisha,21.81671,86.45775,30.0,67.1,13.5,1.2,Evergreen,Unknown,Satellite,0.9,15,Moderate,72,70.5,0,2,0.525
+FF-0117,2025-08-03,2025,8,Monsoon,Western Ghats,Tamil Nadu,10.43002,77.24295,23.6,73.8,17.1,20.2,Evergreen,Human Activity,Local Report,5.12,12,Moderate,69,77.5,0,1,0.458
+FF-0118,2023-05-17,2023,5,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.43867,76.984,31.9,62.4,18.6,0.0,Tropical Moist Deciduous,Agricultural Burning,Satellite,2.36,14,High,71,88.5,0,45,0.596
+FF-0119,2025-06-15,2025,6,Monsoon,Bandipur,Karnataka,11.41601,76.40783,29.3,78.7,5.4,17.0,Tropical Dry Deciduous,Unknown,Local Report,3.9,8,Moderate,88,83.4,0,1,0.411
+FF-0120,2023-11-20,2023,11,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.48247,76.69011,23.8,54.5,19.8,10.1,Tropical Dry Deciduous,Campfire,Satellite,6.99,12,High,66,79.0,0,52,0.568
+FF-0121,2025-03-14,2025,3,Pre-monsoon,Periyar,Kerala,9.40759,77.40388,29.9,24.0,9.6,1.4,Thorn Forest,Human Activity,Satellite,4.02,25,High,80,65.0,0,41,0.571
+FF-0122,2025-09-27,2025,9,Monsoon,Jim Corbett,Uttarakhand,29.70391,79.02762,26.7,72.8,7.5,18.4,Tropical Dry Deciduous,Campfire,Satellite,19.16,12,Moderate,83,72.2,0,4,0.462
+FF-0123,2024-06-27,2024,6,Monsoon,Sundarbans,West Bengal,21.79959,88.64408,30.4,89.6,4.3,30.2,Grassland,Lightning,Patrol Team,0.51,12,Moderate,102,80.2,1,4,0.407
+FF-0124,2023-04-08,2023,4,Pre-monsoon,Periyar,Kerala,9.39814,77.14378,39.6,79.9,0.7,7.1,Evergreen,Unknown,Local Report,1.34,17,Moderate,79,95.0,0,0,0.496
+FF-0125,2024-02-10,2024,2,Winter,Tadoba,Maharashtra,20.28658,79.54446,26.0,66.9,12.9,0.3,Tropical Moist Deciduous,Agricultural Burning,Patrol Team,1.92,13,Moderate,71,76.4,0,0,0.441
+FF-0126,2024-03-21,2024,3,Pre-monsoon,Similipal,Odisha,22.02207,86.49145,38.2,37.3,12.6,5.6,Thorn Forest,Agricultural Burning,Forest Watchtower,24.73,14,High,94,74.5,0,45,0.63
+FF-0127,2025-10-23,2025,10,Post-monsoon,Western Ghats,Tamil Nadu,10.3717,77.23515,25.5,49.4,6.3,7.6,Grassland,Lightning,Satellite,13.39,13,Moderate,44,69.0,0,1,0.53
+FF-0128,2025-10-29,2025,10,Post-monsoon,Kanha,Madhya Pradesh,22.0303,80.56082,37.2,73.7,6.5,4.0,Tropical Dry Deciduous,Unknown,Sensor Network,8.15,11,Moderate,58,55.5,0,3,0.501
+FF-0129,2024-09-15,2024,9,Monsoon,Similipal,Odisha,21.98609,86.33092,20.9,54.3,8.7,19.9,Thorn Forest,Human Activity,Forest Watchtower,1.27,14,Moderate,70,71.3,0,1,0.459
+FF-0130,2025-11-07,2025,11,Post-monsoon,Sundarbans,West Bengal,21.73451,88.95188,35.0,73.7,7.4,0.6,Evergreen,Lightning,Satellite,1.61,15,Moderate,68,94.0,0,4,0.522
+FF-0131,2024-04-23,2024,4,Pre-monsoon,Similipal,Odisha,21.93764,86.35457,31.0,59.4,5.2,22.4,Tropical Moist Deciduous,Agricultural Burning,Forest Watchtower,1.26,13,Moderate,49,82.4,0,3,0.472
+FF-0132,2024-03-26,2024,3,Pre-monsoon,Similipal,Odisha,21.6722,86.39234,43.1,54.1,3.9,2.2,Grassland,Agricultural Burning,Forest Watchtower,1.93,15,High,106,83.7,0,41,0.647
+FF-0133,2025-07-05,2025,7,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.47141,76.71415,28.7,75.9,20.0,23.3,Grassland,Lightning,Satellite,8.64,14,Moderate,80,75.2,0,0,0.449
+FF-0134,2025-01-01,2025,1,Winter,Similipal,Odisha,21.77094,86.27795,24.4,73.9,6.7,4.4,Tropical Moist Deciduous,Agricultural Burning,Forest Watchtower,1.78,9,Moderate,75,63.0,0,5,0.401
+FF-0135,2024-07-26,2024,7,Monsoon,Kanha,Madhya Pradesh,22.09478,80.69578,23.6,81.4,12.5,18.5,Montane Forest,Lightning,Local Report,2.18,13,Moderate,63,69.8,1,2,0.442
+FF-0136,2024-05-15,2024,5,Pre-monsoon,Nagarhole,Karnataka,12.11421,76.62456,37.5,37.1,14.2,8.8,Grassland,Agricultural Burning,Sensor Network,7.1,23,High,91,70.5,0,46,0.637
+FF-0137,2025-02-12,2025,2,Winter,Sundarbans,West Bengal,21.93866,88.58014,33.7,91.9,12.9,6.1,Evergreen,Agricultural Burning,Satellite,0.71,12,Moderate,91,77.9,0,1,0.531
+FF-0138,2025-04-05,2025,4,Pre-monsoon,Western Ghats,Tamil Nadu,10.20176,77.25832,33.7,43.1,14.7,2.2,Tropical Dry Deciduous,Agricultural Burning,Forest Watchtower,4.29,16,High,89,68.7,0,49,0.687
+FF-0139,2024-06-21,2024,6,Monsoon,Wayanad,Kerala,11.93219,75.96317,26.2,89.9,12.8,23.2,Tropical Moist Deciduous,Unknown,Patrol Team,0.74,16,Low,75,77.0,0,0,0.331
+FF-0140,2023-02-04,2023,2,Winter,Periyar,Kerala,9.4295,77.30393,32.4,32.1,5.9,4.8,Tropical Moist Deciduous,Agricultural Burning,Satellite,2.64,15,High,73,79.8,0,47,0.6
+FF-0141,2023-04-22,2023,4,Pre-monsoon,Gir,Gujarat,21.10514,70.80838,34.6,65.9,7.7,17.9,Grassland,Human Activity,Patrol Team,1.56,16,Moderate,79,72.2,0,2,0.474
+FF-0142,2023-06-07,2023,6,Monsoon,Bandipur,Karnataka,11.74303,76.73713,20.2,99.6,19.6,26.5,Evergreen,Agricultural Burning,Satellite,1.12,12,Moderate,88,85.0,0,1,0.344
+FF-0143,2024-05-21,2024,5,Pre-monsoon,Nagarhole,Karnataka,11.90085,76.31159,30.3,48.4,6.6,6.3,Thorn Forest,Human Activity,Local Report,4.03,17,High,109,73.2,0,43,0.592
+FF-0144,2024-11-04,2024,11,Post-monsoon,Wayanad,Kerala,11.77538,76.13464,30.1,73.8,9.6,0.7,Tropical Moist Deciduous,Human Activity,Sensor Network,3.53,12,Moderate,106,73.0,0,1,0.533
+FF-0145,2025-05-30,2025,5,Pre-monsoon,Gir,Gujarat,21.01465,71.00377,39.5,55.8,13.6,6.5,Grassland,Unknown,Satellite,3.41,15,High,99,62.1,0,46,0.688
+FF-0146,2023-09-12,2023,9,Monsoon,Tadoba,Maharashtra,20.13414,78.87803,33.3,70.0,24.3,24.3,Thorn Forest,Lightning,Patrol Team,3.98,16,Moderate,82,70.8,0,1,0.53
+FF-0147,2025-05-12,2025,5,Pre-monsoon,Western Ghats,Tamil Nadu,10.51802,77.48628,37.5,55.7,18.5,0.0,Thorn Forest,Lightning,Local Report,1.84,13,High,83,86.1,0,40,0.659
+FF-0148,2024-12-30,2024,12,Winter,Bandipur,Karnataka,11.53351,76.66751,30.3,54.7,4.6,0.7,Thorn Forest,Campfire,Patrol Team,4.67,12,Moderate,46,86.6,0,2,0.483
+FF-0149,2023-02-26,2023,2,Winter,Kanha,Madhya Pradesh,21.91396,80.79401,32.4,57.5,12.2,10.1,Mangrove,Human Activity,Satellite,2.83,17,High,63,79.6,0,43,0.599
+FF-0150,2024-01-20,2024,1,Winter,Western Ghats,Tamil Nadu,10.55775,76.98042,26.0,81.8,11.3,11.2,Tropical Dry Deciduous,Human Activity,Satellite,1.38,10,Moderate,67,75.9,0,1,0.379
+FF-0151,2023-11-28,2023,11,Post-monsoon,Tadoba,Maharashtra,20.60789,79.15046,28.3,79.6,7.8,2.7,Grassland,Human Activity,Forest Watchtower,1.11,11,Moderate,70,69.6,0,1,0.398
+FF-0152,2025-08-29,2025,8,Monsoon,Nagarhole,Karnataka,11.93516,76.12627,22.3,69.1,9.8,18.6,Montane Forest,Human Activity,Sensor Network,1.55,14,Low,93,90.7,0,2,0.337
+FF-0153,2025-10-06,2025,10,Post-monsoon,Gir,Gujarat,20.79011,70.79693,23.4,55.7,5.8,6.0,Evergreen,Agricultural Burning,Forest Watchtower,10.79,18,Moderate,96,85.0,0,2,0.404
+FF-0154,2025-06-16,2025,6,Monsoon,Nagarhole,Karnataka,11.95032,76.15095,27.5,70.0,8.5,19.4,Tropical Dry Deciduous,Unknown,Forest Watchtower,2.06,25,Moderate,60,75.9,0,2,0.399
+FF-0155,2024-08-01,2024,8,Monsoon,Periyar,Kerala,9.4542,77.39521,26.8,89.3,6.6,16.7,Montane Forest,Agricultural Burning,Patrol Team,0.69,16,Low,81,78.6,0,3,0.321
+FF-0156,2024-06-24,2024,6,Monsoon,Sundarbans,West Bengal,21.86961,88.58226,29.1,65.0,10.4,17.7,Tropical Dry Deciduous,Human Activity,Satellite,6.22,12,Moderate,72,64.7,0,3,0.521
+FF-0157,2023-12-08,2023,12,Winter,Nilgiri Biosphere,Tamil Nadu,11.22186,76.87529,31.5,71.0,7.5,7.0,Tropical Moist Deciduous,Lightning,Local Report,1.9,11,Moderate,93,83.8,0,1,0.52
+FF-0158,2025-04-27,2025,4,Pre-monsoon,Similipal,Odisha,21.99273,86.40149,35.1,58.5,25.5,0.0,Tropical Dry Deciduous,Human Activity,Satellite,4.6,14,High,104,81.2,0,53,0.629
+FF-0159,2023-04-05,2023,4,Pre-monsoon,Similipal,Odisha,21.98392,86.36332,36.5,46.8,10.6,9.7,Evergreen,Agricultural Burning,Local Report,2.24,18,High,113,63.8,0,37,0.646
+FF-0160,2023-10-25,2023,10,Post-monsoon,Kanha,Madhya Pradesh,22.0609,80.3352,28.8,80.1,9.2,8.2,Tropical Moist Deciduous,Agricultural Burning,Satellite,6.96,11,Moderate,66,73.8,0,4,0.433
+FF-0161,2023-05-29,2023,5,Pre-monsoon,Gir,Gujarat,21.21187,70.89055,35.9,43.7,8.2,5.3,Evergreen,Human Activity,Satellite,2.25,14,High,108,81.2,0,55,0.642
+FF-0162,2024-06-25,2024,6,Monsoon,Sundarbans,West Bengal,22.22843,88.46546,22.7,76.0,7.6,21.9,Montane Forest,Unknown,Local Report,6.31,18,Moderate,34,74.8,0,1,0.343
+FF-0163,2023-11-25,2023,11,Post-monsoon,Wayanad,Kerala,11.72751,76.21671,30.7,52.3,3.6,2.4,Evergreen,Unknown,Satellite,1.17,13,Moderate,105,90.0,1,3,0.524
+FF-0164,2023-08-05,2023,8,Monsoon,Wayanad,Kerala,11.64603,75.83142,29.0,93.2,16.2,25.2,Evergreen,Human Activity,Satellite,1.71,13,Moderate,72,79.2,0,0,0.403
+FF-0165,2024-02-17,2024,2,Winter,Periyar,Kerala,9.47728,77.20962,26.0,55.3,22.4,2.3,Mangrove,Agricultural Burning,Forest Watchtower,9.38,15,Moderate,81,71.9,1,1,0.522
+FF-0166,2025-08-01,2025,8,Monsoon,Kanha,Madhya Pradesh,22.39844,80.57855,26.2,83.9,6.6,28.2,Thorn Forest,Agricultural Burning,Patrol Team,2.36,7,Moderate,33,84.2,0,3,0.372
+FF-0167,2024-09-03,2024,9,Monsoon,Nagarhole,Karnataka,11.72309,76.31052,23.2,78.0,19.6,33.6,Tropical Dry Deciduous,Human Activity,Satellite,16.29,19,Moderate,68,73.1,0,2,0.436
+FF-0168,2025-06-21,2025,6,Monsoon,Bandipur,Karnataka,11.7263,76.56784,23.6,64.3,38.8,22.1,Tropical Dry Deciduous,Human Activity,Satellite,2.56,12,High,110,83.4,0,45,0.576
+FF-0169,2025-09-28,2025,9,Monsoon,Wayanad,Kerala,11.63753,75.97506,20.9,70.5,30.3,31.8,Grassland,Agricultural Burning,Satellite,3.0,9,Moderate,68,87.4,0,2,0.446
+FF-0170,2025-09-15,2025,9,Monsoon,Western Ghats,Tamil Nadu,10.59565,77.10881,31.7,98.4,21.8,17.7,Mangrove,Campfire,Satellite,12.9,11,Moderate,90,87.2,0,2,0.472
+FF-0171,2024-01-20,2024,1,Winter,Nilgiri Biosphere,Tamil Nadu,11.37213,76.92912,33.8,68.8,3.9,8.3,Evergreen,Agricultural Burning,Patrol Team,0.79,11,Moderate,82,78.1,0,2,0.526
+FF-0172,2025-08-19,2025,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.66686,76.79653,28.4,64.9,3.9,21.2,Tropical Dry Deciduous,Agricultural Burning,Satellite,0.52,17,Moderate,90,75.5,0,0,0.378
+FF-0173,2025-09-23,2025,9,Monsoon,Kanha,Madhya Pradesh,22.1234,80.53059,34.9,83.3,14.7,26.3,Thorn Forest,Agricultural Burning,Patrol Team,1.21,13,Moderate,78,78.7,0,4,0.44
+FF-0174,2025-11-17,2025,11,Post-monsoon,Jim Corbett,Uttarakhand,29.59396,78.75744,28.1,64.0,9.7,0.3,Grassland,Lightning,Local Report,5.19,11,Moderate,61,74.8,0,3,0.48
+FF-0175,2024-01-20,2024,1,Winter,Jim Corbett,Uttarakhand,29.5511,78.51791,42.6,100.0,1.5,9.8,Evergreen,Human Activity,Patrol Team,0.62,9,Moderate,77,92.1,0,4,0.447
+FF-0176,2023-09-08,2023,9,Monsoon,Periyar,Kerala,9.36095,77.26993,25.0,83.0,7.1,18.6,Mangrove,Lightning,Patrol Team,3.28,12,Moderate,97,90.2,0,4,0.355
+FF-0177,2024-10-02,2024,10,Post-monsoon,Jim Corbett,Uttarakhand,29.52838,78.48323,30.1,60.7,14.2,5.4,Thorn Forest,Unknown,Forest Watchtower,4.16,12,Moderate,88,76.7,0,1,0.49
+FF-0178,2025-10-18,2025,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.594,76.83532,27.2,85.9,8.6,24.1,Grassland,Unknown,Sensor Network,11.92,13,Moderate,69,73.0,0,5,0.394
+FF-0179,2025-09-14,2025,9,Monsoon,Tadoba,Maharashtra,20.14819,79.32315,27.7,53.2,9.7,24.5,Grassland,Unknown,Patrol Team,6.63,14,Moderate,120,88.5,0,1,0.502
+FF-0180,2024-09-18,2024,9,Monsoon,Similipal,Odisha,21.62929,86.82965,29.8,80.3,3.9,23.6,Grassland,Human Activity,Local Report,3.2,10,Moderate,95,81.4,0,1,0.434
+FF-0181,2023-06-13,2023,6,Monsoon,Gir,Gujarat,21.09719,70.60198,25.5,100.0,7.1,23.1,Evergreen,Lightning,Satellite,6.06,13,Low,82,81.2,0,2,0.339
+FF-0182,2024-04-08,2024,4,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.25561,76.68152,42.0,46.4,14.7,11.3,Evergreen,Agricultural Burning,Satellite,6.28,13,High,98,83.0,0,67,0.673
+FF-0183,2025-02-21,2025,2,Winter,Periyar,Kerala,9.44523,77.52369,30.1,41.7,6.8,10.6,Grassland,Human Activity,Local Report,2.27,14,High,100,68.8,0,46,0.595
+FF-0184,2024-09-06,2024,9,Monsoon,Jim Corbett,Uttarakhand,29.48695,79.01445,27.2,73.5,20.6,23.1,Grassland,Human Activity,Satellite,1.04,13,Moderate,94,73.9,0,1,0.507
+FF-0185,2024-01-14,2024,1,Winter,Periyar,Kerala,9.2271,77.07468,24.9,86.4,9.9,6.4,Evergreen,Unknown,Local Report,1.34,11,Moderate,32,79.3,2,4,0.397
+FF-0186,2024-01-11,2024,1,Winter,Periyar,Kerala,9.24149,77.24031,30.9,71.3,12.9,6.0,Tropical Dry Deciduous,Agricultural Burning,Satellite,2.48,10,Moderate,85,68.4,0,1,0.473
+FF-0187,2023-03-07,2023,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.47713,76.70036,33.4,36.3,14.5,2.9,Grassland,Agricultural Burning,Local Report,4.48,21,High,89,70.0,0,48,0.66
+FF-0188,2023-11-13,2023,11,Post-monsoon,Wayanad,Kerala,11.61637,76.15075,26.3,56.4,14.1,1.3,Grassland,Human Activity,Satellite,0.47,12,Moderate,73,70.0,0,2,0.529
+FF-0189,2025-01-03,2025,1,Winter,Bandipur,Karnataka,11.28964,76.47424,25.5,58.2,4.5,8.4,Tropical Moist Deciduous,Lightning,Forest Watchtower,2.1,9,Moderate,74,75.0,1,4,0.468
+FF-0190,2023-09-22,2023,9,Monsoon,Nagarhole,Karnataka,12.12558,76.08392,38.0,84.1,5.2,18.9,Tropical Moist Deciduous,Human Activity,Forest Watchtower,2.89,15,Moderate,53,69.5,0,2,0.517
+FF-0191,2025-12-24,2025,12,Winter,Jim Corbett,Uttarakhand,29.54358,78.51235,27.8,84.7,1.5,4.4,Tropical Moist Deciduous,Human Activity,Patrol Team,3.76,22,Moderate,42,70.1,0,2,0.436
+FF-0192,2023-04-01,2023,4,Pre-monsoon,Sundarbans,West Bengal,21.78578,88.92432,27.4,62.7,7.7,9.2,Montane Forest,Lightning,Local Report,11.34,10,Moderate,103,70.6,0,3,0.521
+FF-0193,2024-10-07,2024,10,Post-monsoon,Sundarbans,West Bengal,21.68931,88.981,25.9,72.4,4.9,5.0,Mangrove,Human Activity,Sensor Network,2.75,16,Moderate,83,79.6,1,2,0.433
+FF-0194,2024-06-28,2024,6,Monsoon,Wayanad,Kerala,11.83373,76.05906,25.8,60.4,6.7,20.7,Evergreen,Campfire,Patrol Team,1.23,13,Moderate,35,75.8,0,1,0.489
+FF-0195,2025-07-02,2025,7,Monsoon,Gir,Gujarat,21.1559,70.50929,28.5,60.4,8.3,22.1,Tropical Moist Deciduous,Lightning,Patrol Team,0.6,11,Moderate,70,77.4,0,1,0.515
+FF-0196,2025-08-30,2025,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.78122,76.87794,28.5,86.5,10.8,19.8,Grassland,Human Activity,Local Report,3.52,10,Moderate,84,100.0,0,1,0.352
+FF-0197,2024-08-18,2024,8,Monsoon,Wayanad,Kerala,11.76723,76.16561,29.0,60.2,8.7,39.7,Evergreen,Human Activity,Patrol Team,1.2,20,Moderate,72,73.6,0,3,0.462
+FF-0198,2024-11-21,2024,11,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.46203,76.56932,26.1,62.8,8.6,21.3,Montane Forest,Agricultural Burning,Sensor Network,4.56,17,Moderate,94,83.2,0,2,0.4
+FF-0199,2025-02-05,2025,2,Winter,Wayanad,Kerala,11.67329,76.04949,30.5,70.3,12.2,20.8,Tropical Dry Deciduous,Human Activity,Patrol Team,8.1,28,Moderate,95,77.2,0,0,0.456
+FF-0200,2024-07-24,2024,7,Monsoon,Gir,Gujarat,21.23068,70.52988,22.1,63.1,9.4,23.1,Tropical Dry Deciduous,Human Activity,Forest Watchtower,0.56,14,Moderate,46,80.0,0,3,0.376
+FF-0201,2023-07-22,2023,7,Monsoon,Wayanad,Kerala,11.80001,75.91543,23.2,64.7,17.0,18.7,Evergreen,Lightning,Local Report,3.91,11,Moderate,73,81.4,0,2,0.451
+FF-0202,2024-04-14,2024,4,Pre-monsoon,Tadoba,Maharashtra,20.40028,79.20319,29.9,46.7,9.5,9.4,Tropical Dry Deciduous,Human Activity,Forest Watchtower,7.88,16,Moderate,70,76.0,0,0,0.484
+FF-0203,2023-09-22,2023,9,Monsoon,Periyar,Kerala,9.41659,77.42112,20.7,86.1,24.4,19.9,Evergreen,Agricultural Burning,Forest Watchtower,4.91,9,Moderate,45,84.5,0,3,0.375
+FF-0204,2024-05-23,2024,5,Pre-monsoon,Jim Corbett,Uttarakhand,29.43033,78.68489,38.8,62.9,4.4,10.3,Thorn Forest,Lightning,Patrol Team,0.46,13,Moderate,53,71.9,0,4,0.501
+FF-0205,2024-11-05,2024,11,Post-monsoon,Periyar,Kerala,9.42334,77.31524,32.1,74.5,7.6,2.6,Tropical Dry Deciduous,Human Activity,Patrol Team,1.34,11,Moderate,66,73.3,1,0,0.508
+FF-0206,2023-08-18,2023,8,Monsoon,Nagarhole,Karnataka,12.12653,76.0031,30.4,80.0,5.9,23.5,Tropical Moist Deciduous,Unknown,Forest Watchtower,0.84,15,Moderate,65,77.2,1,2,0.463
+FF-0207,2023-10-01,2023,10,Post-monsoon,Kanha,Madhya Pradesh,22.53974,80.64463,29.2,55.6,11.1,13.7,Grassland,Lightning,Forest Watchtower,4.98,17,High,90,56.5,0,40,0.573
+FF-0208,2025-06-20,2025,6,Monsoon,Gir,Gujarat,21.02659,70.77455,29.5,64.0,4.4,20.1,Thorn Forest,Agricultural Burning,Patrol Team,3.41,10,Moderate,94,92.0,0,2,0.443
+FF-0209,2024-02-18,2024,2,Winter,Nagarhole,Karnataka,11.93204,76.25715,21.1,58.8,2.9,4.1,Evergreen,Human Activity,Forest Watchtower,0.21,16,Moderate,79,97.1,0,1,0.371
+FF-0210,2023-08-06,2023,8,Monsoon,Kanha,Madhya Pradesh,22.35025,80.50373,29.9,84.7,5.1,16.8,Tropical Dry Deciduous,Agricultural Burning,Forest Watchtower,1.87,19,Moderate,89,77.2,0,2,0.447
+FF-0211,2025-02-20,2025,2,Winter,Nagarhole,Karnataka,11.96068,75.81694,29.8,70.7,3.1,2.7,Evergreen,Human Activity,Patrol Team,4.39,10,Moderate,68,86.5,0,1,0.408
+FF-0212,2025-02-24,2025,2,Winter,Jim Corbett,Uttarakhand,29.65233,78.55125,31.8,36.6,8.4,7.0,Tropical Moist Deciduous,Lightning,Patrol Team,4.24,17,High,101,78.4,1,47,0.644
+FF-0213,2025-06-24,2025,6,Monsoon,Kanha,Madhya Pradesh,21.93972,80.50426,27.7,68.0,10.8,23.9,Thorn Forest,Human Activity,Local Report,2.9,20,Moderate,75,63.8,0,0,0.473
+FF-0214,2025-04-12,2025,4,Pre-monsoon,Periyar,Kerala,9.36773,76.97517,29.6,64.9,2.5,7.0,Evergreen,Campfire,Local Report,1.82,14,Moderate,68,85.1,0,1,0.459
+FF-0215,2025-12-23,2025,12,Winter,Jim Corbett,Uttarakhand,29.37481,78.87384,22.3,67.1,7.3,0.4,Tropical Moist Deciduous,Human Activity,Satellite,0.83,10,Moderate,104,79.2,0,1,0.368
+FF-0216,2024-09-22,2024,9,Monsoon,Nagarhole,Karnataka,11.62874,76.01616,22.8,59.2,18.5,19.9,Thorn Forest,Unknown,Satellite,2.21,11,Moderate,31,98.9,0,1,0.412
+FF-0217,2023-11-11,2023,11,Post-monsoon,Western Ghats,Tamil Nadu,10.14582,77.62743,31.5,99.0,21.9,1.0,Evergreen,Unknown,Patrol Team,2.84,12,Moderate,46,75.6,0,2,0.499
+FF-0218,2025-08-03,2025,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.25358,76.38721,29.1,78.6,15.5,22.6,Tropical Dry Deciduous,Lightning,Patrol Team,4.09,17,Moderate,82,83.9,0,3,0.448
+FF-0219,2023-10-18,2023,10,Post-monsoon,Periyar,Kerala,9.46782,77.23665,22.8,71.4,0.9,0.6,Evergreen,Human Activity,Satellite,4.11,16,Moderate,69,76.7,0,0,0.419
+FF-0220,2023-11-15,2023,11,Post-monsoon,Tadoba,Maharashtra,20.37807,79.09697,24.6,71.6,10.1,1.5,Montane Forest,Lightning,Satellite,2.66,10,Moderate,50,97.1,0,1,0.457
+FF-0221,2025-06-27,2025,6,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.36079,76.61119,22.7,73.9,19.9,26.4,Grassland,Campfire,Satellite,5.76,10,Moderate,54,76.8,0,1,0.418
+FF-0222,2025-08-24,2025,8,Monsoon,Periyar,Kerala,9.33507,77.22546,24.4,68.8,6.7,19.0,Tropical Moist Deciduous,Agricultural Burning,Forest Watchtower,1.48,8,Moderate,53,92.9,0,2,0.367
+FF-0223,2024-01-07,2024,1,Winter,Jim Corbett,Uttarakhand,29.49089,78.38143,22.9,95.7,3.6,15.9,Grassland,Agricultural Burning,Satellite,0.51,12,Low,80,89.2,0,1,0.299
+FF-0224,2025-03-10,2025,3,Pre-monsoon,Bandipur,Karnataka,11.86787,76.64263,27.6,62.0,18.9,7.2,Tropical Moist Deciduous,Human Activity,Forest Watchtower,4.0,10,Moderate,101,81.6,0,2,0.491
+FF-0225,2025-10-07,2025,10,Post-monsoon,Jim Corbett,Uttarakhand,29.34385,79.14252,25.3,77.5,20.7,4.1,Evergreen,Unknown,Patrol Team,3.03,24,Moderate,109,73.5,0,2,0.501
+FF-0226,2025-05-25,2025,5,Pre-monsoon,Nagarhole,Karnataka,11.85431,76.01838,34.4,56.1,9.4,9.8,Evergreen,Human Activity,Satellite,4.87,12,High,56,69.2,0,38,0.573
+FF-0227,2023-01-06,2023,1,Winter,Kanha,Madhya Pradesh,22.38937,80.64677,23.7,52.0,3.6,4.5,Tropical Moist Deciduous,Human Activity,Patrol Team,0.9,9,Moderate,54,58.3,0,0,0.484
+FF-0228,2024-12-29,2024,12,Winter,Similipal,Odisha,21.86455,86.58449,28.5,83.9,2.2,9.9,Tropical Moist Deciduous,Human Activity,Local Report,9.65,8,Moderate,45,91.6,0,1,0.384
+FF-0229,2023-07-06,2023,7,Monsoon,Similipal,Odisha,22.0036,86.37049,30.8,67.2,11.8,18.5,Montane Forest,Lightning,Patrol Team,4.62,14,Moderate,100,73.5,0,1,0.467
+FF-0230,2025-07-16,2025,7,Monsoon,Bandipur,Karnataka,11.69782,76.49543,20.1,83.0,5.9,28.4,Tropical Moist Deciduous,Unknown,Sensor Network,1.5,10,Moderate,75,92.9,0,2,0.342
+FF-0231,2023-03-15,2023,3,Pre-monsoon,Periyar,Kerala,9.61227,76.79037,33.1,25.0,9.0,0.0,Thorn Forest,Unknown,Satellite,1.78,14,High,94,73.1,0,55,0.668
+FF-0232,2025-12-24,2025,12,Winter,Tadoba,Maharashtra,20.03439,79.41538,33.6,37.4,8.3,1.5,Grassland,Human Activity,Forest Watchtower,9.16,15,High,94,80.6,0,49,0.636
+FF-0233,2023-07-14,2023,7,Monsoon,Western Ghats,Tamil Nadu,10.29807,77.17963,24.1,83.5,4.9,17.8,Evergreen,Lightning,Patrol Team,0.77,9,Moderate,67,90.0,0,0,0.353
+FF-0234,2024-04-05,2024,4,Pre-monsoon,Kanha,Madhya Pradesh,22.26629,80.41772,31.4,36.7,2.1,0.8,Tropical Dry Deciduous,Unknown,Forest Watchtower,23.48,17,High,67,51.4,0,42,0.606
+FF-0235,2023-09-14,2023,9,Monsoon,Periyar,Kerala,9.30546,77.22279,31.2,51.2,6.9,23.2,Tropical Dry Deciduous,Lightning,Satellite,1.53,10,Moderate,87,83.8,0,0,0.476
+FF-0236,2025-06-11,2025,6,Monsoon,Jim Corbett,Uttarakhand,29.24984,78.69494,24.6,86.6,10.4,21.3,Tropical Dry Deciduous,Human Activity,Forest Watchtower,8.57,11,Moderate,65,79.8,0,1,0.357
+FF-0237,2024-03-07,2024,3,Pre-monsoon,Sundarbans,West Bengal,22.00972,88.80488,39.0,77.7,10.7,8.0,Evergreen,Lightning,Patrol Team,2.84,15,High,65,81.9,0,37,0.591
+FF-0238,2025-03-27,2025,3,Pre-monsoon,Periyar,Kerala,9.44385,77.30913,35.9,67.5,5.6,11.9,Montane Forest,Agricultural Burning,Forest Watchtower,9.91,13,Moderate,88,82.2,0,2,0.477
+FF-0239,2023-03-15,2023,3,Pre-monsoon,Nagarhole,Karnataka,11.83644,75.85909,32.5,44.4,20.4,0.0,Mangrove,Campfire,Satellite,2.18,18,High,86,72.8,0,51,0.683
+FF-0240,2024-05-11,2024,5,Pre-monsoon,Sundarbans,West Bengal,21.88461,89.08852,36.2,48.1,3.9,13.2,Tropical Dry Deciduous,Agricultural Burning,Satellite,3.07,14,Moderate,87,72.4,0,4,0.548
+FF-0241,2025-09-25,2025,9,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.58048,76.44842,27.4,91.4,17.6,20.4,Tropical Moist Deciduous,Human Activity,Local Report,4.11,14,Moderate,68,73.2,0,2,0.377
+FF-0242,2025-10-12,2025,10,Post-monsoon,Sundarbans,West Bengal,21.53508,88.78071,33.6,81.7,10.2,2.4,Tropical Dry Deciduous,Agricultural Burning,Satellite,4.25,12,Moderate,92,75.5,0,1,0.448
+FF-0243,2023-08-17,2023,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.16054,77.04613,23.5,74.2,6.9,16.3,Montane Forest,Human Activity,Patrol Team,5.85,17,Moderate,78,63.1,0,0,0.423
+FF-0244,2024-03-08,2024,3,Pre-monsoon,Sundarbans,West Bengal,21.75234,89.10292,34.2,48.5,12.9,7.2,Tropical Dry Deciduous,Unknown,Patrol Team,2.41,16,High,74,65.9,0,52,0.634
+FF-0245,2024-03-24,2024,3,Pre-monsoon,Sundarbans,West Bengal,22.13379,88.91757,33.7,52.2,8.0,6.8,Tropical Dry Deciduous,Lightning,Satellite,3.16,19,Moderate,88,61.0,0,0,0.536
+FF-0246,2024-09-11,2024,9,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.44521,76.5307,29.2,86.8,2.9,17.5,Grassland,Human Activity,Satellite,5.45,9,Low,73,72.8,0,2,0.334
+FF-0247,2024-08-11,2024,8,Monsoon,Kanha,Madhya Pradesh,22.42277,80.50473,21.4,77.1,3.7,17.7,Evergreen,Lightning,Patrol Team,0.97,7,Low,74,87.1,0,2,0.305
+FF-0248,2023-04-27,2023,4,Pre-monsoon,Wayanad,Kerala,11.51757,76.11319,38.6,46.3,7.6,8.7,Tropical Dry Deciduous,Human Activity,Patrol Team,5.34,17,High,105,76.1,0,30,0.585
+FF-0249,2025-04-15,2025,4,Pre-monsoon,Kanha,Madhya Pradesh,22.12087,80.60675,36.1,67.3,6.2,5.5,Grassland,Human Activity,Satellite,2.6,14,High,73,73.7,0,45,0.565
+FF-0250,2023-09-05,2023,9,Monsoon,Western Ghats,Tamil Nadu,10.37165,77.18364,20.1,95.9,17.3,19.9,Tropical Dry Deciduous,Agricultural Burning,Satellite,2.1,6,Low,77,82.7,1,2,0.303
+FF-0251,2023-12-12,2023,12,Winter,Bandipur,Karnataka,11.70932,76.59445,34.4,72.7,6.0,8.2,Tropical Dry Deciduous,Unknown,Forest Watchtower,2.71,11,Moderate,46,71.1,0,3,0.466
+FF-0252,2025-07-10,2025,7,Monsoon,Periyar,Kerala,9.5878,77.16141,36.1,100.0,5.8,22.8,Tropical Dry Deciduous,Unknown,Forest Watchtower,1.02,12,Moderate,67,79.4,0,5,0.361
+FF-0253,2025-01-25,2025,1,Winter,Bandipur,Karnataka,11.66997,76.34044,33.5,60.6,5.2,2.0,Tropical Moist Deciduous,Lightning,Forest Watchtower,2.39,14,Moderate,78,68.2,0,0,0.542
+FF-0254,2024-03-10,2024,3,Pre-monsoon,Nagarhole,Karnataka,12.0445,76.00703,40.4,70.7,4.9,9.3,Montane Forest,Human Activity,Forest Watchtower,3.65,13,High,111,73.4,0,44,0.579
+FF-0255,2025-09-27,2025,9,Monsoon,Sundarbans,West Bengal,21.9253,89.06463,26.4,86.6,5.0,25.6,Evergreen,Lightning,Forest Watchtower,1.87,11,Moderate,67,69.9,0,3,0.37
+FF-0256,2024-03-07,2024,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.52444,76.4537,26.5,93.8,3.3,3.4,Thorn Forest,Lightning,Patrol Team,7.74,11,Moderate,81,87.8,0,2,0.368
+FF-0257,2024-09-11,2024,9,Monsoon,Jim Corbett,Uttarakhand,29.62912,78.76588,17.7,62.3,10.5,26.7,Tropical Moist Deciduous,Human Activity,Patrol Team,5.33,8,Moderate,41,77.3,0,1,0.416
+FF-0258,2023-09-27,2023,9,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.14082,76.55244,27.1,69.3,8.5,38.5,Grassland,Unknown,Patrol Team,2.79,16,Moderate,66,81.8,0,2,0.4
+FF-0259,2023-07-20,2023,7,Monsoon,Bandipur,Karnataka,11.34044,76.62004,23.3,84.9,8.2,17.7,Montane Forest,Campfire,Local Report,1.14,17,Moderate,57,85.5,0,3,0.399
+FF-0260,2024-06-22,2024,6,Monsoon,Sundarbans,West Bengal,22.06028,88.83005,21.9,84.6,2.4,20.1,Tropical Moist Deciduous,Human Activity,Local Report,0.92,8,Low,111,87.6,0,0,0.326
+FF-0261,2024-09-09,2024,9,Monsoon,Kanha,Madhya Pradesh,22.49004,80.86593,25.7,100.0,12.2,20.3,Montane Forest,Unknown,Forest Watchtower,9.45,19,Low,53,87.2,0,0,0.304
+FF-0262,2025-06-02,2025,6,Monsoon,Bandipur,Karnataka,11.5367,76.69118,28.8,69.6,13.0,26.5,Grassland,Agricultural Burning,Patrol Team,1.15,13,Moderate,81,60.2,0,1,0.498
+FF-0263,2024-03-04,2024,3,Pre-monsoon,Nagarhole,Karnataka,11.70243,75.86388,27.5,60.7,23.7,0.8,Thorn Forest,Human Activity,Satellite,3.56,13,High,88,70.0,0,51,0.578
+FF-0264,2025-09-08,2025,9,Monsoon,Gir,Gujarat,21.11585,70.92082,24.0,95.3,12.5,26.0,Tropical Moist Deciduous,Agricultural Burning,Local Report,2.72,9,Moderate,40,92.1,0,5,0.361
+FF-0265,2024-10-27,2024,10,Post-monsoon,Gir,Gujarat,21.24893,70.66056,35.8,75.9,26.7,3.2,Grassland,Human Activity,Sensor Network,2.49,24,High,76,72.9,0,43,0.581
+FF-0266,2023-03-18,2023,3,Pre-monsoon,Similipal,Odisha,22.18762,86.29614,29.2,34.5,5.5,0.0,Evergreen,Human Activity,Patrol Team,1.31,12,Moderate,91,89.9,0,46,0.557
+FF-0267,2025-03-21,2025,3,Pre-monsoon,Periyar,Kerala,9.58261,77.25649,37.9,67.7,24.5,3.7,Montane Forest,Campfire,Satellite,2.14,17,High,96,81.6,0,56,0.695
+FF-0268,2024-09-22,2024,9,Monsoon,Wayanad,Kerala,11.64053,76.01149,23.8,96.2,12.8,19.1,Montane Forest,Agricultural Burning,Patrol Team,1.14,11,Low,24,86.4,0,3,0.317
+FF-0269,2024-03-02,2024,3,Pre-monsoon,Sundarbans,West Bengal,21.7571,89.06071,36.5,56.4,11.7,4.3,Tropical Moist Deciduous,Human Activity,Forest Watchtower,1.62,17,Moderate,72,71.4,0,5,0.54
+FF-0270,2024-05-27,2024,5,Pre-monsoon,Sundarbans,West Bengal,21.90183,88.76059,38.9,50.9,8.1,5.7,Montane Forest,Lightning,Forest Watchtower,10.22,15,High,105,65.0,0,45,0.589
+FF-0271,2023-11-27,2023,11,Post-monsoon,Nagarhole,Karnataka,11.95212,75.98859,32.3,69.2,6.9,0.7,Mangrove,Campfire,Forest Watchtower,2.73,22,Moderate,90,68.6,0,2,0.505
+FF-0272,2024-11-04,2024,11,Post-monsoon,Western Ghats,Tamil Nadu,10.13759,77.08185,33.1,64.9,5.9,3.5,Evergreen,Lightning,Satellite,1.96,24,Moderate,105,66.5,0,43,0.554
+FF-0273,2024-09-13,2024,9,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.7278,76.59819,20.8,88.0,25.0,21.7,Tropical Dry Deciduous,Unknown,Patrol Team,2.5,18,Moderate,56,72.5,0,0,0.42
+FF-0274,2024-05-05,2024,5,Pre-monsoon,Gir,Gujarat,21.38563,70.99785,39.0,48.4,7.9,8.7,Tropical Dry Deciduous,Unknown,Satellite,6.97,17,High,115,61.6,0,37,0.67
+FF-0275,2023-11-09,2023,11,Post-monsoon,Periyar,Kerala,9.68177,77.31318,25.2,54.1,12.9,9.7,Tropical Dry Deciduous,Human Activity,Forest Watchtower,1.98,17,Moderate,78,78.4,0,0,0.489
+FF-0276,2024-03-12,2024,3,Pre-monsoon,Periyar,Kerala,9.35266,77.50779,35.2,33.3,14.8,0.2,Tropical Dry Deciduous,Agricultural Burning,Sensor Network,8.32,15,High,120,83.7,0,60,0.66
+FF-0277,2024-06-29,2024,6,Monsoon,Periyar,Kerala,9.6368,77.60818,27.2,68.5,14.7,20.5,Montane Forest,Agricultural Burning,Local Report,0.8,17,Moderate,75,84.6,0,1,0.434
+FF-0278,2024-06-01,2024,6,Monsoon,Kanha,Madhya Pradesh,22.40234,80.41447,28.2,82.1,10.5,24.0,Tropical Dry Deciduous,Unknown,Satellite,5.63,9,Moderate,33,80.1,0,0,0.378
+FF-0279,2023-12-05,2023,12,Winter,Western Ghats,Tamil Nadu,10.37081,77.21268,30.5,65.6,24.2,4.2,Grassland,Lightning,Local Report,3.43,13,High,103,80.9,0,48,0.61
+FF-0280,2024-09-29,2024,9,Monsoon,Western Ghats,Tamil Nadu,10.49995,76.98828,22.2,82.0,12.3,18.4,Grassland,Human Activity,Local Report,1.76,8,Low,58,87.9,0,3,0.322
+FF-0281,2023-09-06,2023,9,Monsoon,Nagarhole,Karnataka,12.10166,75.96003,19.9,86.0,5.8,21.1,Grassland,Human Activity,Satellite,0.91,11,Low,56,85.2,0,1,0.271
+FF-0282,2024-07-03,2024,7,Monsoon,Periyar,Kerala,9.6184,77.08659,29.9,70.2,7.1,23.4,Tropical Dry Deciduous,Agricultural Burning,Local Report,0.94,20,Moderate,53,73.0,0,4,0.491
+FF-0283,2023-05-14,2023,5,Pre-monsoon,Jim Corbett,Uttarakhand,29.60191,78.60971,34.8,68.5,2.5,0.0,Evergreen,Unknown,Patrol Team,0.69,22,Moderate,110,70.3,0,2,0.52
+FF-0284,2024-06-01,2024,6,Monsoon,Periyar,Kerala,9.55453,77.01066,31.2,75.3,11.3,24.8,Grassland,Unknown,Satellite,1.16,8,Moderate,63,87.3,0,3,0.408
+FF-0285,2025-05-09,2025,5,Pre-monsoon,Periyar,Kerala,9.21462,77.17403,33.8,41.9,13.7,4.0,Evergreen,Agricultural Burning,Satellite,6.21,20,High,119,69.4,0,50,0.649
+FF-0286,2025-06-15,2025,6,Monsoon,Gir,Gujarat,21.11338,70.58099,19.7,85.8,14.4,25.1,Tropical Dry Deciduous,Human Activity,Forest Watchtower,0.84,8,Low,60,78.7,0,1,0.339
+FF-0287,2025-01-31,2025,1,Winter,Nilgiri Biosphere,Tamil Nadu,11.31101,76.85158,33.3,40.3,12.8,5.0,Grassland,Human Activity,Patrol Team,1.04,30,High,75,57.2,0,60,0.661
+FF-0288,2025-03-28,2025,3,Pre-monsoon,Similipal,Odisha,21.69523,86.2348,32.3,36.9,8.1,18.0,Tropical Dry Deciduous,Unknown,Satellite,1.54,12,High,110,76.2,0,46,0.594
+FF-0289,2023-03-14,2023,3,Pre-monsoon,Similipal,Odisha,22.16909,86.90572,35.5,61.7,9.2,5.3,Evergreen,Agricultural Burning,Satellite,1.97,10,Moderate,78,81.3,0,4,0.502
+FF-0290,2024-01-10,2024,1,Winter,Periyar,Kerala,9.77664,77.11875,26.1,41.7,9.2,10.0,Tropical Moist Deciduous,Unknown,Sensor Network,1.95,17,Moderate,77,73.0,1,5,0.482
+FF-0291,2024-12-18,2024,12,Winter,Kanha,Madhya Pradesh,22.51748,80.61296,36.4,81.6,17.3,8.8,Tropical Moist Deciduous,Human Activity,Local Report,2.56,12,Moderate,58,67.2,0,1,0.523
+FF-0292,2025-05-27,2025,5,Pre-monsoon,Nagarhole,Karnataka,12.04083,75.86684,30.1,69.2,1.7,2.5,Thorn Forest,Lightning,Forest Watchtower,6.24,12,Moderate,70,87.9,0,2,0.479
+FF-0293,2024-09-30,2024,9,Monsoon,Gir,Gujarat,21.3161,71.1071,24.5,73.8,6.5,22.7,Tropical Dry Deciduous,Unknown,Satellite,6.06,9,Moderate,78,90.9,0,3,0.382
+FF-0294,2025-07-24,2025,7,Monsoon,Nagarhole,Karnataka,12.00193,76.30151,26.5,83.1,4.1,18.9,Montane Forest,Human Activity,Satellite,11.95,10,Moderate,48,65.7,0,1,0.398
+FF-0295,2023-10-27,2023,10,Post-monsoon,Similipal,Odisha,21.93245,86.45344,24.1,81.7,30.4,18.9,Mangrove,Human Activity,Sensor Network,0.66,17,Moderate,69,86.1,0,1,0.486
+FF-0296,2023-06-18,2023,6,Monsoon,Similipal,Odisha,21.72504,86.15758,27.5,72.5,19.6,24.0,Tropical Moist Deciduous,Agricultural Burning,Satellite,1.2,10,Moderate,69,77.8,0,4,0.457
+FF-0297,2023-04-05,2023,4,Pre-monsoon,Tadoba,Maharashtra,20.26352,79.33792,41.3,60.1,6.7,0.3,Tropical Moist Deciduous,Agricultural Burning,Satellite,5.73,14,High,86,75.3,0,44,0.569
+FF-0298,2024-09-30,2024,9,Monsoon,Periyar,Kerala,9.50966,76.99814,23.8,69.6,3.0,31.7,Tropical Dry Deciduous,Campfire,Local Report,1.24,7,Low,92,94.9,0,3,0.317
+FF-0299,2024-12-30,2024,12,Winter,Nagarhole,Karnataka,11.79158,76.36322,30.8,59.3,3.7,4.7,Montane Forest,Unknown,Satellite,5.45,13,Moderate,73,90.5,0,2,0.483
+FF-0300,2023-11-09,2023,11,Post-monsoon,Western Ghats,Tamil Nadu,10.29181,77.34566,16.6,54.8,17.2,11.2,Grassland,Agricultural Burning,Forest Watchtower,2.81,11,Moderate,62,87.8,0,2,0.436
+FF-0301,2025-05-08,2025,5,Pre-monsoon,Wayanad,Kerala,11.68724,76.11718,33.8,52.8,2.4,0.0,Tropical Dry Deciduous,Human Activity,Patrol Team,12.85,17,High,136,73.4,0,59,0.596
+FF-0302,2025-03-21,2025,3,Pre-monsoon,Kanha,Madhya Pradesh,22.58761,80.16145,32.6,64.2,9.3,11.5,Evergreen,Lightning,Forest Watchtower,6.39,15,Moderate,71,65.2,0,2,0.486
+FF-0303,2024-01-30,2024,1,Winter,Western Ghats,Tamil Nadu,10.44307,77.02299,25.3,63.4,15.4,7.7,Tropical Dry Deciduous,Unknown,Patrol Team,6.79,21,Moderate,77,56.6,0,2,0.506
+FF-0304,2023-09-19,2023,9,Monsoon,Tadoba,Maharashtra,20.20183,79.4238,30.9,61.2,3.4,18.0,Evergreen,Lightning,Patrol Team,1.63,25,Moderate,68,80.9,1,1,0.426
+FF-0305,2025-03-24,2025,3,Pre-monsoon,Similipal,Odisha,21.93981,86.61832,32.5,32.8,9.2,5.6,Evergreen,Campfire,Forest Watchtower,3.38,14,High,85,82.1,1,43,0.637
+FF-0306,2025-01-05,2025,1,Winter,Nilgiri Biosphere,Tamil Nadu,11.40707,76.89965,28.2,71.5,6.8,17.5,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,1.59,14,Moderate,71,74.1,0,3,0.374
+FF-0307,2023-07-07,2023,7,Monsoon,Nagarhole,Karnataka,11.96753,75.81344,24.3,100.0,6.2,19.0,Thorn Forest,Human Activity,Patrol Team,0.52,9,Low,83,82.2,0,2,0.33
+FF-0308,2023-10-07,2023,10,Post-monsoon,Similipal,Odisha,21.72681,86.45428,20.4,71.5,5.4,2.9,Tropical Moist Deciduous,Lightning,Local Report,6.57,12,Low,74,78.5,0,1,0.333
+FF-0309,2024-06-16,2024,6,Monsoon,Nagarhole,Karnataka,11.97583,76.28279,20.9,73.6,16.3,20.4,Evergreen,Agricultural Burning,Local Report,3.78,13,Moderate,89,76.8,0,1,0.362
+FF-0310,2024-07-14,2024,7,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.28062,76.4015,30.3,89.7,22.2,21.7,Grassland,Human Activity,Forest Watchtower,1.95,15,Moderate,97,84.9,0,1,0.483
+FF-0311,2023-07-01,2023,7,Monsoon,Sundarbans,West Bengal,21.69995,88.89858,16.5,75.6,7.6,27.8,Montane Forest,Human Activity,Forest Watchtower,5.09,12,Low,67,86.5,0,2,0.281
+FF-0312,2025-11-05,2025,11,Post-monsoon,Jim Corbett,Uttarakhand,29.5818,78.84929,25.6,60.7,11.8,8.1,Evergreen,Agricultural Burning,Patrol Team,1.5,13,Moderate,84,75.7,0,0,0.473
+FF-0313,2024-03-01,2024,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.4626,76.64586,32.2,34.6,9.4,2.4,Montane Forest,Human Activity,Forest Watchtower,0.69,14,High,106,94.4,0,47,0.586
+FF-0314,2024-02-22,2024,2,Winter,Nagarhole,Karnataka,11.71413,75.76661,36.8,85.7,1.9,7.0,Tropical Moist Deciduous,Human Activity,Satellite,6.74,14,Moderate,61,63.9,0,0,0.523
+FF-0315,2023-03-08,2023,3,Pre-monsoon,Bandipur,Karnataka,11.68037,76.54137,37.5,12.5,7.4,17.7,Mangrove,Agricultural Burning,Satellite,1.31,28,High,137,68.7,0,50,0.661
+FF-0316,2025-08-17,2025,8,Monsoon,Sundarbans,West Bengal,22.05931,88.84109,23.5,90.2,1.6,25.3,Tropical Dry Deciduous,Unknown,Satellite,1.49,8,Low,55,77.5,1,2,0.302
+FF-0317,2023-09-15,2023,9,Monsoon,Jim Corbett,Uttarakhand,29.66948,78.77335,31.9,72.5,6.4,20.9,Grassland,Lightning,Patrol Team,3.24,12,Moderate,73,75.8,0,3,0.5
+FF-0318,2025-12-17,2025,12,Winter,Jim Corbett,Uttarakhand,29.66413,78.69858,25.7,60.3,9.0,4.3,Tropical Dry Deciduous,Campfire,Patrol Team,3.7,11,Moderate,57,79.1,0,0,0.491
+FF-0319,2024-06-27,2024,6,Monsoon,Gir,Gujarat,21.10623,70.72026,30.5,100.0,14.6,22.6,Montane Forest,Unknown,Patrol Team,4.37,8,Moderate,50,89.6,1,3,0.388
+FF-0320,2025-08-16,2025,8,Monsoon,Kanha,Madhya Pradesh,22.16479,80.59285,19.9,69.0,11.1,27.6,Montane Forest,Lightning,Forest Watchtower,3.35,11,Moderate,87,80.0,0,1,0.371
+FF-0321,2023-07-16,2023,7,Monsoon,Nagarhole,Karnataka,11.82661,76.17964,30.8,69.5,16.5,18.5,Tropical Moist Deciduous,Human Activity,Satellite,3.99,15,Moderate,117,74.2,0,2,0.462
+FF-0322,2023-07-01,2023,7,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.45514,76.6452,24.2,77.2,4.8,26.4,Evergreen,Unknown,Patrol Team,1.02,8,Moderate,59,81.6,0,3,0.359
+FF-0323,2025-05-28,2025,5,Pre-monsoon,Sundarbans,West Bengal,21.96068,88.82626,29.4,53.8,20.5,2.8,Evergreen,Human Activity,Satellite,4.14,21,High,92,61.7,0,39,0.578
+FF-0324,2025-06-17,2025,6,Monsoon,Tadoba,Maharashtra,20.40597,79.31662,25.0,72.8,22.2,21.5,Tropical Moist Deciduous,Unknown,Patrol Team,0.76,15,Moderate,84,80.7,0,2,0.502
+FF-0325,2024-08-18,2024,8,Monsoon,Gir,Gujarat,21.276,70.45424,27.2,57.0,1.5,48.1,Grassland,Agricultural Burning,Local Report,8.76,16,Moderate,92,80.1,0,2,0.428
+FF-0326,2023-02-05,2023,2,Winter,Bandipur,Karnataka,11.67884,76.68587,26.8,53.9,2.3,9.5,Grassland,Lightning,Satellite,0.69,13,Moderate,113,82.9,0,3,0.42
+FF-0327,2025-10-31,2025,10,Post-monsoon,Bandipur,Karnataka,11.50093,76.5999,31.5,83.9,8.9,3.2,Evergreen,Agricultural Burning,Satellite,1.68,11,Moderate,100,80.0,1,3,0.414
+FF-0328,2024-03-07,2024,3,Pre-monsoon,Western Ghats,Tamil Nadu,10.24894,77.20714,31.4,49.0,6.1,5.7,Tropical Dry Deciduous,Agricultural Burning,Local Report,0.94,13,Moderate,77,74.2,1,3,0.526
+FF-0329,2025-10-22,2025,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.43476,76.87293,31.8,72.3,6.8,12.1,Montane Forest,Unknown,Forest Watchtower,1.39,14,Moderate,87,86.4,0,3,0.478
+FF-0330,2025-08-12,2025,8,Monsoon,Similipal,Odisha,21.86767,86.04849,28.0,75.3,11.0,25.6,Tropical Dry Deciduous,Human Activity,Patrol Team,2.27,13,Moderate,84,87.8,0,1,0.414
+FF-0331,2025-07-22,2025,7,Monsoon,Similipal,Odisha,21.80754,86.04471,25.7,69.8,16.9,16.2,Grassland,Unknown,Local Report,1.67,11,Moderate,78,89.5,0,1,0.483
+FF-0332,2025-01-24,2025,1,Winter,Wayanad,Kerala,11.74046,76.14928,27.0,89.5,4.6,5.3,Tropical Dry Deciduous,Human Activity,Forest Watchtower,5.53,10,Moderate,51,85.2,0,1,0.381
+FF-0333,2025-01-07,2025,1,Winter,Nagarhole,Karnataka,11.91937,76.09872,29.7,63.4,18.8,8.0,Tropical Dry Deciduous,Unknown,Patrol Team,4.09,25,High,72,78.6,0,54,0.598
+FF-0334,2024-08-06,2024,8,Monsoon,Kanha,Madhya Pradesh,22.19951,80.63063,28.5,72.8,5.3,23.4,Tropical Dry Deciduous,Unknown,Satellite,1.48,12,Moderate,93,77.1,0,0,0.404
+FF-0335,2023-01-28,2023,1,Winter,Periyar,Kerala,9.54983,77.11682,38.3,81.3,33.0,3.5,Tropical Moist Deciduous,Lightning,Satellite,3.09,16,High,110,69.8,0,43,0.61
+FF-0336,2024-03-01,2024,3,Pre-monsoon,Kanha,Madhya Pradesh,22.23568,80.71958,38.2,37.9,20.6,7.8,Grassland,Human Activity,Sensor Network,11.48,24,High,90,74.8,0,56,0.684
+FF-0337,2025-03-11,2025,3,Pre-monsoon,Gir,Gujarat,21.13906,70.96787,38.4,39.7,5.8,11.6,Evergreen,Unknown,Patrol Team,7.92,17,High,94,76.9,0,60,0.635
+FF-0338,2025-06-09,2025,6,Monsoon,Nagarhole,Karnataka,12.04371,76.18712,39.9,79.1,3.0,16.7,Grassland,Unknown,Local Report,0.98,13,Moderate,99,75.1,0,3,0.477
+FF-0339,2024-09-05,2024,9,Monsoon,Bandipur,Karnataka,11.51769,76.55305,28.3,79.0,5.7,16.6,Grassland,Human Activity,Patrol Team,1.17,15,Moderate,40,71.5,0,1,0.381
+FF-0340,2025-02-16,2025,2,Winter,Gir,Gujarat,21.023,70.42062,31.2,69.6,5.1,7.6,Tropical Dry Deciduous,Lightning,Local Report,3.68,15,Moderate,68,75.7,0,1,0.454
+FF-0341,2023-01-24,2023,1,Winter,Sundarbans,West Bengal,22.13004,89.03846,32.2,95.3,13.5,10.4,Tropical Dry Deciduous,Unknown,Satellite,3.52,14,Moderate,114,71.4,0,1,0.481
+FF-0342,2024-05-28,2024,5,Pre-monsoon,Nagarhole,Karnataka,11.81407,76.31991,29.5,52.7,1.5,1.0,Grassland,Human Activity,Satellite,1.24,15,Moderate,88,87.9,1,1,0.548
+FF-0343,2024-07-10,2024,7,Monsoon,Sundarbans,West Bengal,21.56134,89.01602,24.0,45.7,2.3,21.4,Grassland,Agricultural Burning,Forest Watchtower,4.26,11,Moderate,53,86.6,0,2,0.415
+FF-0344,2025-09-05,2025,9,Monsoon,Similipal,Odisha,21.6021,86.24166,23.7,83.6,13.2,23.5,Evergreen,Lightning,Satellite,0.9,8,Moderate,70,78.3,0,3,0.343
+FF-0345,2023-12-07,2023,12,Winter,Tadoba,Maharashtra,20.20466,79.42128,31.9,66.5,4.9,4.1,Tropical Moist Deciduous,Human Activity,Satellite,7.95,15,Moderate,97,67.9,0,3,0.484
+FF-0346,2023-09-10,2023,9,Monsoon,Nagarhole,Karnataka,12.00495,76.2549,25.2,79.6,6.5,28.4,Thorn Forest,Unknown,Patrol Team,3.03,7,Moderate,22,78.6,0,2,0.345
+FF-0347,2024-01-22,2024,1,Winter,Gir,Gujarat,21.08118,71.08059,29.6,69.4,15.4,7.1,Tropical Dry Deciduous,Human Activity,Satellite,1.21,12,High,88,70.1,0,34,0.571
+FF-0348,2023-07-06,2023,7,Monsoon,Gir,Gujarat,21.29427,70.6423,30.9,78.6,17.4,18.6,Grassland,Campfire,Local Report,1.69,12,Moderate,72,76.2,0,0,0.488
+FF-0349,2024-09-04,2024,9,Monsoon,Bandipur,Karnataka,11.27235,76.55924,29.9,78.3,19.9,18.9,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,1.77,13,Moderate,51,85.0,0,3,0.517
+FF-0350,2024-12-05,2024,12,Winter,Nilgiri Biosphere,Tamil Nadu,11.46335,76.83451,28.3,74.6,14.5,5.5,Grassland,Lightning,Sensor Network,3.35,17,Moderate,83,65.9,0,2,0.533
+FF-0351,2025-05-28,2025,5,Pre-monsoon,Similipal,Odisha,22.14983,86.41033,31.0,40.4,7.9,1.8,Tropical Moist Deciduous,Lightning,Satellite,2.79,19,High,84,89.1,0,45,0.59
+FF-0352,2025-12-01,2025,12,Winter,Western Ghats,Tamil Nadu,10.11956,76.99888,34.1,52.7,7.4,0.5,Grassland,Lightning,Sensor Network,1.12,25,Moderate,82,62.3,0,0,0.541
+FF-0353,2023-03-22,2023,3,Pre-monsoon,Nagarhole,Karnataka,11.93923,76.17463,37.5,90.3,6.8,4.6,Tropical Dry Deciduous,Unknown,Patrol Team,0.84,10,Moderate,74,66.6,0,2,0.504
+FF-0354,2023-09-28,2023,9,Monsoon,Periyar,Kerala,9.37954,77.30416,18.8,69.0,3.4,19.0,Evergreen,Agricultural Burning,Forest Watchtower,2.9,12,Low,47,97.0,0,3,0.317
+FF-0355,2023-11-26,2023,11,Post-monsoon,Gir,Gujarat,20.9569,70.81583,27.6,67.4,4.4,3.6,Tropical Dry Deciduous,Unknown,Satellite,3.03,14,Moderate,49,88.9,0,2,0.438
+FF-0356,2023-10-01,2023,10,Post-monsoon,Gir,Gujarat,21.0478,70.83953,29.7,45.1,18.3,1.7,Grassland,Lightning,Satellite,4.24,17,High,79,67.7,0,57,0.661
+FF-0357,2025-06-25,2025,6,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.6284,76.65343,29.5,80.6,5.3,33.8,Tropical Dry Deciduous,Human Activity,Local Report,2.51,13,Moderate,84,84.6,0,1,0.36
+FF-0358,2023-06-02,2023,6,Monsoon,Tadoba,Maharashtra,20.49398,79.56609,30.1,65.9,3.5,25.1,Tropical Dry Deciduous,Human Activity,Local Report,1.39,15,Moderate,79,81.4,0,1,0.433
+FF-0359,2023-02-02,2023,2,Winter,Nilgiri Biosphere,Tamil Nadu,11.34625,76.53788,30.3,59.8,19.3,21.2,Grassland,Unknown,Satellite,3.19,20,Moderate,78,74.5,0,4,0.502
+FF-0360,2025-08-01,2025,8,Monsoon,Jim Corbett,Uttarakhand,29.80481,78.69428,28.6,93.6,10.5,20.1,Tropical Dry Deciduous,Lightning,Patrol Team,17.01,12,Moderate,50,71.9,0,1,0.353
+FF-0361,2025-11-19,2025,11,Post-monsoon,Tadoba,Maharashtra,20.20569,79.30198,29.3,72.6,25.3,9.5,Tropical Dry Deciduous,Lightning,Satellite,8.43,23,High,77,50.2,0,50,0.56
+FF-0362,2023-09-06,2023,9,Monsoon,Tadoba,Maharashtra,20.48059,79.45821,23.0,87.0,23.7,22.7,Thorn Forest,Lightning,Satellite,1.9,13,Moderate,89,71.7,1,3,0.448
+FF-0363,2023-12-31,2023,12,Winter,Bandipur,Karnataka,11.68507,76.33047,27.8,41.2,3.7,2.8,Thorn Forest,Lightning,Patrol Team,1.88,13,Moderate,91,89.9,0,2,0.536
+FF-0364,2024-07-05,2024,7,Monsoon,Tadoba,Maharashtra,20.22097,79.06415,26.1,100.0,8.5,20.0,Mangrove,Agricultural Burning,Sensor Network,0.16,11,Low,57,98.8,0,5,0.318
+FF-0365,2024-07-30,2024,7,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.45848,76.33321,25.8,62.3,4.2,25.1,Tropical Moist Deciduous,Agricultural Burning,Patrol Team,4.91,8,Moderate,22,81.8,0,2,0.356
+FF-0366,2025-12-21,2025,12,Winter,Similipal,Odisha,22.40862,86.40589,20.5,87.4,4.1,1.7,Evergreen,Campfire,Satellite,3.59,8,Low,54,77.4,0,1,0.323
+FF-0367,2024-03-18,2024,3,Pre-monsoon,Periyar,Kerala,9.63621,76.9987,32.2,62.3,6.7,10.5,Thorn Forest,Human Activity,Forest Watchtower,1.74,13,Moderate,71,78.6,0,0,0.507
+FF-0368,2023-01-14,2023,1,Winter,Nagarhole,Karnataka,11.88684,76.03078,29.3,74.1,13.7,6.2,Tropical Dry Deciduous,Agricultural Burning,Satellite,0.84,13,Moderate,65,79.4,0,3,0.522
+FF-0369,2024-04-08,2024,4,Pre-monsoon,Western Ghats,Tamil Nadu,10.45504,77.31905,32.7,36.0,13.8,9.2,Grassland,Human Activity,Satellite,1.38,22,High,82,72.5,0,47,0.639
+FF-0370,2024-09-01,2024,9,Monsoon,Kanha,Madhya Pradesh,22.24211,80.48452,24.9,81.1,12.7,23.6,Tropical Dry Deciduous,Unknown,Satellite,3.47,12,Moderate,90,59.0,0,2,0.439
+FF-0371,2024-07-20,2024,7,Monsoon,Wayanad,Kerala,11.62164,76.14163,28.2,72.4,7.9,16.7,Montane Forest,Agricultural Burning,Sensor Network,2.36,10,Moderate,77,100.0,0,1,0.471
+FF-0372,2024-07-15,2024,7,Monsoon,Sundarbans,West Bengal,22.04538,88.84612,21.1,79.4,14.3,21.3,Grassland,Lightning,Local Report,3.59,11,Moderate,87,91.6,0,2,0.359
+FF-0373,2025-10-08,2025,10,Post-monsoon,Wayanad,Kerala,11.70497,76.22098,21.7,62.5,3.4,12.7,Evergreen,Unknown,Satellite,2.35,13,Moderate,45,78.6,0,1,0.4
+FF-0374,2025-06-03,2025,6,Monsoon,Wayanad,Kerala,11.74457,76.18552,24.4,50.5,10.7,22.2,Evergreen,Lightning,Satellite,6.12,14,Moderate,74,70.6,0,5,0.495
+FF-0375,2023-10-03,2023,10,Post-monsoon,Tadoba,Maharashtra,20.20224,79.17545,32.4,81.7,9.2,5.4,Tropical Dry Deciduous,Human Activity,Satellite,4.0,11,Moderate,47,84.3,0,1,0.532
+FF-0376,2024-01-25,2024,1,Winter,Nilgiri Biosphere,Tamil Nadu,11.45385,76.66964,36.6,64.9,7.5,6.2,Tropical Moist Deciduous,Lightning,Satellite,6.06,21,Moderate,75,75.5,0,1,0.544
+FF-0377,2025-01-01,2025,1,Winter,Jim Corbett,Uttarakhand,29.56799,78.98787,32.5,59.2,10.9,0.5,Grassland,Human Activity,Patrol Team,0.54,11,High,66,75.7,0,42,0.574
+FF-0378,2024-03-25,2024,3,Pre-monsoon,Jim Corbett,Uttarakhand,29.19009,78.87081,27.4,40.2,1.4,11.7,Evergreen,Unknown,Forest Watchtower,0.91,13,Moderate,101,81.1,0,4,0.479
+FF-0379,2024-04-14,2024,4,Pre-monsoon,Wayanad,Kerala,11.80665,75.84855,33.0,53.0,4.2,0.0,Evergreen,Agricultural Burning,Patrol Team,2.34,12,High,92,73.7,0,44,0.572
+FF-0380,2023-07-04,2023,7,Monsoon,Nagarhole,Karnataka,11.84288,76.21801,27.2,66.5,13.0,32.0,Tropical Dry Deciduous,Unknown,Forest Watchtower,6.72,18,Moderate,97,77.8,0,1,0.494
+FF-0381,2023-10-06,2023,10,Post-monsoon,Western Ghats,Tamil Nadu,10.06923,77.00477,29.8,34.4,9.1,3.8,Grassland,Unknown,Satellite,18.01,17,High,82,76.0,0,55,0.633
+FF-0382,2025-03-22,2025,3,Pre-monsoon,Gir,Gujarat,21.09065,71.05425,36.4,53.7,2.5,6.0,Tropical Moist Deciduous,Unknown,Sensor Network,2.45,15,Moderate,62,77.9,0,1,0.516
+FF-0383,2025-07-12,2025,7,Monsoon,Gir,Gujarat,21.11344,70.98434,21.9,86.3,8.9,16.4,Tropical Dry Deciduous,Lightning,Satellite,1.06,9,Low,46,87.5,0,3,0.308
+FF-0384,2025-05-10,2025,5,Pre-monsoon,Bandipur,Karnataka,11.58904,76.65218,34.3,45.2,6.1,8.3,Montane Forest,Human Activity,Forest Watchtower,0.65,21,High,92,80.5,0,45,0.605
+FF-0385,2023-12-04,2023,12,Winter,Western Ghats,Tamil Nadu,10.43297,77.2283,30.9,49.9,18.6,8.9,Evergreen,Lightning,Local Report,7.17,14,High,120,59.7,0,43,0.607
+FF-0386,2023-05-30,2023,5,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.18525,76.66237,37.7,49.2,3.6,6.5,Evergreen,Campfire,Satellite,2.29,25,High,97,60.1,0,47,0.635
+FF-0387,2023-06-25,2023,6,Monsoon,Western Ghats,Tamil Nadu,10.23489,77.32213,22.4,58.5,3.7,16.4,Montane Forest,Campfire,Forest Watchtower,25.54,9,Moderate,63,83.0,0,2,0.375
+FF-0388,2024-03-07,2024,3,Pre-monsoon,Kanha,Madhya Pradesh,22.20642,80.53326,32.4,33.6,11.9,0.4,Tropical Moist Deciduous,Unknown,Forest Watchtower,2.12,16,High,89,63.4,0,67,0.672
+FF-0389,2024-07-21,2024,7,Monsoon,Tadoba,Maharashtra,20.19255,79.3424,13.8,68.5,8.1,23.6,Montane Forest,Human Activity,Forest Watchtower,10.97,13,Low,65,79.8,0,1,0.321
+FF-0390,2025-09-05,2025,9,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.44462,76.85695,23.2,90.8,7.8,29.4,Grassland,Human Activity,Local Report,3.17,11,Low,100,95.5,0,5,0.281
+FF-0391,2025-09-12,2025,9,Monsoon,Jim Corbett,Uttarakhand,29.33874,78.69887,23.6,73.9,33.1,18.0,Grassland,Unknown,Satellite,1.06,13,Moderate,100,76.5,0,1,0.471
+FF-0392,2023-01-03,2023,1,Winter,Bandipur,Karnataka,11.81589,76.48909,24.4,59.7,14.0,2.0,Tropical Dry Deciduous,Human Activity,Patrol Team,3.42,10,Moderate,85,62.9,0,2,0.514
+FF-0393,2025-02-14,2025,2,Winter,Wayanad,Kerala,11.71008,75.88501,29.7,93.4,7.1,7.2,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,3.89,11,Moderate,71,78.9,0,1,0.365
+FF-0394,2023-11-24,2023,11,Post-monsoon,Sundarbans,West Bengal,21.59729,88.70839,28.7,70.9,2.2,30.0,Tropical Moist Deciduous,Lightning,Forest Watchtower,1.93,11,Moderate,80,80.4,0,2,0.431
+FF-0395,2023-08-05,2023,8,Monsoon,Jim Corbett,Uttarakhand,29.18663,78.47089,15.8,83.7,6.8,18.8,Tropical Dry Deciduous,Human Activity,Satellite,3.45,8,Low,72,86.8,0,1,0.284
+FF-0396,2024-08-31,2024,8,Monsoon,Tadoba,Maharashtra,20.19803,79.43137,27.0,73.8,3.3,19.7,Tropical Dry Deciduous,Agricultural Burning,Forest Watchtower,4.27,15,Moderate,64,84.1,0,1,0.39
+FF-0397,2023-02-07,2023,2,Winter,Western Ghats,Tamil Nadu,10.26465,77.5256,24.8,57.7,4.4,3.2,Evergreen,Campfire,Satellite,3.8,8,Moderate,58,85.4,0,4,0.421
+FF-0398,2024-01-02,2024,1,Winter,Bandipur,Karnataka,11.68345,76.85656,31.2,35.4,4.6,4.8,Grassland,Unknown,Satellite,3.54,15,High,108,70.2,0,46,0.627
+FF-0399,2024-08-28,2024,8,Monsoon,Nagarhole,Karnataka,11.99552,75.8073,20.2,92.6,17.7,30.3,Tropical Dry Deciduous,Lightning,Patrol Team,0.74,7,Moderate,69,74.7,0,1,0.36
+FF-0400,2023-10-26,2023,10,Post-monsoon,Nagarhole,Karnataka,12.03609,76.23047,29.1,72.3,2.7,5.1,Grassland,Lightning,Satellite,2.39,15,Moderate,94,73.2,0,0,0.472
+FF-0401,2024-10-12,2024,10,Post-monsoon,Gir,Gujarat,21.25162,71.05598,27.7,63.5,16.5,32.1,Montane Forest,Unknown,Satellite,3.22,17,Moderate,110,69.6,0,1,0.509
+FF-0402,2024-05-19,2024,5,Pre-monsoon,Kanha,Madhya Pradesh,22.12222,80.51777,35.4,46.1,12.3,4.0,Thorn Forest,Agricultural Burning,Local Report,0.74,16,High,99,68.4,0,34,0.631
+FF-0403,2025-05-26,2025,5,Pre-monsoon,Nagarhole,Karnataka,11.81248,76.11826,34.6,58.3,12.2,13.4,Thorn Forest,Lightning,Patrol Team,4.06,14,High,95,77.6,0,44,0.617
+FF-0404,2023-07-18,2023,7,Monsoon,Gir,Gujarat,20.92507,70.43858,24.9,57.2,4.3,20.0,Grassland,Agricultural Burning,Satellite,2.16,18,Moderate,132,80.0,0,2,0.432
+FF-0405,2023-03-04,2023,3,Pre-monsoon,Periyar,Kerala,9.54623,77.24801,27.1,39.7,15.1,0.0,Tropical Dry Deciduous,Human Activity,Satellite,1.08,21,High,89,76.8,0,38,0.581
+FF-0406,2024-08-03,2024,8,Monsoon,Similipal,Odisha,22.09919,86.20856,19.4,63.1,3.9,21.0,Tropical Moist Deciduous,Human Activity,Sensor Network,1.38,11,Low,47,80.7,0,2,0.322
+FF-0407,2023-10-09,2023,10,Post-monsoon,Periyar,Kerala,9.43099,77.23593,26.4,90.8,22.4,8.6,Montane Forest,Unknown,Satellite,1.79,20,Moderate,69,88.0,0,3,0.431
+FF-0408,2025-02-13,2025,2,Winter,Nilgiri Biosphere,Tamil Nadu,10.99973,76.41898,29.0,78.3,17.9,2.4,Grassland,Agricultural Burning,Local Report,15.02,12,Moderate,110,81.4,0,3,0.531
+FF-0409,2023-04-13,2023,4,Pre-monsoon,Gir,Gujarat,20.82736,70.89771,31.3,17.2,24.9,11.5,Thorn Forest,Human Activity,Local Report,5.01,16,High,71,69.4,0,48,0.693
+FF-0410,2024-09-22,2024,9,Monsoon,Western Ghats,Tamil Nadu,10.16671,77.38441,28.8,57.8,9.3,19.4,Montane Forest,Human Activity,Local Report,6.75,10,Moderate,67,82.4,1,4,0.513
+FF-0411,2025-12-20,2025,12,Winter,Bandipur,Karnataka,11.61076,76.45903,27.7,64.1,8.1,1.7,Tropical Dry Deciduous,Campfire,Satellite,2.65,11,Moderate,102,70.9,0,3,0.534
+FF-0412,2023-04-13,2023,4,Pre-monsoon,Bandipur,Karnataka,11.63466,76.39535,29.7,41.4,6.7,25.8,Tropical Moist Deciduous,Agricultural Burning,Forest Watchtower,0.56,11,Moderate,75,60.4,0,2,0.508
+FF-0413,2023-11-27,2023,11,Post-monsoon,Nagarhole,Karnataka,12.00617,75.71192,27.7,47.5,32.6,2.2,Grassland,Agricultural Burning,Satellite,6.03,17,High,85,66.4,0,45,0.603
+FF-0414,2025-07-14,2025,7,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.35012,76.65205,27.0,100.0,13.6,19.3,Tropical Dry Deciduous,Human Activity,Local Report,1.23,9,Moderate,91,88.1,0,3,0.396
+FF-0415,2024-08-07,2024,8,Monsoon,Western Ghats,Tamil Nadu,10.46789,77.09531,27.5,83.4,3.3,25.8,Evergreen,Campfire,Patrol Team,1.32,8,Low,52,86.4,0,3,0.303
+FF-0416,2023-07-11,2023,7,Monsoon,Jim Corbett,Uttarakhand,29.39184,78.52082,34.5,85.6,20.8,19.9,Thorn Forest,Unknown,Patrol Team,1.26,13,Moderate,57,73.6,0,39,0.557
+FF-0417,2023-08-22,2023,8,Monsoon,Gir,Gujarat,20.96203,70.88154,23.0,69.3,7.9,17.7,Grassland,Agricultural Burning,Sensor Network,2.3,8,Moderate,47,75.8,0,1,0.396
+FF-0418,2025-04-18,2025,4,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.47662,76.61901,33.7,58.1,0.7,0.9,Tropical Moist Deciduous,Human Activity,Sensor Network,6.96,14,Moderate,91,60.0,0,1,0.516
+FF-0419,2025-08-01,2025,8,Monsoon,Nagarhole,Karnataka,11.7543,75.90637,27.9,73.7,5.1,38.3,Grassland,Agricultural Burning,Patrol Team,4.72,12,Moderate,76,92.3,0,2,0.39
+FF-0420,2024-01-31,2024,1,Winter,Similipal,Odisha,21.96235,86.30018,28.9,62.0,17.9,8.9,Tropical Dry Deciduous,Unknown,Forest Watchtower,11.38,11,Moderate,70,74.6,0,1,0.538
+FF-0421,2024-06-03,2024,6,Monsoon,Gir,Gujarat,21.11641,70.99283,23.7,87.6,12.3,26.4,Montane Forest,Unknown,Satellite,8.28,13,Low,47,78.9,0,0,0.339
+FF-0422,2025-05-07,2025,5,Pre-monsoon,Jim Corbett,Uttarakhand,29.47641,78.90853,27.0,25.2,14.0,4.9,Tropical Dry Deciduous,Campfire,Local Report,0.57,12,High,81,69.0,0,47,0.578
+FF-0423,2023-07-13,2023,7,Monsoon,Kanha,Madhya Pradesh,22.55412,80.5766,23.7,100.0,20.7,23.9,Mangrove,Agricultural Burning,Local Report,0.73,9,Moderate,89,93.3,0,1,0.362
+FF-0424,2023-08-15,2023,8,Monsoon,Similipal,Odisha,21.80045,86.51144,21.2,81.6,1.9,19.6,Evergreen,Human Activity,Satellite,0.43,12,Moderate,54,89.2,0,2,0.356
+FF-0425,2025-04-28,2025,4,Pre-monsoon,Periyar,Kerala,9.82965,76.99104,26.2,65.9,5.1,4.1,Tropical Moist Deciduous,Lightning,Local Report,3.71,10,Moderate,60,73.8,0,3,0.398
+FF-0426,2023-07-24,2023,7,Monsoon,Bandipur,Karnataka,11.66393,76.60583,22.4,63.9,9.4,16.3,Evergreen,Unknown,Satellite,1.19,9,Moderate,50,91.6,0,2,0.391
+FF-0427,2025-04-24,2025,4,Pre-monsoon,Tadoba,Maharashtra,19.99568,79.32652,29.3,35.1,18.3,10.0,Tropical Dry Deciduous,Human Activity,Satellite,2.12,15,High,79,71.9,0,37,0.576
+FF-0428,2024-06-28,2024,6,Monsoon,Kanha,Madhya Pradesh,22.31119,80.51543,28.6,62.7,3.9,19.6,Tropical Moist Deciduous,Human Activity,Patrol Team,1.95,17,Moderate,81,72.3,0,1,0.433
+FF-0429,2025-12-21,2025,12,Winter,Western Ghats,Tamil Nadu,10.1278,77.27838,31.7,69.5,7.1,1.4,Mangrove,Agricultural Burning,Satellite,3.41,16,Moderate,114,74.5,0,0,0.455
+FF-0430,2023-02-06,2023,2,Winter,Jim Corbett,Uttarakhand,29.37972,78.65952,24.9,66.9,9.0,6.4,Thorn Forest,Lightning,Local Report,0.73,11,Moderate,81,72.2,0,3,0.474
+FF-0431,2025-11-02,2025,11,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.46353,76.79177,27.8,59.5,4.9,4.5,Tropical Dry Deciduous,Unknown,Local Report,0.79,9,Moderate,73,70.5,0,0,0.425
+FF-0432,2023-09-04,2023,9,Monsoon,Jim Corbett,Uttarakhand,29.58889,78.89933,17.6,64.8,8.9,27.7,Grassland,Human Activity,Local Report,2.01,9,Moderate,85,89.5,0,3,0.363
+FF-0433,2023-02-08,2023,2,Winter,Kanha,Madhya Pradesh,22.20045,80.07491,26.8,48.3,8.1,5.2,Mangrove,Human Activity,Satellite,7.21,17,Moderate,91,73.8,0,1,0.48
+FF-0434,2025-03-04,2025,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.55798,76.91426,35.8,47.3,6.0,0.9,Thorn Forest,Human Activity,Local Report,3.25,13,High,76,78.4,0,50,0.591
+FF-0435,2024-08-06,2024,8,Monsoon,Periyar,Kerala,9.6852,76.65143,29.7,72.5,15.1,21.3,Tropical Moist Deciduous,Agricultural Burning,Satellite,1.23,20,Moderate,117,77.7,0,1,0.445
+FF-0436,2025-07-06,2025,7,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.62981,76.58911,22.8,69.4,13.3,32.8,Tropical Dry Deciduous,Unknown,Local Report,0.37,13,Moderate,73,83.7,0,5,0.423
+FF-0437,2023-04-29,2023,4,Pre-monsoon,Similipal,Odisha,21.98471,86.58456,38.7,69.7,15.5,10.0,Montane Forest,Lightning,Forest Watchtower,8.5,16,High,95,53.7,0,52,0.65
+FF-0438,2023-03-30,2023,3,Pre-monsoon,Gir,Gujarat,21.31815,70.74289,27.2,46.8,16.4,6.8,Tropical Moist Deciduous,Lightning,Sensor Network,1.53,12,Moderate,91,69.4,0,5,0.523
+FF-0439,2024-09-13,2024,9,Monsoon,Western Ghats,Tamil Nadu,9.99907,76.93609,20.4,96.8,24.1,28.4,Tropical Moist Deciduous,Human Activity,Patrol Team,0.85,12,Moderate,79,84.7,0,2,0.414
+FF-0440,2025-08-24,2025,8,Monsoon,Wayanad,Kerala,11.64913,75.90313,29.2,71.5,2.4,25.4,Thorn Forest,Agricultural Burning,Satellite,0.49,9,Moderate,98,72.2,0,4,0.386
+FF-0441,2024-03-20,2024,3,Pre-monsoon,Gir,Gujarat,20.96128,70.98484,41.5,51.4,2.7,0.1,Tropical Moist Deciduous,Campfire,Satellite,1.06,12,High,79,75.5,0,55,0.63
+FF-0442,2025-05-24,2025,5,Pre-monsoon,Nagarhole,Karnataka,12.01908,75.75413,36.2,47.2,14.3,8.5,Thorn Forest,Unknown,Satellite,1.68,18,High,105,57.9,0,41,0.653
+FF-0443,2025-09-20,2025,9,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.30857,76.90322,25.8,55.2,6.4,29.6,Tropical Dry Deciduous,Human Activity,Patrol Team,1.77,11,Moderate,75,81.3,0,2,0.396
+FF-0444,2025-08-11,2025,8,Monsoon,Periyar,Kerala,9.47341,77.19008,16.1,99.0,5.8,30.2,Thorn Forest,Agricultural Burning,Local Report,0.51,11,Low,75,100.0,1,1,0.209
+FF-0445,2024-07-11,2024,7,Monsoon,Similipal,Odisha,22.20115,86.18537,16.9,77.1,5.2,17.6,Montane Forest,Human Activity,Patrol Team,1.83,10,Low,57,93.0,0,1,0.247
+FF-0446,2025-02-04,2025,2,Winter,Sundarbans,West Bengal,21.87284,88.79504,29.6,76.4,15.9,3.3,Montane Forest,Human Activity,Patrol Team,2.33,12,Moderate,75,61.4,0,1,0.526
+FF-0447,2024-07-30,2024,7,Monsoon,Nagarhole,Karnataka,12.06621,75.9169,24.4,68.5,31.3,18.8,Montane Forest,Human Activity,Satellite,18.69,17,Moderate,94,81.0,0,8,0.518
+FF-0448,2025-01-08,2025,1,Winter,Gir,Gujarat,21.06284,70.95592,24.0,63.7,16.4,4.0,Mangrove,Human Activity,Local Report,0.68,12,Moderate,88,90.6,0,1,0.531
+FF-0449,2024-09-13,2024,9,Monsoon,Similipal,Odisha,21.91211,86.53184,26.3,66.9,6.2,24.1,Tropical Moist Deciduous,Human Activity,Satellite,2.43,17,Moderate,56,100.0,0,6,0.386
+FF-0450,2024-07-29,2024,7,Monsoon,Nagarhole,Karnataka,12.00096,75.79055,26.5,96.3,15.4,22.3,Montane Forest,Unknown,Local Report,2.74,10,Moderate,99,84.0,0,1,0.436
+FF-0451,2024-04-23,2024,4,Pre-monsoon,Gir,Gujarat,21.17173,70.72735,38.2,52.4,2.6,4.3,Montane Forest,Human Activity,Satellite,1.23,11,Moderate,96,65.3,0,0,0.539
+FF-0452,2024-12-16,2024,12,Winter,Gir,Gujarat,21.28645,70.64463,29.6,71.1,7.7,1.1,Evergreen,Unknown,Patrol Team,2.89,20,Moderate,77,77.3,0,1,0.491
+FF-0453,2025-04-03,2025,4,Pre-monsoon,Periyar,Kerala,9.76358,77.43283,39.5,67.0,1.9,1.1,Tropical Moist Deciduous,Campfire,Forest Watchtower,5.61,12,Moderate,73,88.7,1,3,0.532
+FF-0454,2025-10-04,2025,10,Post-monsoon,Western Ghats,Tamil Nadu,10.34954,76.95698,29.0,82.2,6.4,15.1,Tropical Dry Deciduous,Agricultural Burning,Satellite,2.24,9,Moderate,77,81.3,0,4,0.375
+FF-0455,2024-11-03,2024,11,Post-monsoon,Sundarbans,West Bengal,21.99433,89.18876,28.5,76.7,10.2,13.6,Evergreen,Lightning,Satellite,7.01,8,Moderate,84,90.9,0,3,0.396
+FF-0456,2023-04-21,2023,4,Pre-monsoon,Similipal,Odisha,21.71586,86.39401,38.8,28.1,35.0,3.1,Grassland,Unknown,Sensor Network,0.9,19,Critical,76,55.3,0,63,0.84
+FF-0457,2024-10-05,2024,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.38594,76.49085,24.6,56.3,19.2,10.5,Tropical Moist Deciduous,Human Activity,Local Report,1.28,10,Moderate,85,81.6,0,1,0.482
+FF-0458,2023-12-13,2023,12,Winter,Sundarbans,West Bengal,22.05045,88.77809,41.7,51.9,1.9,7.5,Tropical Moist Deciduous,Lightning,Satellite,12.29,22,High,100,48.6,0,57,0.616
+FF-0459,2023-01-30,2023,1,Winter,Tadoba,Maharashtra,20.33855,79.15571,30.7,76.2,2.1,11.4,Evergreen,Lightning,Satellite,5.73,12,Moderate,36,70.0,0,1,0.487
+FF-0460,2023-03-21,2023,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.43386,76.47057,35.7,50.4,5.0,8.9,Tropical Dry Deciduous,Unknown,Satellite,4.75,12,Moderate,86,75.5,0,2,0.545
+FF-0461,2024-10-10,2024,10,Post-monsoon,Jim Corbett,Uttarakhand,29.64182,78.81707,31.4,46.5,26.9,5.5,Montane Forest,Unknown,Patrol Team,9.62,15,High,99,69.4,0,48,0.598
+FF-0462,2025-11-01,2025,11,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.47852,76.47898,37.4,63.4,2.0,8.9,Tropical Moist Deciduous,Unknown,Sensor Network,0.52,26,Moderate,89,60.7,0,1,0.49
+FF-0463,2024-07-08,2024,7,Monsoon,Jim Corbett,Uttarakhand,29.69205,78.40753,29.6,58.1,5.2,23.9,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,4.46,12,Moderate,88,76.0,0,4,0.418
+FF-0464,2024-05-03,2024,5,Pre-monsoon,Periyar,Kerala,9.5463,77.13166,26.8,47.3,5.2,3.6,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,6.63,12,Moderate,73,79.9,0,2,0.494
+FF-0465,2023-04-08,2023,4,Pre-monsoon,Western Ghats,Tamil Nadu,10.24309,76.87549,40.3,24.8,11.9,2.5,Mangrove,Unknown,Satellite,2.73,18,High,80,64.7,2,71,0.756
+FF-0466,2025-01-10,2025,1,Winter,Gir,Gujarat,21.15373,70.66461,27.5,73.4,15.6,20.0,Mangrove,Unknown,Satellite,22.12,15,Moderate,42,78.4,0,4,0.437
+FF-0467,2023-03-02,2023,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,10.9311,76.53636,34.5,53.3,13.4,3.6,Tropical Dry Deciduous,Lightning,Local Report,3.64,17,Moderate,103,78.7,0,55,0.557
+FF-0468,2025-07-10,2025,7,Monsoon,Sundarbans,West Bengal,21.96126,88.74318,20.2,100.0,10.8,26.0,Tropical Dry Deciduous,Campfire,Local Report,0.27,10,Low,77,82.2,0,4,0.302
+FF-0469,2025-06-13,2025,6,Monsoon,Bandipur,Karnataka,11.11625,76.96017,28.4,90.9,2.5,34.9,Tropical Moist Deciduous,Unknown,Satellite,2.46,14,Low,86,93.8,0,1,0.308
+FF-0470,2025-12-22,2025,12,Winter,Gir,Gujarat,20.82425,70.81015,26.1,60.1,9.6,8.9,Tropical Dry Deciduous,Lightning,Patrol Team,1.41,13,Moderate,65,69.4,0,3,0.48
+FF-0471,2023-11-08,2023,11,Post-monsoon,Jim Corbett,Uttarakhand,29.57228,78.84417,29.5,77.5,21.1,8.6,Grassland,Human Activity,Satellite,8.5,14,High,99,89.2,0,38,0.568
+FF-0472,2023-06-27,2023,6,Monsoon,Kanha,Madhya Pradesh,22.3764,80.28025,24.7,59.4,25.7,21.6,Tropical Dry Deciduous,Human Activity,Satellite,4.3,13,Moderate,52,85.7,0,2,0.497
+FF-0473,2023-11-25,2023,11,Post-monsoon,Periyar,Kerala,9.31401,77.08229,37.7,52.5,11.7,8.0,Evergreen,Unknown,Satellite,2.12,14,High,73,69.2,1,38,0.617
+FF-0474,2025-05-26,2025,5,Pre-monsoon,Periyar,Kerala,9.38606,77.23875,42.9,52.7,1.9,2.2,Tropical Moist Deciduous,Human Activity,Patrol Team,13.94,19,High,94,65.9,0,49,0.663
+FF-0475,2023-08-28,2023,8,Monsoon,Sundarbans,West Bengal,22.11929,88.71558,26.2,48.8,11.8,51.1,Evergreen,Lightning,Patrol Team,5.66,11,Moderate,89,80.3,0,1,0.47
+FF-0476,2025-08-30,2025,8,Monsoon,Kanha,Madhya Pradesh,22.22256,80.76345,26.3,78.5,8.0,17.1,Tropical Moist Deciduous,Agricultural Burning,Local Report,1.16,8,Moderate,105,86.1,0,3,0.432
+FF-0477,2023-06-18,2023,6,Monsoon,Tadoba,Maharashtra,20.55887,79.08351,24.3,64.7,2.3,20.8,Tropical Dry Deciduous,Unknown,Patrol Team,1.99,9,Moderate,69,90.1,0,0,0.417
+FF-0478,2023-02-23,2023,2,Winter,Western Ghats,Tamil Nadu,10.29969,77.14845,34.0,67.4,3.7,9.0,Tropical Dry Deciduous,Unknown,Patrol Team,4.24,14,Moderate,64,65.4,0,2,0.502
+FF-0479,2023-08-29,2023,8,Monsoon,Sundarbans,West Bengal,21.96529,88.79451,24.5,63.9,4.3,24.6,Tropical Dry Deciduous,Unknown,Satellite,1.59,9,Moderate,55,85.5,0,1,0.398
+FF-0480,2025-04-06,2025,4,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.6587,76.72958,32.1,53.9,14.3,2.2,Tropical Dry Deciduous,Lightning,Patrol Team,2.59,18,High,75,53.7,0,38,0.607
+FF-0481,2024-10-22,2024,10,Post-monsoon,Nagarhole,Karnataka,12.02096,75.98471,33.4,66.3,25.0,0.6,Montane Forest,Human Activity,Satellite,3.83,16,High,130,68.9,0,48,0.641
+FF-0482,2024-01-24,2024,1,Winter,Kanha,Madhya Pradesh,22.13962,80.55124,26.6,85.6,12.8,1.4,Tropical Moist Deciduous,Agricultural Burning,Local Report,1.0,16,Moderate,90,88.5,0,2,0.456
+FF-0483,2024-12-20,2024,12,Winter,Nagarhole,Karnataka,11.98244,76.0575,28.8,66.1,14.6,6.7,Tropical Moist Deciduous,Human Activity,Forest Watchtower,0.4,10,Moderate,99,66.8,0,1,0.497
+FF-0484,2024-12-11,2024,12,Winter,Kanha,Madhya Pradesh,22.2943,80.46781,21.9,55.2,8.5,0.4,Tropical Dry Deciduous,Agricultural Burning,Satellite,3.27,11,Moderate,75,65.1,0,2,0.491
+FF-0485,2024-08-30,2024,8,Monsoon,Periyar,Kerala,9.28164,77.28732,29.2,75.5,5.7,25.5,Thorn Forest,Campfire,Local Report,0.39,9,Moderate,71,84.4,0,2,0.381
+FF-0486,2024-07-17,2024,7,Monsoon,Bandipur,Karnataka,11.65907,76.64291,34.7,60.2,13.1,30.5,Montane Forest,Agricultural Burning,Forest Watchtower,1.16,28,Moderate,92,81.1,0,2,0.497
+FF-0487,2023-04-22,2023,4,Pre-monsoon,Wayanad,Kerala,11.58125,76.08405,37.2,53.7,10.9,9.0,Thorn Forest,Agricultural Burning,Satellite,0.73,13,High,77,76.3,0,37,0.585
+FF-0488,2023-10-12,2023,10,Post-monsoon,Similipal,Odisha,22.0479,86.32252,35.6,74.3,4.6,12.8,Grassland,Agricultural Burning,Local Report,0.62,9,Moderate,71,64.5,0,1,0.463
+FF-0489,2024-08-01,2024,8,Monsoon,Kanha,Madhya Pradesh,22.30554,80.74338,22.2,100.0,10.4,16.4,Thorn Forest,Unknown,Local Report,2.72,11,Low,55,69.8,0,3,0.336
+FF-0490,2023-05-29,2023,5,Pre-monsoon,Sundarbans,West Bengal,21.85475,88.85755,35.1,39.3,8.9,2.3,Tropical Moist Deciduous,Lightning,Forest Watchtower,2.74,12,High,78,74.8,0,33,0.589
+FF-0491,2024-06-05,2024,6,Monsoon,Gir,Gujarat,21.08301,70.74479,21.8,75.3,7.0,17.9,Mangrove,Lightning,Forest Watchtower,1.67,15,Moderate,71,70.5,0,0,0.379
+FF-0492,2023-05-09,2023,5,Pre-monsoon,Tadoba,Maharashtra,20.2357,79.31884,33.0,39.9,5.6,0.0,Thorn Forest,Human Activity,Satellite,1.08,19,High,71,72.0,0,51,0.588
+FF-0493,2025-05-12,2025,5,Pre-monsoon,Kanha,Madhya Pradesh,22.39869,80.90539,37.5,51.0,11.7,1.5,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,1.89,12,High,91,75.6,0,37,0.587
+FF-0494,2023-04-24,2023,4,Pre-monsoon,Sundarbans,West Bengal,21.74005,88.65874,34.5,53.3,5.9,16.5,Evergreen,Human Activity,Patrol Team,3.83,11,Moderate,85,73.3,0,5,0.51
+FF-0495,2023-04-12,2023,4,Pre-monsoon,Nagarhole,Karnataka,11.83335,76.23857,27.6,47.3,31.4,20.5,Tropical Moist Deciduous,Lightning,Satellite,3.37,16,High,85,85.7,0,34,0.617
+FF-0496,2024-11-30,2024,11,Post-monsoon,Wayanad,Kerala,11.87675,75.75923,23.1,81.2,12.6,2.2,Tropical Dry Deciduous,Unknown,Patrol Team,4.78,16,Moderate,60,82.2,0,0,0.439
+FF-0497,2023-08-30,2023,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.33403,76.73911,19.8,70.4,11.8,22.0,Mangrove,Human Activity,Local Report,4.54,12,Moderate,71,91.7,0,2,0.36
+FF-0498,2024-01-21,2024,1,Winter,Wayanad,Kerala,11.47331,76.38351,31.2,79.8,7.8,7.9,Tropical Dry Deciduous,Agricultural Burning,Sensor Network,1.87,11,Moderate,65,87.5,0,2,0.427
+FF-0499,2023-12-11,2023,12,Winter,Gir,Gujarat,21.17101,70.88796,38.3,73.5,6.6,4.4,Grassland,Human Activity,Forest Watchtower,0.59,11,Moderate,82,75.7,0,1,0.52
+FF-0500,2023-08-26,2023,8,Monsoon,Periyar,Kerala,9.57414,77.23071,32.1,78.8,1.5,31.3,Montane Forest,Human Activity,Local Report,1.03,19,Moderate,88,77.6,0,1,0.353
+FF-0501,2025-04-14,2025,4,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.15509,76.59912,25.5,43.6,4.9,1.5,Evergreen,Human Activity,Local Report,2.2,13,Moderate,53,76.3,0,0,0.441
+FF-0502,2025-01-28,2025,1,Winter,Sundarbans,West Bengal,21.93672,88.90559,35.4,100.0,1.9,3.0,Tropical Moist Deciduous,Human Activity,Satellite,1.34,23,Moderate,117,78.3,0,2,0.479
+FF-0503,2023-09-19,2023,9,Monsoon,Gir,Gujarat,21.21769,70.75463,30.2,67.6,1.9,18.3,Evergreen,Campfire,Forest Watchtower,0.87,13,Moderate,70,75.4,0,2,0.388
+FF-0504,2025-01-22,2025,1,Winter,Tadoba,Maharashtra,20.2599,79.15852,22.0,70.2,3.2,4.3,Thorn Forest,Campfire,Forest Watchtower,2.0,19,Low,74,93.6,0,2,0.334
+FF-0505,2025-02-20,2025,2,Winter,Nagarhole,Karnataka,12.10112,76.04782,27.6,55.5,19.7,0.0,Tropical Moist Deciduous,Agricultural Burning,Satellite,27.27,13,High,74,66.9,0,39,0.609
+FF-0506,2024-08-13,2024,8,Monsoon,Periyar,Kerala,9.27532,77.23571,30.9,100.0,19.6,20.5,Tropical Moist Deciduous,Agricultural Burning,Patrol Team,1.65,10,Moderate,97,81.1,0,0,0.462
+FF-0507,2024-09-25,2024,9,Monsoon,Similipal,Odisha,21.95297,86.2619,28.5,91.4,5.0,22.3,Evergreen,Unknown,Patrol Team,1.98,10,Moderate,66,81.2,0,3,0.356
+FF-0508,2025-10-21,2025,10,Post-monsoon,Bandipur,Karnataka,11.65158,76.45487,23.1,56.5,2.5,6.7,Montane Forest,Unknown,Satellite,0.78,10,Moderate,68,76.6,0,4,0.437
+FF-0509,2024-05-12,2024,5,Pre-monsoon,Nagarhole,Karnataka,11.92275,75.85516,36.7,55.2,6.4,0.0,Tropical Moist Deciduous,Lightning,Patrol Team,10.59,12,High,79,89.7,0,63,0.638
+FF-0510,2024-02-27,2024,2,Winter,Bandipur,Karnataka,11.83929,76.67033,19.4,69.6,14.2,6.6,Tropical Moist Deciduous,Human Activity,Satellite,4.2,9,Moderate,64,79.8,0,3,0.36
+FF-0511,2024-08-13,2024,8,Monsoon,Gir,Gujarat,21.33668,70.89816,25.0,71.8,17.1,22.5,Montane Forest,Agricultural Burning,Sensor Network,4.47,13,Moderate,81,77.2,0,2,0.415
+FF-0512,2025-07-05,2025,7,Monsoon,Jim Corbett,Uttarakhand,29.7871,78.8417,31.1,89.6,10.3,22.6,Tropical Dry Deciduous,Campfire,Forest Watchtower,7.98,10,Moderate,80,73.9,0,3,0.464
+FF-0513,2025-02-16,2025,2,Winter,Tadoba,Maharashtra,20.41037,79.47373,29.1,71.5,11.6,11.2,Tropical Dry Deciduous,Human Activity,Patrol Team,1.93,11,Moderate,79,77.5,0,5,0.509
+FF-0514,2023-03-24,2023,3,Pre-monsoon,Kanha,Madhya Pradesh,22.28244,80.61582,31.8,51.0,10.8,0.0,Evergreen,Lightning,Sensor Network,2.8,14,High,76,70.8,0,45,0.631
+FF-0515,2024-05-18,2024,5,Pre-monsoon,Gir,Gujarat,21.15644,70.87056,38.0,47.4,2.0,2.4,Tropical Dry Deciduous,Lightning,Patrol Team,13.57,12,High,71,65.7,0,43,0.57
+FF-0516,2025-03-21,2025,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.52269,76.75469,38.4,54.0,2.7,0.0,Tropical Dry Deciduous,Lightning,Patrol Team,6.32,14,High,82,67.9,0,57,0.639
+FF-0517,2023-09-03,2023,9,Monsoon,Tadoba,Maharashtra,20.21939,79.28352,31.9,82.2,25.6,26.3,Grassland,Agricultural Burning,Satellite,0.41,13,Moderate,88,81.4,0,1,0.503
+FF-0518,2025-12-19,2025,12,Winter,Western Ghats,Tamil Nadu,10.32092,77.10445,32.9,66.8,10.2,2.0,Grassland,Lightning,Patrol Team,4.56,12,Moderate,96,83.2,0,40,0.559
+FF-0519,2025-06-04,2025,6,Monsoon,Periyar,Kerala,9.6318,77.59855,30.9,70.0,1.1,28.6,Evergreen,Campfire,Local Report,1.52,11,Moderate,91,79.1,0,1,0.461
+FF-0520,2025-07-16,2025,7,Monsoon,Sundarbans,West Bengal,21.89051,88.81865,29.3,100.0,12.1,28.9,Tropical Moist Deciduous,Unknown,Satellite,4.05,10,Low,67,84.3,0,4,0.335
+FF-0521,2023-03-31,2023,3,Pre-monsoon,Wayanad,Kerala,11.58331,75.98014,35.2,33.3,4.1,2.9,Evergreen,Human Activity,Sensor Network,4.57,12,High,92,71.5,0,40,0.579
+FF-0522,2024-09-27,2024,9,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.33368,76.77812,26.4,85.0,18.0,20.6,Grassland,Unknown,Satellite,0.54,9,Moderate,72,76.5,0,1,0.441
+FF-0523,2024-08-01,2024,8,Monsoon,Bandipur,Karnataka,11.80143,76.64533,24.9,74.5,16.8,17.0,Thorn Forest,Unknown,Satellite,3.31,11,Moderate,47,70.7,0,5,0.486
+FF-0524,2024-11-17,2024,11,Post-monsoon,Kanha,Madhya Pradesh,22.30048,80.34714,23.5,90.6,13.7,5.8,Thorn Forest,Lightning,Sensor Network,2.28,9,Low,64,71.6,0,2,0.339
+FF-0525,2025-07-20,2025,7,Monsoon,Nagarhole,Karnataka,12.05443,76.30208,21.7,66.4,10.1,27.1,Grassland,Lightning,Satellite,3.16,8,Moderate,67,75.8,0,3,0.428
+FF-0526,2024-01-23,2024,1,Winter,Nagarhole,Karnataka,12.10721,76.08304,27.7,55.7,20.9,7.3,Montane Forest,Unknown,Forest Watchtower,4.85,16,Moderate,64,81.1,0,0,0.541
+FF-0527,2024-08-08,2024,8,Monsoon,Gir,Gujarat,21.04003,70.60003,27.1,65.4,22.3,32.8,Thorn Forest,Lightning,Satellite,9.32,12,Moderate,68,74.3,0,0,0.482
+FF-0528,2025-01-14,2025,1,Winter,Nilgiri Biosphere,Tamil Nadu,11.521,76.91398,35.5,70.5,4.2,3.9,Tropical Dry Deciduous,Human Activity,Patrol Team,3.82,11,Moderate,82,75.0,0,1,0.495
+FF-0529,2025-04-05,2025,4,Pre-monsoon,Tadoba,Maharashtra,20.26061,79.41262,33.8,28.8,13.6,1.9,Montane Forest,Human Activity,Patrol Team,4.42,14,High,75,65.8,0,40,0.712
+FF-0530,2025-04-24,2025,4,Pre-monsoon,Gir,Gujarat,20.90243,70.57238,38.5,41.3,5.6,0.2,Montane Forest,Human Activity,Forest Watchtower,8.83,16,High,74,82.0,0,50,0.592
+FF-0531,2024-01-05,2024,1,Winter,Sundarbans,West Bengal,22.13077,89.21989,33.9,35.9,3.7,25.7,Tropical Moist Deciduous,Agricultural Burning,Local Report,21.07,19,High,112,64.3,0,43,0.564
+FF-0532,2025-12-30,2025,12,Winter,Nilgiri Biosphere,Tamil Nadu,11.31988,76.81858,28.0,69.4,22.3,1.0,Tropical Dry Deciduous,Human Activity,Local Report,5.91,11,Moderate,51,79.8,0,1,0.5
+FF-0533,2023-01-11,2023,1,Winter,Nilgiri Biosphere,Tamil Nadu,11.13518,76.69816,31.7,59.0,15.1,10.4,Evergreen,Agricultural Burning,Local Report,4.08,24,High,84,67.5,1,36,0.605
+FF-0534,2024-06-23,2024,6,Monsoon,Nagarhole,Karnataka,11.83279,76.38624,24.9,58.2,10.7,27.3,Tropical Moist Deciduous,Lightning,Local Report,3.74,12,Moderate,57,78.4,0,5,0.477
+FF-0535,2024-10-29,2024,10,Post-monsoon,Similipal,Odisha,21.73663,86.42867,34.9,81.2,4.6,10.9,Thorn Forest,Unknown,Sensor Network,2.95,12,Moderate,61,81.2,0,3,0.438
+FF-0536,2023-03-09,2023,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.40835,76.69495,36.9,29.7,22.7,0.4,Evergreen,Lightning,Satellite,4.43,20,High,92,66.4,0,40,0.715
+FF-0537,2024-05-09,2024,5,Pre-monsoon,Periyar,Kerala,9.45618,77.08115,28.6,59.2,4.1,2.9,Tropical Dry Deciduous,Unknown,Satellite,15.87,14,Moderate,59,83.7,1,1,0.466
+FF-0538,2024-10-15,2024,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.34611,76.80473,29.7,56.2,3.3,9.2,Tropical Moist Deciduous,Unknown,Local Report,1.35,10,Moderate,88,78.7,0,1,0.473
+FF-0539,2024-10-27,2024,10,Post-monsoon,Similipal,Odisha,21.99915,86.48579,36.4,88.4,8.9,3.0,Mangrove,Human Activity,Satellite,7.88,12,Moderate,107,89.7,0,2,0.538
+FF-0540,2023-05-11,2023,5,Pre-monsoon,Western Ghats,Tamil Nadu,10.35438,77.20264,33.2,58.5,14.2,2.2,Tropical Dry Deciduous,Agricultural Burning,Satellite,2.95,19,High,101,71.3,0,46,0.586
+FF-0541,2023-11-01,2023,11,Post-monsoon,Jim Corbett,Uttarakhand,29.55057,78.6578,31.0,51.9,6.8,3.1,Grassland,Human Activity,Forest Watchtower,0.82,15,Moderate,100,61.1,0,2,0.528
+FF-0542,2023-09-26,2023,9,Monsoon,Western Ghats,Tamil Nadu,10.36557,77.22339,28.5,66.2,45.0,22.2,Tropical Moist Deciduous,Unknown,Forest Watchtower,2.97,25,High,63,72.4,0,53,0.613
+FF-0543,2024-12-02,2024,12,Winter,Bandipur,Karnataka,11.79858,76.58744,24.3,74.5,10.0,5.8,Tropical Moist Deciduous,Agricultural Burning,Sensor Network,1.42,13,Moderate,69,82.7,0,2,0.417
+FF-0544,2023-12-27,2023,12,Winter,Bandipur,Karnataka,11.36273,76.35997,31.3,62.3,5.6,19.1,Evergreen,Human Activity,Forest Watchtower,3.84,14,Moderate,83,78.8,0,0,0.434
+FF-0545,2024-09-18,2024,9,Monsoon,Kanha,Madhya Pradesh,22.24169,80.33507,19.7,76.6,6.1,25.4,Tropical Moist Deciduous,Human Activity,Local Report,1.78,7,Low,78,85.2,0,2,0.273
+FF-0546,2025-03-12,2025,3,Pre-monsoon,Western Ghats,Tamil Nadu,9.95117,77.30173,31.2,65.8,27.5,0.0,Grassland,Lightning,Patrol Team,1.39,19,High,118,53.9,0,39,0.59
+FF-0547,2025-05-23,2025,5,Pre-monsoon,Periyar,Kerala,9.50577,76.73166,38.8,37.5,8.3,0.0,Grassland,Unknown,Forest Watchtower,13.98,13,High,112,54.9,0,61,0.676
+FF-0548,2023-07-21,2023,7,Monsoon,Sundarbans,West Bengal,21.89926,88.93697,27.6,80.3,21.8,26.6,Tropical Dry Deciduous,Unknown,Satellite,5.78,12,Moderate,90,93.0,0,1,0.421
+FF-0549,2025-09-17,2025,9,Monsoon,Similipal,Odisha,22.06729,86.31395,24.6,92.4,1.8,21.8,Tropical Moist Deciduous,Human Activity,Satellite,6.96,12,Low,113,78.9,0,2,0.315
+FF-0550,2023-07-01,2023,7,Monsoon,Jim Corbett,Uttarakhand,29.69002,79.03548,28.0,90.3,18.2,40.5,Thorn Forest,Human Activity,Local Report,2.52,12,Moderate,72,89.3,0,0,0.374
+FF-0551,2023-01-24,2023,1,Winter,Kanha,Madhya Pradesh,22.33244,80.51118,28.7,63.8,4.8,24.5,Grassland,Lightning,Satellite,2.42,12,Moderate,71,65.7,0,2,0.46
+FF-0552,2023-02-19,2023,2,Winter,Wayanad,Kerala,11.61994,76.21871,29.1,62.0,15.3,2.1,Evergreen,Agricultural Burning,Local Report,4.71,12,Moderate,81,69.5,0,1,0.478
+FF-0553,2023-08-09,2023,8,Monsoon,Kanha,Madhya Pradesh,22.37763,80.52856,29.0,54.7,4.7,23.4,Thorn Forest,Human Activity,Satellite,1.53,12,Moderate,60,83.9,0,1,0.462
+FF-0554,2025-08-15,2025,8,Monsoon,Nagarhole,Karnataka,11.91553,76.12047,22.7,64.2,6.5,17.5,Tropical Dry Deciduous,Human Activity,Forest Watchtower,2.15,8,Moderate,69,83.5,0,2,0.344
+FF-0555,2023-08-16,2023,8,Monsoon,Gir,Gujarat,21.09978,70.93263,26.2,83.5,3.6,26.4,Tropical Dry Deciduous,Unknown,Forest Watchtower,1.61,11,Low,36,87.8,0,3,0.329
+FF-0556,2025-01-30,2025,1,Winter,Similipal,Odisha,22.05778,86.31674,27.6,64.1,15.5,21.2,Grassland,Lightning,Satellite,0.67,10,Moderate,65,80.4,0,1,0.428
+FF-0557,2024-04-03,2024,4,Pre-monsoon,Jim Corbett,Uttarakhand,29.41076,78.97938,26.9,49.0,17.2,4.5,Grassland,Agricultural Burning,Satellite,3.39,12,Moderate,81,73.7,0,47,0.551
+FF-0558,2023-02-13,2023,2,Winter,Tadoba,Maharashtra,20.32891,79.12113,24.9,80.5,4.9,3.8,Thorn Forest,Lightning,Sensor Network,1.57,9,Moderate,91,75.8,0,0,0.42
+FF-0559,2024-05-01,2024,5,Pre-monsoon,Kanha,Madhya Pradesh,22.40838,80.65303,41.1,31.4,2.3,6.1,Tropical Dry Deciduous,Lightning,Forest Watchtower,2.84,33,High,108,54.1,0,54,0.613
+FF-0560,2023-02-01,2023,2,Winter,Tadoba,Maharashtra,20.04723,79.46608,30.7,62.7,21.6,12.3,Evergreen,Agricultural Burning,Local Report,4.55,15,High,69,83.7,0,39,0.594
+FF-0561,2024-06-05,2024,6,Monsoon,Similipal,Odisha,22.05582,86.51881,20.0,81.6,5.4,28.3,Grassland,Human Activity,Local Report,5.29,7,Low,103,98.5,0,2,0.311
+FF-0562,2024-09-04,2024,9,Monsoon,Western Ghats,Tamil Nadu,10.41177,77.54496,19.1,69.1,8.0,19.8,Tropical Dry Deciduous,Human Activity,Patrol Team,0.96,11,Moderate,71,74.4,0,2,0.353
+FF-0563,2024-07-25,2024,7,Monsoon,Periyar,Kerala,9.51631,77.06258,25.5,99.0,4.2,18.9,Evergreen,Campfire,Local Report,1.4,15,Low,71,73.0,0,2,0.327
+FF-0564,2023-11-06,2023,11,Post-monsoon,Bandipur,Karnataka,11.57803,76.35175,36.0,78.7,14.5,7.1,Grassland,Unknown,Forest Watchtower,1.5,14,Moderate,52,72.5,0,5,0.525
+FF-0565,2025-04-20,2025,4,Pre-monsoon,Tadoba,Maharashtra,20.06253,79.12102,33.2,52.1,14.8,2.1,Tropical Dry Deciduous,Agricultural Burning,Local Report,1.76,15,High,78,74.1,0,42,0.624
+FF-0566,2024-10-16,2024,10,Post-monsoon,Bandipur,Karnataka,11.61397,76.71888,34.9,91.1,23.9,15.3,Tropical Moist Deciduous,Human Activity,Satellite,1.91,12,High,104,73.2,0,41,0.569
+FF-0567,2023-10-07,2023,10,Post-monsoon,Bandipur,Karnataka,11.78682,76.68963,30.6,45.0,18.6,4.0,Tropical Dry Deciduous,Human Activity,Patrol Team,3.15,16,High,93,74.3,0,49,0.643
+FF-0568,2024-04-21,2024,4,Pre-monsoon,Bandipur,Karnataka,11.5471,76.61841,36.1,47.9,17.8,4.1,Montane Forest,Human Activity,Satellite,5.87,18,High,91,69.7,0,24,0.624
+FF-0569,2023-04-29,2023,4,Pre-monsoon,Sundarbans,West Bengal,21.97,88.69787,28.0,53.1,8.5,5.9,Tropical Dry Deciduous,Campfire,Patrol Team,3.78,16,Moderate,86,73.5,0,2,0.526
+FF-0570,2025-10-08,2025,10,Post-monsoon,Similipal,Odisha,21.70132,86.53804,33.2,53.2,7.8,1.0,Tropical Dry Deciduous,Unknown,Local Report,1.16,14,Moderate,55,94.8,0,1,0.52
+FF-0571,2025-04-05,2025,4,Pre-monsoon,Gir,Gujarat,21.06735,70.57955,32.5,52.2,14.4,1.2,Tropical Dry Deciduous,Lightning,Local Report,9.98,15,High,85,68.4,0,46,0.591
+FF-0572,2023-11-12,2023,11,Post-monsoon,Wayanad,Kerala,11.71754,76.30861,32.9,50.5,8.2,23.7,Tropical Dry Deciduous,Campfire,Satellite,5.71,18,Moderate,103,88.5,0,1,0.472
+FF-0573,2025-01-09,2025,1,Winter,Nagarhole,Karnataka,12.39122,76.61434,25.3,75.7,19.0,11.8,Tropical Dry Deciduous,Human Activity,Local Report,1.08,17,Moderate,94,88.9,0,2,0.428
+FF-0574,2025-01-14,2025,1,Winter,Western Ghats,Tamil Nadu,10.07963,77.26596,29.8,80.8,4.0,4.0,Evergreen,Agricultural Burning,Patrol Team,6.82,11,Moderate,73,83.5,0,4,0.445
+FF-0575,2024-10-30,2024,10,Post-monsoon,Western Ghats,Tamil Nadu,10.53552,77.30496,30.6,69.8,1.8,10.5,Tropical Dry Deciduous,Human Activity,Satellite,3.51,22,Moderate,107,57.5,0,2,0.49
+FF-0576,2023-03-01,2023,3,Pre-monsoon,Wayanad,Kerala,11.72397,76.01129,33.3,22.1,13.2,13.1,Tropical Moist Deciduous,Human Activity,Satellite,2.98,12,High,65,73.8,0,39,0.603
+FF-0577,2025-08-20,2025,8,Monsoon,Gir,Gujarat,21.16579,70.47416,27.8,65.5,5.9,20.6,Tropical Dry Deciduous,Campfire,Satellite,3.25,13,Moderate,58,74.5,0,2,0.443
+FF-0578,2025-11-13,2025,11,Post-monsoon,Similipal,Odisha,21.91894,86.29151,27.8,73.9,3.5,11.4,Tropical Moist Deciduous,Unknown,Satellite,2.28,13,Moderate,108,79.2,0,2,0.431
+FF-0579,2025-12-03,2025,12,Winter,Tadoba,Maharashtra,20.27116,79.10328,26.1,66.3,33.7,10.1,Tropical Dry Deciduous,Human Activity,Patrol Team,5.72,13,High,99,63.7,0,38,0.628
+FF-0580,2025-12-10,2025,12,Winter,Nilgiri Biosphere,Tamil Nadu,11.37541,76.43954,36.2,28.3,9.1,1.5,Evergreen,Human Activity,Satellite,4.78,13,High,88,76.3,1,56,0.684
+FF-0581,2025-10-14,2025,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.63265,77.01002,33.7,83.4,2.8,4.7,Grassland,Agricultural Burning,Patrol Team,1.66,9,Moderate,71,89.6,0,1,0.406
+FF-0582,2025-03-21,2025,3,Pre-monsoon,Tadoba,Maharashtra,20.12696,79.34912,30.6,49.9,5.4,17.5,Grassland,Human Activity,Patrol Team,0.45,16,Moderate,62,85.9,0,3,0.465
+FF-0583,2023-03-04,2023,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.58116,76.76834,36.6,36.5,7.3,21.2,Tropical Dry Deciduous,Agricultural Burning,Local Report,5.56,19,High,94,66.6,0,52,0.621
+FF-0584,2024-05-24,2024,5,Pre-monsoon,Western Ghats,Tamil Nadu,10.1969,77.14438,30.7,61.9,13.1,9.9,Mangrove,Agricultural Burning,Local Report,1.95,15,Moderate,82,67.5,0,3,0.492
+FF-0585,2023-09-26,2023,9,Monsoon,Wayanad,Kerala,11.69036,76.06888,20.7,69.5,5.4,19.1,Grassland,Human Activity,Local Report,4.29,9,Moderate,73,84.5,0,0,0.407
+FF-0586,2023-08-30,2023,8,Monsoon,Gir,Gujarat,20.92849,70.97362,30.7,69.4,8.1,16.2,Tropical Dry Deciduous,Human Activity,Local Report,4.29,17,Moderate,60,88.2,0,4,0.521
+FF-0587,2025-06-29,2025,6,Monsoon,Jim Corbett,Uttarakhand,29.5728,78.79418,18.3,84.0,11.0,18.7,Tropical Moist Deciduous,Human Activity,Satellite,1.54,9,Moderate,75,83.3,0,2,0.376
+FF-0588,2025-06-09,2025,6,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.63122,76.79552,30.2,100.0,12.5,17.3,Thorn Forest,Campfire,Patrol Team,4.97,12,Moderate,61,85.0,0,3,0.379
+FF-0589,2024-07-26,2024,7,Monsoon,Tadoba,Maharashtra,20.18762,79.26472,24.9,100.0,8.5,36.6,Tropical Moist Deciduous,Lightning,Sensor Network,2.21,10,Low,49,82.2,1,2,0.327
+FF-0590,2025-03-18,2025,3,Pre-monsoon,Tadoba,Maharashtra,20.1685,79.23841,33.0,53.0,27.2,0.0,Tropical Moist Deciduous,Agricultural Burning,Satellite,4.67,15,High,116,65.3,0,45,0.682
+FF-0591,2023-05-22,2023,5,Pre-monsoon,Kanha,Madhya Pradesh,22.12166,80.34676,35.8,54.5,14.6,0.0,Grassland,Human Activity,Sensor Network,2.79,16,High,123,78.3,0,46,0.565
+FF-0592,2023-09-01,2023,9,Monsoon,Tadoba,Maharashtra,20.16331,78.94401,28.6,90.1,14.1,23.0,Tropical Dry Deciduous,Agricultural Burning,Sensor Network,8.85,14,Moderate,106,79.3,0,3,0.386
+FF-0593,2025-08-01,2025,8,Monsoon,Bandipur,Karnataka,11.44515,76.55292,22.3,61.4,13.7,21.7,Montane Forest,Human Activity,Satellite,1.18,9,Moderate,83,85.3,0,2,0.396
+FF-0594,2024-05-09,2024,5,Pre-monsoon,Gir,Gujarat,20.95394,70.81017,37.2,57.0,19.1,16.8,Tropical Dry Deciduous,Human Activity,Patrol Team,2.62,15,High,83,76.0,0,50,0.608
+FF-0595,2024-08-22,2024,8,Monsoon,Nagarhole,Karnataka,12.03629,75.8685,26.5,68.7,10.5,25.6,Tropical Dry Deciduous,Agricultural Burning,Local Report,0.92,16,Moderate,77,78.6,0,2,0.484
+FF-0596,2024-05-22,2024,5,Pre-monsoon,Kanha,Madhya Pradesh,22.51104,80.59379,28.3,52.5,3.9,3.0,Tropical Dry Deciduous,Agricultural Burning,Satellite,5.45,10,Moderate,89,81.2,0,0,0.536
+FF-0597,2023-08-10,2023,8,Monsoon,Similipal,Odisha,22.34947,86.40968,25.2,75.8,12.1,31.5,Tropical Moist Deciduous,Human Activity,Forest Watchtower,1.25,12,Moderate,62,74.8,0,1,0.372
+FF-0598,2025-06-24,2025,6,Monsoon,Kanha,Madhya Pradesh,22.20615,80.21192,32.2,86.0,13.2,19.9,Mangrove,Lightning,Satellite,1.68,15,Moderate,101,69.7,0,3,0.464
+FF-0599,2025-04-11,2025,4,Pre-monsoon,Sundarbans,West Bengal,22.12965,88.73528,41.5,49.7,21.1,17.9,Thorn Forest,Campfire,Patrol Team,2.47,17,High,55,69.0,1,39,0.657
+FF-0600,2025-01-19,2025,1,Winter,Sundarbans,West Bengal,21.939,88.97331,32.2,23.0,3.6,2.3,Montane Forest,Human Activity,Satellite,3.46,16,High,81,72.2,0,35,0.585
+FF-0601,2024-01-23,2024,1,Winter,Sundarbans,West Bengal,21.8758,88.96967,23.6,68.5,4.4,5.5,Evergreen,Human Activity,Patrol Team,0.68,10,Moderate,83,79.0,0,0,0.351
+FF-0602,2024-12-05,2024,12,Winter,Kanha,Madhya Pradesh,22.36922,80.39234,31.2,75.0,9.3,0.3,Tropical Moist Deciduous,Lightning,Local Report,0.41,16,Moderate,65,76.9,0,0,0.51
+FF-0603,2025-11-10,2025,11,Post-monsoon,Jim Corbett,Uttarakhand,29.50991,78.82852,32.8,72.2,14.0,12.4,Tropical Moist Deciduous,Human Activity,Patrol Team,4.37,11,Moderate,78,83.4,0,1,0.539
+FF-0604,2024-12-13,2024,12,Winter,Nilgiri Biosphere,Tamil Nadu,11.41766,76.88403,32.3,64.6,3.0,6.6,Tropical Dry Deciduous,Agricultural Burning,Satellite,0.48,11,Moderate,92,86.0,0,2,0.529
+FF-0605,2024-06-25,2024,6,Monsoon,Kanha,Madhya Pradesh,22.23467,80.73987,29.5,100.0,3.7,36.0,Montane Forest,Agricultural Burning,Satellite,4.19,12,Moderate,97,93.1,0,1,0.366
+FF-0606,2023-10-24,2023,10,Post-monsoon,Similipal,Odisha,21.6763,86.38285,30.6,70.4,16.3,4.5,Evergreen,Lightning,Satellite,9.96,15,Moderate,55,65.7,0,2,0.488
+FF-0607,2024-07-26,2024,7,Monsoon,Nagarhole,Karnataka,11.75302,76.01576,25.7,85.1,3.1,17.0,Tropical Moist Deciduous,Agricultural Burning,Satellite,1.82,16,Moderate,46,70.1,0,2,0.382
+FF-0608,2024-02-12,2024,2,Winter,Similipal,Odisha,22.00452,86.28672,26.3,80.6,4.4,8.6,Evergreen,Lightning,Forest Watchtower,5.86,18,Moderate,51,77.4,0,1,0.347
+FF-0609,2024-10-31,2024,10,Post-monsoon,Gir,Gujarat,21.05573,70.88421,20.5,71.1,17.0,3.3,Thorn Forest,Unknown,Forest Watchtower,2.23,10,Moderate,46,81.5,0,1,0.419
+FF-0610,2023-02-20,2023,2,Winter,Tadoba,Maharashtra,20.10463,79.33512,30.5,53.4,13.8,11.0,Tropical Dry Deciduous,Human Activity,Satellite,11.89,11,Moderate,57,73.8,0,49,0.553
+FF-0611,2023-07-28,2023,7,Monsoon,Tadoba,Maharashtra,20.20136,79.41329,26.8,44.9,5.5,18.3,Grassland,Human Activity,Local Report,1.58,15,Moderate,57,73.8,0,0,0.43
+FF-0612,2025-05-12,2025,5,Pre-monsoon,Periyar,Kerala,9.62719,77.22374,36.5,41.3,12.8,15.3,Grassland,Agricultural Burning,Satellite,0.44,13,High,108,71.1,0,39,0.588
+FF-0613,2024-02-22,2024,2,Winter,Kanha,Madhya Pradesh,22.32886,80.74738,23.0,76.7,11.1,6.1,Mangrove,Human Activity,Satellite,1.95,11,Moderate,65,85.6,0,2,0.381
+FF-0614,2024-04-19,2024,4,Pre-monsoon,Wayanad,Kerala,11.59503,76.11703,36.9,43.1,8.3,3.0,Tropical Dry Deciduous,Human Activity,Patrol Team,13.85,17,High,86,61.4,0,38,0.58
+FF-0615,2024-08-19,2024,8,Monsoon,Jim Corbett,Uttarakhand,29.69621,78.94124,35.2,90.2,6.7,32.4,Tropical Dry Deciduous,Human Activity,Local Report,4.07,13,Moderate,61,96.2,0,0,0.477
+FF-0616,2024-04-25,2024,4,Pre-monsoon,Sundarbans,West Bengal,22.15267,89.05675,34.4,50.1,12.4,10.6,Evergreen,Agricultural Burning,Sensor Network,2.02,17,High,96,72.7,1,54,0.565
+FF-0617,2025-04-11,2025,4,Pre-monsoon,Bandipur,Karnataka,11.77913,76.45519,33.7,66.0,3.4,0.7,Mangrove,Human Activity,Local Report,3.68,11,Moderate,114,85.6,0,6,0.51
+FF-0618,2023-09-26,2023,9,Monsoon,Nagarhole,Karnataka,12.15579,75.77453,27.4,74.9,12.3,28.3,Montane Forest,Agricultural Burning,Forest Watchtower,6.02,14,Moderate,62,72.0,0,2,0.486
+FF-0619,2025-04-11,2025,4,Pre-monsoon,Western Ghats,Tamil Nadu,10.49871,77.47783,43.1,54.5,10.4,8.3,Evergreen,Unknown,Sensor Network,3.63,17,High,123,73.7,0,51,0.665
+FF-0620,2023-08-18,2023,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.58082,76.7462,21.4,86.1,11.0,21.3,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,17.49,15,Low,73,82.4,0,1,0.331
+FF-0621,2024-02-11,2024,2,Winter,Periyar,Kerala,9.59826,76.89139,29.9,87.0,4.3,11.5,Tropical Dry Deciduous,Human Activity,Local Report,1.59,18,Moderate,76,82.8,0,0,0.455
+FF-0622,2024-10-06,2024,10,Post-monsoon,Periyar,Kerala,9.59574,77.07151,25.4,42.1,21.4,17.3,Grassland,Unknown,Local Report,6.78,12,Moderate,89,74.5,0,2,0.528
+FF-0623,2025-08-29,2025,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.48315,76.83894,23.5,72.6,5.5,21.4,Tropical Dry Deciduous,Human Activity,Satellite,3.6,8,Low,74,97.2,0,2,0.333
+FF-0624,2023-09-12,2023,9,Monsoon,Periyar,Kerala,9.32443,77.14966,25.8,90.9,6.2,21.5,Evergreen,Unknown,Satellite,1.08,13,Moderate,102,69.9,1,3,0.351
+FF-0625,2024-10-05,2024,10,Post-monsoon,Sundarbans,West Bengal,22.01212,88.80783,35.1,87.6,8.0,5.2,Thorn Forest,Agricultural Burning,Patrol Team,1.78,9,Moderate,87,87.0,1,2,0.472
+FF-0626,2023-03-12,2023,3,Pre-monsoon,Bandipur,Karnataka,11.48307,76.85216,42.1,51.4,13.8,0.6,Tropical Moist Deciduous,Human Activity,Local Report,10.5,20,High,106,66.7,0,60,0.721
+FF-0627,2023-03-24,2023,3,Pre-monsoon,Wayanad,Kerala,11.57286,75.91149,36.0,43.9,10.7,3.4,Tropical Moist Deciduous,Unknown,Satellite,3.6,18,High,77,63.8,0,40,0.571
+FF-0628,2025-04-21,2025,4,Pre-monsoon,Wayanad,Kerala,11.90857,75.95633,32.3,58.6,2.2,2.8,Tropical Dry Deciduous,Lightning,Forest Watchtower,3.8,12,Moderate,96,92.0,0,3,0.521
+FF-0629,2025-02-26,2025,2,Winter,Similipal,Odisha,22.03444,86.43805,40.2,78.2,9.0,4.6,Tropical Moist Deciduous,Lightning,Forest Watchtower,0.82,11,High,69,89.3,0,44,0.588
+FF-0630,2024-02-17,2024,2,Winter,Wayanad,Kerala,11.93798,76.17028,27.1,61.0,9.6,4.5,Grassland,Lightning,Satellite,5.21,18,Moderate,85,56.3,0,3,0.542
+FF-0631,2024-11-13,2024,11,Post-monsoon,Jim Corbett,Uttarakhand,29.45653,78.88934,26.4,70.6,21.8,1.6,Tropical Moist Deciduous,Agricultural Burning,Satellite,3.3,19,Moderate,130,76.1,0,3,0.478
+FF-0632,2024-02-21,2024,2,Winter,Nagarhole,Karnataka,11.81564,76.26402,21.0,82.5,7.2,13.6,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,1.7,16,Low,20,87.6,0,4,0.311
+FF-0633,2023-10-31,2023,10,Post-monsoon,Periyar,Kerala,9.46153,77.23574,35.3,92.5,13.0,3.2,Tropical Dry Deciduous,Unknown,Satellite,4.13,20,Moderate,87,75.3,0,49,0.551
+FF-0634,2024-04-17,2024,4,Pre-monsoon,Wayanad,Kerala,11.71633,76.18809,38.4,58.4,43.6,16.0,Tropical Dry Deciduous,Human Activity,Satellite,3.18,14,High,102,80.3,0,45,0.73
+FF-0635,2023-12-08,2023,12,Winter,Bandipur,Karnataka,11.71264,76.55334,39.9,66.6,19.4,2.0,Grassland,Agricultural Burning,Satellite,2.02,15,High,82,83.0,0,48,0.593
+FF-0636,2025-06-12,2025,6,Monsoon,Jim Corbett,Uttarakhand,29.68139,78.81129,19.7,78.2,4.1,37.3,Grassland,Agricultural Burning,Local Report,1.24,9,Low,56,89.8,0,1,0.236
+FF-0637,2024-03-27,2024,3,Pre-monsoon,Bandipur,Karnataka,11.6422,76.61936,40.6,55.8,15.1,2.1,Evergreen,Agricultural Burning,Local Report,2.82,17,High,96,86.2,0,44,0.696
+FF-0638,2023-12-18,2023,12,Winter,Nagarhole,Karnataka,12.05633,76.13872,29.3,64.4,12.4,12.4,Evergreen,Lightning,Local Report,17.64,16,Moderate,76,82.5,0,5,0.508
+FF-0639,2024-08-10,2024,8,Monsoon,Kanha,Madhya Pradesh,22.14182,80.73906,29.6,81.7,7.0,22.5,Tropical Dry Deciduous,Lightning,Sensor Network,4.94,9,Moderate,77,78.5,0,1,0.419
+FF-0640,2025-04-10,2025,4,Pre-monsoon,Gir,Gujarat,21.17205,70.89993,26.6,33.2,15.2,0.0,Evergreen,Unknown,Sensor Network,1.62,12,High,81,67.8,0,46,0.638
+FF-0641,2023-10-27,2023,10,Post-monsoon,Jim Corbett,Uttarakhand,29.5005,78.80796,35.6,84.2,4.0,1.4,Tropical Dry Deciduous,Human Activity,Patrol Team,13.75,9,Moderate,112,90.1,0,1,0.45
+FF-0642,2025-10-26,2025,10,Post-monsoon,Tadoba,Maharashtra,20.08003,79.15436,32.5,50.0,5.6,2.9,Montane Forest,Human Activity,Patrol Team,1.92,17,Moderate,76,68.2,0,1,0.509
+FF-0643,2024-05-23,2024,5,Pre-monsoon,Tadoba,Maharashtra,20.16227,79.31218,33.8,42.0,8.1,1.8,Tropical Dry Deciduous,Agricultural Burning,Satellite,3.57,12,High,98,69.9,0,44,0.613
+FF-0644,2024-12-25,2024,12,Winter,Periyar,Kerala,9.47053,77.19496,31.9,67.4,6.8,5.6,Tropical Moist Deciduous,Human Activity,Local Report,6.42,14,Moderate,71,72.7,0,3,0.544
+FF-0645,2025-11-15,2025,11,Post-monsoon,Kanha,Madhya Pradesh,22.25678,80.63477,25.6,93.9,14.1,7.9,Tropical Dry Deciduous,Human Activity,Satellite,0.38,9,Moderate,87,85.8,0,3,0.371
+FF-0646,2024-04-18,2024,4,Pre-monsoon,Nagarhole,Karnataka,12.28341,76.49717,31.4,42.1,8.8,2.9,Thorn Forest,Human Activity,Patrol Team,2.76,13,High,100,71.6,0,55,0.599
+FF-0647,2023-08-08,2023,8,Monsoon,Periyar,Kerala,9.48425,77.10572,23.9,69.7,6.2,23.5,Tropical Dry Deciduous,Agricultural Burning,Satellite,1.18,10,Moderate,75,73.0,0,1,0.342
+FF-0648,2025-03-30,2025,3,Pre-monsoon,Similipal,Odisha,21.86098,86.47601,25.7,40.3,19.2,6.6,Montane Forest,Campfire,Satellite,3.49,12,Moderate,64,85.2,0,2,0.535
+FF-0649,2023-01-08,2023,1,Winter,Gir,Gujarat,20.76441,70.99232,32.9,89.2,13.8,4.7,Tropical Dry Deciduous,Lightning,Forest Watchtower,4.01,10,Moderate,68,73.6,0,3,0.534
+FF-0650,2024-05-16,2024,5,Pre-monsoon,Tadoba,Maharashtra,20.05693,79.31764,39.4,12.0,2.7,8.2,Thorn Forest,Human Activity,Local Report,3.55,15,High,121,86.6,0,51,0.651
+FF-0651,2025-12-10,2025,12,Winter,Periyar,Kerala,9.45791,77.62081,25.8,52.0,2.6,12.1,Grassland,Unknown,Patrol Team,1.93,9,Moderate,58,84.6,0,0,0.393
+FF-0652,2024-03-30,2024,3,Pre-monsoon,Sundarbans,West Bengal,21.79026,88.83195,35.6,86.2,6.3,6.8,Tropical Moist Deciduous,Human Activity,Forest Watchtower,6.89,11,Moderate,92,87.3,0,2,0.511
+FF-0653,2025-01-19,2025,1,Winter,Bandipur,Karnataka,11.92107,76.65834,27.8,74.3,3.0,9.2,Tropical Dry Deciduous,Campfire,Local Report,2.81,20,Moderate,55,82.1,0,0,0.398
+FF-0654,2024-07-29,2024,7,Monsoon,Kanha,Madhya Pradesh,22.27361,80.45621,27.5,63.5,17.2,22.9,Tropical Moist Deciduous,Agricultural Burning,Satellite,2.69,10,Moderate,96,89.2,0,1,0.48
+FF-0655,2023-08-24,2023,8,Monsoon,Similipal,Odisha,22.10615,86.33673,23.2,78.4,5.8,30.6,Thorn Forest,Human Activity,Patrol Team,2.34,10,Moderate,58,86.9,0,3,0.375
+FF-0656,2023-12-15,2023,12,Winter,Similipal,Odisha,21.90987,86.44481,25.0,66.9,13.0,5.7,Mangrove,Lightning,Forest Watchtower,11.01,12,Moderate,57,81.6,0,2,0.426
+FF-0657,2024-07-27,2024,7,Monsoon,Kanha,Madhya Pradesh,22.30596,80.75233,30.7,90.8,14.9,19.0,Tropical Dry Deciduous,Human Activity,Forest Watchtower,2.89,21,Moderate,64,83.1,0,0,0.462
+FF-0658,2023-04-25,2023,4,Pre-monsoon,Sundarbans,West Bengal,21.88579,88.95744,33.7,73.8,1.5,3.9,Tropical Moist Deciduous,Unknown,Local Report,1.58,10,Moderate,66,99.6,0,3,0.452
+FF-0659,2024-03-30,2024,3,Pre-monsoon,Western Ghats,Tamil Nadu,10.30061,77.42664,43.1,53.4,6.0,0.0,Tropical Dry Deciduous,Human Activity,Local Report,0.67,21,High,94,67.3,0,55,0.602
+FF-0660,2024-03-30,2024,3,Pre-monsoon,Nagarhole,Karnataka,12.27501,76.08291,34.2,40.4,7.8,0.0,Tropical Dry Deciduous,Unknown,Patrol Team,1.07,15,High,91,77.5,0,37,0.631
+FF-0661,2025-07-04,2025,7,Monsoon,Bandipur,Karnataka,11.32886,76.54021,21.8,90.0,11.1,28.2,Grassland,Unknown,Local Report,1.19,9,Low,45,85.3,0,1,0.303
+FF-0662,2023-05-16,2023,5,Pre-monsoon,Jim Corbett,Uttarakhand,29.17975,79.28672,39.5,38.2,16.6,16.2,Tropical Moist Deciduous,Unknown,Sensor Network,4.1,19,High,96,70.0,0,54,0.729
+FF-0663,2025-07-12,2025,7,Monsoon,Western Ghats,Tamil Nadu,10.21309,77.27096,28.8,64.5,34.6,20.2,Tropical Dry Deciduous,Unknown,Satellite,2.34,22,High,70,67.8,0,55,0.647
+FF-0664,2024-03-25,2024,3,Pre-monsoon,Bandipur,Karnataka,11.70232,76.47049,37.3,23.4,25.5,10.3,Mangrove,Human Activity,Satellite,7.11,17,Critical,114,47.0,0,56,0.801
+FF-0665,2024-12-14,2024,12,Winter,Sundarbans,West Bengal,22.01042,88.77503,34.4,44.1,8.8,0.4,Thorn Forest,Lightning,Sensor Network,2.01,15,High,101,71.2,0,39,0.583
+FF-0666,2024-09-02,2024,9,Monsoon,Jim Corbett,Uttarakhand,29.57569,78.63032,23.1,66.4,8.7,24.8,Thorn Forest,Unknown,Forest Watchtower,0.92,11,Moderate,69,90.3,0,1,0.363
+FF-0667,2023-11-25,2023,11,Post-monsoon,Similipal,Odisha,21.83852,86.56858,28.4,49.5,23.8,5.7,Tropical Dry Deciduous,Lightning,Patrol Team,6.34,16,High,95,64.0,0,55,0.648
+FF-0668,2025-10-17,2025,10,Post-monsoon,Tadoba,Maharashtra,20.36305,79.23441,28.2,70.4,9.1,20.6,Montane Forest,Human Activity,Forest Watchtower,7.58,15,Moderate,106,85.3,0,4,0.437
+FF-0669,2023-09-04,2023,9,Monsoon,Gir,Gujarat,21.26483,70.82293,20.2,62.2,5.9,21.0,Evergreen,Human Activity,Satellite,0.84,9,Moderate,69,83.6,0,2,0.395
+FF-0670,2023-02-09,2023,2,Winter,Nilgiri Biosphere,Tamil Nadu,11.42945,76.68857,27.8,22.0,17.4,1.9,Evergreen,Human Activity,Forest Watchtower,5.0,15,High,76,67.8,0,41,0.683
+FF-0671,2025-04-02,2025,4,Pre-monsoon,Gir,Gujarat,21.25403,70.93167,40.0,33.4,11.4,0.0,Tropical Dry Deciduous,Unknown,Local Report,0.79,13,High,103,77.7,0,55,0.676
+FF-0672,2024-11-12,2024,11,Post-monsoon,Sundarbans,West Bengal,21.94362,88.74759,30.1,59.4,2.6,5.9,Montane Forest,Lightning,Patrol Team,0.67,14,Moderate,54,83.9,0,4,0.435
+FF-0673,2025-09-03,2025,9,Monsoon,Sundarbans,West Bengal,21.81016,88.7064,19.9,70.5,7.2,22.9,Evergreen,Agricultural Burning,Forest Watchtower,1.22,11,Moderate,65,85.7,0,3,0.364
+FF-0674,2024-05-16,2024,5,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.51165,76.74037,27.0,69.3,3.1,2.7,Thorn Forest,Campfire,Satellite,6.28,19,Moderate,64,84.1,0,1,0.442
+FF-0675,2023-01-19,2023,1,Winter,Sundarbans,West Bengal,21.9177,89.00817,36.5,57.4,0.7,12.5,Grassland,Human Activity,Satellite,1.4,10,Moderate,67,79.6,0,4,0.5
+FF-0676,2023-01-23,2023,1,Winter,Jim Corbett,Uttarakhand,29.50021,78.85986,28.6,78.3,27.8,16.8,Thorn Forest,Unknown,Satellite,1.47,23,Moderate,78,57.7,0,2,0.537
+FF-0677,2024-04-19,2024,4,Pre-monsoon,Similipal,Odisha,22.13567,86.2543,31.1,47.7,10.0,2.2,Grassland,Human Activity,Satellite,3.5,17,High,103,68.3,0,44,0.601
+FF-0678,2023-10-01,2023,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.00786,76.82195,27.8,65.4,7.4,0.6,Montane Forest,Human Activity,Sensor Network,2.55,15,Moderate,96,62.8,0,2,0.457
+FF-0679,2025-10-07,2025,10,Post-monsoon,Similipal,Odisha,21.67317,86.26611,22.4,54.3,6.2,7.5,Tropical Dry Deciduous,Human Activity,Forest Watchtower,1.13,10,Moderate,89,86.6,0,1,0.405
+FF-0680,2023-05-10,2023,5,Pre-monsoon,Gir,Gujarat,20.91007,70.70612,40.4,47.2,9.2,12.8,Tropical Dry Deciduous,Human Activity,Satellite,21.1,15,High,98,77.2,0,38,0.664
+FF-0681,2025-08-23,2025,8,Monsoon,Jim Corbett,Uttarakhand,29.44188,78.63009,24.2,68.3,6.2,20.2,Grassland,Lightning,Satellite,1.86,11,Moderate,70,87.5,0,0,0.43
+FF-0682,2023-08-26,2023,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.35926,76.93421,32.2,81.4,4.1,25.2,Evergreen,Lightning,Satellite,2.82,18,Moderate,35,79.3,0,3,0.472
+FF-0683,2023-05-11,2023,5,Pre-monsoon,Gir,Gujarat,20.85883,70.91402,34.2,44.7,6.5,0.0,Evergreen,Human Activity,Satellite,2.15,11,Moderate,90,83.6,0,4,0.548
+FF-0684,2023-10-28,2023,10,Post-monsoon,Gir,Gujarat,20.94237,70.9089,35.4,52.8,22.3,7.4,Grassland,Human Activity,Patrol Team,6.09,16,High,53,55.8,0,59,0.696
+FF-0685,2023-06-07,2023,6,Monsoon,Bandipur,Karnataka,11.56227,76.8245,27.2,92.9,17.1,25.4,Evergreen,Agricultural Burning,Local Report,6.75,12,Moderate,40,78.5,0,3,0.436
+FF-0686,2024-03-15,2024,3,Pre-monsoon,Kanha,Madhya Pradesh,22.69319,81.10628,37.8,54.0,6.5,5.6,Thorn Forest,Human Activity,Patrol Team,14.4,14,High,85,60.8,0,49,0.615
+FF-0687,2023-12-29,2023,12,Winter,Wayanad,Kerala,11.98828,75.79234,32.2,59.7,29.6,24.8,Tropical Moist Deciduous,Unknown,Satellite,1.72,12,High,91,71.2,0,40,0.587
+FF-0688,2024-08-02,2024,8,Monsoon,Sundarbans,West Bengal,21.83412,88.76709,28.8,81.0,8.7,34.1,Mangrove,Unknown,Local Report,4.85,6,Low,59,98.4,0,0,0.338
+FF-0689,2024-08-11,2024,8,Monsoon,Periyar,Kerala,9.44183,77.08909,27.6,77.8,4.9,26.7,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,3.37,11,Moderate,99,90.3,0,2,0.386
+FF-0690,2023-01-02,2023,1,Winter,Kanha,Madhya Pradesh,22.11613,80.44685,28.0,53.9,11.8,13.7,Grassland,Agricultural Burning,Patrol Team,6.01,15,Moderate,87,81.6,0,0,0.484
+FF-0691,2023-05-17,2023,5,Pre-monsoon,Gir,Gujarat,20.7947,70.60604,42.6,49.0,24.6,5.3,Montane Forest,Agricultural Burning,Sensor Network,4.07,17,High,91,65.7,0,59,0.719
+FF-0692,2023-06-27,2023,6,Monsoon,Kanha,Madhya Pradesh,22.2813,80.54606,21.9,70.3,21.7,21.5,Tropical Moist Deciduous,Agricultural Burning,Satellite,2.3,11,Moderate,104,69.7,0,0,0.496
+FF-0693,2023-08-02,2023,8,Monsoon,Gir,Gujarat,20.94034,70.58101,26.0,65.8,5.1,19.7,Tropical Moist Deciduous,Campfire,Sensor Network,4.56,11,Moderate,98,83.5,0,4,0.373
+FF-0694,2023-04-13,2023,4,Pre-monsoon,Gir,Gujarat,21.08642,70.86031,34.1,25.3,3.4,0.0,Tropical Moist Deciduous,Campfire,Patrol Team,9.06,23,High,102,74.8,0,53,0.678
+FF-0695,2023-12-11,2023,12,Winter,Nilgiri Biosphere,Tamil Nadu,11.14397,76.70931,30.8,61.0,6.9,18.7,Evergreen,Lightning,Patrol Team,9.97,11,Moderate,64,81.3,1,1,0.486
+FF-0696,2024-08-25,2024,8,Monsoon,Nagarhole,Karnataka,11.87808,76.18659,24.1,86.9,13.2,41.5,Tropical Moist Deciduous,Agricultural Burning,Local Report,2.5,12,Moderate,61,68.4,0,3,0.385
+FF-0697,2023-12-05,2023,12,Winter,Jim Corbett,Uttarakhand,29.52378,78.89139,30.4,56.3,15.6,6.0,Tropical Dry Deciduous,Unknown,Sensor Network,2.67,15,Moderate,56,75.4,1,2,0.533
+FF-0698,2023-12-27,2023,12,Winter,Sundarbans,West Bengal,21.95859,89.00854,28.2,100.0,19.7,6.1,Montane Forest,Human Activity,Satellite,0.3,9,Moderate,75,64.7,0,2,0.456
+FF-0699,2024-05-29,2024,5,Pre-monsoon,Western Ghats,Tamil Nadu,10.3668,77.13279,26.9,60.4,10.4,7.7,Tropical Dry Deciduous,Lightning,Patrol Team,0.68,12,Moderate,60,83.9,0,1,0.491
+FF-0700,2024-08-24,2024,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.18872,77.08181,26.0,97.3,10.6,21.0,Evergreen,Agricultural Burning,Patrol Team,1.58,10,Moderate,67,75.7,0,3,0.406
+FF-0701,2023-12-29,2023,12,Winter,Similipal,Odisha,22.03675,86.4422,24.0,77.1,10.1,1.9,Evergreen,Agricultural Burning,Patrol Team,0.82,11,Moderate,75,72.0,1,2,0.38
+FF-0702,2023-09-01,2023,9,Monsoon,Sundarbans,West Bengal,21.77197,88.56475,18.2,100.0,18.1,17.3,Tropical Dry Deciduous,Lightning,Patrol Team,3.35,14,Low,27,90.4,0,0,0.281
+FF-0703,2024-03-24,2024,3,Pre-monsoon,Bandipur,Karnataka,11.80126,76.41957,34.6,37.0,15.8,22.8,Tropical Dry Deciduous,Human Activity,Satellite,1.33,14,High,70,74.4,0,44,0.68
+FF-0704,2023-01-27,2023,1,Winter,Bandipur,Karnataka,11.6983,76.28671,31.2,30.1,5.0,0.7,Montane Forest,Human Activity,Satellite,1.95,19,Moderate,74,74.3,0,2,0.543
+FF-0705,2024-06-23,2024,6,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.17978,76.70312,28.4,72.8,14.6,23.8,Grassland,Agricultural Burning,Satellite,1.74,15,Moderate,77,94.1,0,3,0.477
+FF-0706,2025-10-28,2025,10,Post-monsoon,Similipal,Odisha,21.84941,86.37808,31.6,73.8,17.3,0.9,Tropical Dry Deciduous,Unknown,Patrol Team,7.35,23,Moderate,70,77.7,0,1,0.486
+FF-0707,2024-03-12,2024,3,Pre-monsoon,Western Ghats,Tamil Nadu,10.35846,77.11568,25.3,50.1,18.2,3.3,Thorn Forest,Unknown,Patrol Team,1.6,9,Moderate,74,73.5,0,4,0.493
+FF-0708,2023-04-29,2023,4,Pre-monsoon,Similipal,Odisha,21.99807,86.76197,27.9,51.9,11.4,2.1,Evergreen,Lightning,Patrol Team,4.39,29,Moderate,70,72.1,0,4,0.543
+FF-0709,2025-02-13,2025,2,Winter,Periyar,Kerala,9.47744,77.29882,37.9,84.5,11.0,1.1,Tropical Dry Deciduous,Human Activity,Patrol Team,3.54,11,Moderate,57,73.7,0,2,0.545
+FF-0710,2023-05-20,2023,5,Pre-monsoon,Periyar,Kerala,9.74508,77.3307,29.3,53.3,9.0,8.0,Grassland,Unknown,Local Report,6.22,11,Moderate,72,86.7,1,0,0.528
+FF-0711,2023-08-01,2023,8,Monsoon,Jim Corbett,Uttarakhand,29.6612,78.63241,28.7,90.2,9.7,17.8,Evergreen,Agricultural Burning,Forest Watchtower,4.47,9,Moderate,68,84.3,0,0,0.398
+FF-0712,2023-06-10,2023,6,Monsoon,Similipal,Odisha,21.85894,86.22015,22.9,65.8,26.8,16.9,Tropical Dry Deciduous,Lightning,Local Report,2.82,16,Moderate,76,77.3,0,2,0.529
+FF-0713,2025-08-26,2025,8,Monsoon,Jim Corbett,Uttarakhand,29.62002,78.80662,26.4,63.7,9.9,26.9,Mangrove,Lightning,Patrol Team,0.64,12,Moderate,81,65.7,0,1,0.496
+FF-0714,2025-12-11,2025,12,Winter,Kanha,Madhya Pradesh,22.60941,80.63114,26.2,88.6,5.3,4.1,Tropical Moist Deciduous,Human Activity,Local Report,1.61,9,Moderate,76,84.1,0,1,0.353
+FF-0715,2024-09-16,2024,9,Monsoon,Gir,Gujarat,21.41368,70.46586,28.5,80.4,11.6,18.6,Tropical Moist Deciduous,Unknown,Patrol Team,2.21,20,Moderate,85,76.1,0,3,0.413
+FF-0716,2024-11-07,2024,11,Post-monsoon,Kanha,Madhya Pradesh,22.10352,80.56754,29.6,57.3,15.4,11.5,Tropical Moist Deciduous,Agricultural Burning,Sensor Network,3.6,10,Moderate,69,69.2,0,2,0.518
+FF-0717,2024-12-08,2024,12,Winter,Similipal,Odisha,21.75175,86.40253,27.0,57.3,17.7,1.7,Thorn Forest,Lightning,Satellite,1.7,18,High,57,70.1,0,48,0.573
+FF-0718,2024-10-30,2024,10,Post-monsoon,Periyar,Kerala,9.73759,77.16127,24.3,56.9,4.1,0.6,Grassland,Unknown,Patrol Team,6.13,11,Moderate,97,83.5,0,2,0.429
+FF-0719,2024-08-19,2024,8,Monsoon,Bandipur,Karnataka,11.53068,76.45359,27.2,69.1,23.3,31.9,Montane Forest,Agricultural Burning,Local Report,2.83,11,Moderate,87,77.1,0,4,0.513
+FF-0720,2025-12-17,2025,12,Winter,Sundarbans,West Bengal,21.68839,88.80288,23.5,48.0,15.1,22.3,Tropical Dry Deciduous,Unknown,Satellite,1.19,11,Moderate,61,67.0,0,1,0.48
+FF-0721,2025-03-14,2025,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.32221,76.66817,35.9,27.0,22.5,3.1,Thorn Forest,Lightning,Satellite,3.16,16,High,103,64.5,1,70,0.745
+FF-0722,2023-04-07,2023,4,Pre-monsoon,Gir,Gujarat,21.16724,70.81634,45.8,45.3,2.9,3.1,Evergreen,Lightning,Satellite,22.57,15,High,115,64.4,0,57,0.717
+FF-0723,2024-03-05,2024,3,Pre-monsoon,Tadoba,Maharashtra,20.18362,79.40886,40.1,39.7,18.7,10.0,Tropical Moist Deciduous,Campfire,Satellite,7.57,20,High,126,67.7,1,44,0.709
+FF-0724,2025-12-04,2025,12,Winter,Nilgiri Biosphere,Tamil Nadu,11.29591,76.89455,32.2,81.5,3.9,14.7,Tropical Dry Deciduous,Campfire,Local Report,5.69,11,Moderate,79,80.7,0,0,0.431
+FF-0725,2024-03-18,2024,3,Pre-monsoon,Kanha,Madhya Pradesh,22.19213,80.54702,33.6,52.1,7.6,0.0,Thorn Forest,Campfire,Forest Watchtower,1.23,16,Moderate,102,70.5,1,2,0.542
+FF-0726,2023-08-12,2023,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.28603,76.61789,17.3,82.7,15.4,20.4,Tropical Moist Deciduous,Unknown,Satellite,1.06,8,Low,46,81.0,0,0,0.338
+FF-0727,2025-08-09,2025,8,Monsoon,Jim Corbett,Uttarakhand,29.35928,78.87878,20.0,68.6,3.6,23.3,Grassland,Lightning,Local Report,1.0,10,Low,64,85.3,0,6,0.307
+FF-0728,2024-11-13,2024,11,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.76506,76.80995,34.8,64.3,6.1,11.5,Evergreen,Human Activity,Satellite,3.65,15,High,78,81.2,0,45,0.563
+FF-0729,2024-09-08,2024,9,Monsoon,Periyar,Kerala,9.5476,77.12184,22.4,84.1,2.8,26.5,Tropical Dry Deciduous,Lightning,Patrol Team,1.49,9,Low,70,87.9,0,1,0.294
+FF-0730,2024-04-05,2024,4,Pre-monsoon,Sundarbans,West Bengal,22.04188,89.04227,30.9,58.0,15.1,7.1,Montane Forest,Campfire,Satellite,1.83,19,Moderate,109,85.0,0,6,0.51
+FF-0731,2023-05-17,2023,5,Pre-monsoon,Jim Corbett,Uttarakhand,29.42175,78.97633,33.3,46.7,4.9,12.6,Thorn Forest,Lightning,Forest Watchtower,2.07,20,Moderate,85,82.0,0,0,0.516
+FF-0732,2024-02-25,2024,2,Winter,Periyar,Kerala,9.47025,77.4325,24.2,81.1,9.4,5.5,Evergreen,Unknown,Sensor Network,1.12,14,Moderate,55,91.5,0,4,0.405
+FF-0733,2024-04-24,2024,4,Pre-monsoon,Gir,Gujarat,20.98583,71.1201,28.5,48.1,12.4,16.9,Grassland,Unknown,Patrol Team,2.77,19,High,63,82.1,0,50,0.579
+FF-0734,2025-10-17,2025,10,Post-monsoon,Kanha,Madhya Pradesh,21.87573,80.44405,28.8,77.1,11.5,3.3,Evergreen,Campfire,Local Report,6.21,15,Moderate,105,90.2,0,2,0.446
+FF-0735,2023-12-03,2023,12,Winter,Bandipur,Karnataka,11.47952,76.6025,25.0,59.1,10.8,10.6,Thorn Forest,Campfire,Patrol Team,0.66,11,Moderate,84,70.5,0,0,0.438
+FF-0736,2023-06-13,2023,6,Monsoon,Jim Corbett,Uttarakhand,29.2103,78.80203,22.7,53.6,10.8,19.8,Tropical Dry Deciduous,Agricultural Burning,Forest Watchtower,3.15,11,Moderate,83,85.1,0,0,0.433
+FF-0737,2024-04-13,2024,4,Pre-monsoon,Jim Corbett,Uttarakhand,29.14003,78.78235,30.5,51.8,3.0,3.2,Tropical Moist Deciduous,Lightning,Patrol Team,10.2,11,High,78,84.9,0,46,0.568
+FF-0738,2025-12-28,2025,12,Winter,Wayanad,Kerala,11.50874,75.98313,31.4,76.2,7.9,6.0,Tropical Moist Deciduous,Campfire,Satellite,2.41,11,Moderate,85,88.2,1,0,0.516
+FF-0739,2024-06-12,2024,6,Monsoon,Jim Corbett,Uttarakhand,29.71199,78.5326,25.0,87.1,10.7,19.6,Tropical Moist Deciduous,Human Activity,Satellite,1.2,7,Low,49,79.0,0,1,0.333
+FF-0740,2024-02-20,2024,2,Winter,Tadoba,Maharashtra,20.19289,79.31668,28.2,71.9,9.9,15.1,Tropical Moist Deciduous,Human Activity,Satellite,5.52,10,Moderate,84,84.5,0,6,0.465
+FF-0741,2024-12-31,2024,12,Winter,Kanha,Madhya Pradesh,22.50649,80.4617,31.7,61.1,8.6,4.0,Tropical Dry Deciduous,Campfire,Patrol Team,1.34,15,High,63,74.2,0,43,0.56
+FF-0742,2024-12-12,2024,12,Winter,Kanha,Madhya Pradesh,22.36576,80.61548,28.4,54.7,5.5,5.7,Montane Forest,Agricultural Burning,Satellite,2.81,12,Moderate,75,91.0,0,2,0.524
+FF-0743,2023-11-25,2023,11,Post-monsoon,Sundarbans,West Bengal,22.02521,88.75707,27.7,73.7,11.3,9.6,Tropical Dry Deciduous,Agricultural Burning,Satellite,1.02,16,Moderate,65,65.7,0,2,0.457
+FF-0744,2025-11-26,2025,11,Post-monsoon,Nagarhole,Karnataka,11.85586,75.90206,31.1,72.0,12.8,33.1,Tropical Dry Deciduous,Human Activity,Forest Watchtower,0.55,11,Moderate,20,71.6,0,3,0.493
+FF-0745,2024-10-11,2024,10,Post-monsoon,Kanha,Madhya Pradesh,22.38383,80.64217,32.0,58.1,6.8,9.9,Tropical Moist Deciduous,Lightning,Patrol Team,2.54,16,Moderate,75,59.8,0,3,0.528
+FF-0746,2023-03-05,2023,3,Pre-monsoon,Wayanad,Kerala,11.81659,76.12717,33.3,63.5,17.8,4.2,Grassland,Campfire,Satellite,1.03,11,Moderate,67,77.1,0,1,0.546
+FF-0747,2024-03-22,2024,3,Pre-monsoon,Similipal,Odisha,21.80774,86.50427,34.4,35.6,23.6,0.0,Tropical Dry Deciduous,Agricultural Burning,Local Report,3.75,21,High,87,85.9,0,50,0.651
+FF-0748,2025-10-08,2025,10,Post-monsoon,Nagarhole,Karnataka,12.08953,76.49346,25.5,57.8,9.6,5.1,Evergreen,Lightning,Satellite,6.45,10,Moderate,77,79.0,0,0,0.462
+FF-0749,2024-03-07,2024,3,Pre-monsoon,Nagarhole,Karnataka,12.09059,76.14991,30.1,70.9,5.1,1.0,Grassland,Agricultural Burning,Patrol Team,10.97,13,Moderate,105,80.3,1,4,0.418
+FF-0750,2024-09-14,2024,9,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.31207,76.78731,29.5,91.2,3.6,20.3,Tropical Dry Deciduous,Unknown,Satellite,2.15,9,Moderate,74,87.8,0,0,0.357
+FF-0751,2024-11-02,2024,11,Post-monsoon,Gir,Gujarat,20.92036,70.60604,31.0,61.0,7.5,3.8,Montane Forest,Unknown,Sensor Network,7.27,21,Moderate,90,70.3,0,43,0.553
+FF-0752,2025-02-11,2025,2,Winter,Nilgiri Biosphere,Tamil Nadu,11.21054,76.46836,31.0,70.0,9.1,9.5,Tropical Moist Deciduous,Lightning,Satellite,4.07,21,Moderate,91,74.9,0,0,0.53
+FF-0753,2025-08-14,2025,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.41384,76.98491,27.3,81.2,3.4,21.0,Grassland,Agricultural Burning,Forest Watchtower,1.32,11,Low,82,87.1,0,2,0.318
+FF-0754,2023-06-13,2023,6,Monsoon,Gir,Gujarat,21.15232,70.63377,26.2,40.6,7.3,18.3,Tropical Dry Deciduous,Human Activity,Satellite,0.47,13,Moderate,84,71.7,0,2,0.447
+FF-0755,2024-07-20,2024,7,Monsoon,Similipal,Odisha,21.7732,86.21209,29.1,66.3,17.2,28.4,Grassland,Lightning,Forest Watchtower,11.12,16,Moderate,85,74.1,0,2,0.512
+FF-0756,2024-08-07,2024,8,Monsoon,Periyar,Kerala,9.50425,77.19296,30.2,78.3,1.3,17.4,Mangrove,Human Activity,Satellite,0.9,13,Moderate,85,85.9,0,3,0.405
+FF-0757,2023-06-17,2023,6,Monsoon,Jim Corbett,Uttarakhand,29.59129,78.78377,30.1,74.0,10.0,22.0,Tropical Dry Deciduous,Agricultural Burning,Satellite,7.24,15,Moderate,29,86.3,0,0,0.411
+FF-0758,2025-01-08,2025,1,Winter,Wayanad,Kerala,11.79891,75.93755,28.5,69.5,6.1,5.1,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,4.24,11,Moderate,117,88.1,0,2,0.494
+FF-0759,2023-05-10,2023,5,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.6483,76.6451,40.2,63.8,9.3,6.0,Tropical Moist Deciduous,Human Activity,Local Report,1.37,14,High,113,76.5,0,46,0.567
+FF-0760,2024-05-15,2024,5,Pre-monsoon,Jim Corbett,Uttarakhand,29.70432,79.02129,35.0,43.5,24.4,12.8,Tropical Dry Deciduous,Human Activity,Satellite,4.64,14,High,93,74.8,0,49,0.623
+FF-0761,2023-12-28,2023,12,Winter,Bandipur,Karnataka,11.53979,76.45492,31.8,51.2,9.0,36.8,Montane Forest,Human Activity,Satellite,17.93,21,Moderate,57,77.9,0,0,0.533
+FF-0762,2023-06-19,2023,6,Monsoon,Similipal,Odisha,22.16937,86.14914,27.3,83.5,8.1,22.2,Evergreen,Human Activity,Satellite,8.09,8,Moderate,94,77.6,0,1,0.403
+FF-0763,2025-06-20,2025,6,Monsoon,Gir,Gujarat,21.01504,70.96967,27.1,74.4,14.5,18.9,Evergreen,Agricultural Burning,Satellite,1.54,20,Moderate,62,70.6,0,3,0.438
+FF-0764,2023-09-25,2023,9,Monsoon,Gir,Gujarat,21.26718,70.88861,22.7,76.8,11.5,18.6,Montane Forest,Human Activity,Satellite,1.22,11,Moderate,82,79.7,0,2,0.41
+FF-0765,2023-10-07,2023,10,Post-monsoon,Wayanad,Kerala,11.71088,75.98831,32.2,61.9,10.0,2.6,Thorn Forest,Human Activity,Forest Watchtower,3.58,18,High,63,61.2,0,53,0.587
+FF-0766,2025-07-25,2025,7,Monsoon,Kanha,Madhya Pradesh,22.23406,80.31521,38.8,100.0,11.7,23.8,Thorn Forest,Campfire,Satellite,1.97,10,Moderate,113,84.2,0,0,0.417
+FF-0767,2025-08-19,2025,8,Monsoon,Sundarbans,West Bengal,21.61077,88.76597,24.3,47.6,20.3,17.3,Tropical Moist Deciduous,Human Activity,Sensor Network,8.32,11,Moderate,57,84.4,0,4,0.545
+FF-0768,2023-02-07,2023,2,Winter,Periyar,Kerala,9.47255,77.19015,29.3,60.6,16.5,7.8,Tropical Moist Deciduous,Unknown,Local Report,5.15,20,Moderate,81,67.7,1,3,0.505
+FF-0769,2023-11-01,2023,11,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.1505,76.90982,27.0,65.9,7.7,12.9,Tropical Moist Deciduous,Agricultural Burning,Sensor Network,0.57,14,Moderate,37,81.6,0,2,0.445
+FF-0770,2025-02-15,2025,2,Winter,Wayanad,Kerala,11.85477,75.91342,26.8,55.1,23.6,13.0,Tropical Moist Deciduous,Agricultural Burning,Satellite,4.46,11,Moderate,82,70.8,0,2,0.548
+FF-0771,2025-05-02,2025,5,Pre-monsoon,Sundarbans,West Bengal,22.14269,88.88479,41.0,60.6,6.4,4.5,Tropical Moist Deciduous,Agricultural Burning,Patrol Team,2.85,14,High,79,64.9,0,51,0.591
+FF-0772,2025-12-31,2025,12,Winter,Gir,Gujarat,20.97249,70.92153,26.0,77.4,10.0,11.6,Tropical Dry Deciduous,Human Activity,Satellite,2.17,10,Moderate,91,98.5,0,4,0.384
+FF-0773,2024-08-30,2024,8,Monsoon,Western Ghats,Tamil Nadu,10.34832,76.77137,23.9,78.3,10.8,31.0,Tropical Moist Deciduous,Unknown,Forest Watchtower,2.74,13,Moderate,65,71.9,0,7,0.407
+FF-0774,2023-01-09,2023,1,Winter,Jim Corbett,Uttarakhand,29.38394,78.98608,21.9,62.2,7.4,4.0,Tropical Moist Deciduous,Unknown,Patrol Team,6.13,9,Moderate,93,71.5,0,2,0.407
+FF-0775,2025-08-15,2025,8,Monsoon,Tadoba,Maharashtra,20.09944,79.08716,22.6,77.4,22.0,29.8,Tropical Moist Deciduous,Human Activity,Forest Watchtower,5.8,10,Moderate,59,80.9,0,3,0.467
+FF-0776,2023-06-26,2023,6,Monsoon,Gir,Gujarat,21.22392,70.85976,18.3,77.5,7.1,16.8,Tropical Dry Deciduous,Unknown,Satellite,0.94,10,Low,60,87.0,0,1,0.306
+FF-0777,2023-05-13,2023,5,Pre-monsoon,Periyar,Kerala,9.49383,77.2444,36.8,46.9,8.5,0.0,Tropical Moist Deciduous,Agricultural Burning,Patrol Team,3.68,14,High,87,75.9,0,43,0.661
+FF-0778,2025-01-08,2025,1,Winter,Nilgiri Biosphere,Tamil Nadu,11.67834,76.89523,41.6,63.4,18.1,4.2,Evergreen,Unknown,Local Report,2.69,23,High,101,82.3,1,40,0.669
+FF-0779,2024-10-23,2024,10,Post-monsoon,Nagarhole,Karnataka,11.92284,76.19917,27.3,69.5,6.6,0.7,Grassland,Unknown,Local Report,0.57,15,Moderate,82,71.6,0,1,0.442
+FF-0780,2023-03-07,2023,3,Pre-monsoon,Tadoba,Maharashtra,20.35989,78.87209,26.5,58.5,3.3,7.7,Grassland,Human Activity,Satellite,2.34,16,Moderate,91,71.6,1,1,0.473
+FF-0781,2023-07-05,2023,7,Monsoon,Tadoba,Maharashtra,20.21559,79.15874,30.0,61.8,10.2,19.4,Tropical Dry Deciduous,Unknown,Forest Watchtower,13.8,10,Moderate,86,90.0,0,3,0.526
+FF-0782,2024-10-08,2024,10,Post-monsoon,Sundarbans,West Bengal,22.02732,88.92488,25.7,51.3,4.2,5.2,Tropical Dry Deciduous,Campfire,Sensor Network,0.59,11,Moderate,89,86.2,0,1,0.468
+FF-0783,2023-10-07,2023,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.32845,76.6649,34.8,41.5,3.8,5.4,Tropical Moist Deciduous,Agricultural Burning,Satellite,3.13,13,High,69,80.5,0,50,0.573
+FF-0784,2025-01-19,2025,1,Winter,Nilgiri Biosphere,Tamil Nadu,11.39207,76.78597,27.7,78.1,1.3,4.1,Tropical Dry Deciduous,Human Activity,Satellite,2.14,9,Moderate,80,76.8,0,1,0.412
+FF-0785,2024-03-27,2024,3,Pre-monsoon,Periyar,Kerala,9.48152,77.34209,31.2,51.5,1.5,0.6,Tropical Moist Deciduous,Unknown,Satellite,3.67,16,Moderate,110,83.4,0,2,0.526
+FF-0786,2024-10-06,2024,10,Post-monsoon,Sundarbans,West Bengal,21.76623,89.00952,28.2,73.1,1.6,9.3,Montane Forest,Agricultural Burning,Sensor Network,0.97,13,Moderate,42,86.4,0,2,0.406
+FF-0787,2024-06-04,2024,6,Monsoon,Western Ghats,Tamil Nadu,10.40593,77.16143,29.4,59.0,25.6,19.3,Tropical Dry Deciduous,Human Activity,Patrol Team,1.02,18,High,96,72.3,0,52,0.603
+FF-0788,2024-02-05,2024,2,Winter,Jim Corbett,Uttarakhand,29.60404,78.46766,28.0,91.0,1.6,5.3,Tropical Moist Deciduous,Unknown,Satellite,0.62,15,Moderate,81,76.0,0,0,0.358
+FF-0789,2024-01-11,2024,1,Winter,Similipal,Odisha,21.99497,86.31801,26.8,57.5,4.1,8.1,Grassland,Agricultural Burning,Sensor Network,7.58,16,Moderate,102,77.8,0,1,0.452
+FF-0790,2025-02-03,2025,2,Winter,Western Ghats,Tamil Nadu,10.54591,77.27495,28.1,68.4,8.6,14.9,Evergreen,Unknown,Forest Watchtower,1.09,29,Moderate,90,83.8,0,0,0.466
+FF-0791,2024-07-17,2024,7,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.6319,76.50372,20.3,91.0,14.1,29.9,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,1.36,11,Moderate,72,73.0,0,2,0.379
+FF-0792,2024-10-13,2024,10,Post-monsoon,Periyar,Kerala,9.44001,77.31363,30.8,52.2,15.0,3.6,Tropical Dry Deciduous,Human Activity,Forest Watchtower,17.99,13,Moderate,91,68.6,0,3,0.546
+FF-0793,2024-09-24,2024,9,Monsoon,Jim Corbett,Uttarakhand,29.55969,78.96351,18.0,71.4,5.1,18.5,Montane Forest,Campfire,Satellite,0.92,11,Low,51,79.8,0,2,0.291
+FF-0794,2023-08-16,2023,8,Monsoon,Kanha,Madhya Pradesh,22.20022,80.62284,24.0,81.5,9.9,33.3,Tropical Dry Deciduous,Agricultural Burning,Forest Watchtower,2.43,15,Low,59,78.9,0,3,0.316
+FF-0795,2025-09-27,2025,9,Monsoon,Periyar,Kerala,9.50374,76.64852,29.4,100.0,8.4,19.3,Grassland,Lightning,Sensor Network,5.32,8,Moderate,48,82.5,0,3,0.395
+FF-0796,2024-09-09,2024,9,Monsoon,Nagarhole,Karnataka,11.90404,75.86994,27.4,83.2,9.5,25.0,Thorn Forest,Lightning,Sensor Network,5.04,9,Moderate,98,90.0,0,2,0.388
+FF-0797,2025-02-25,2025,2,Winter,Gir,Gujarat,21.35921,71.13951,31.7,88.5,10.4,0.6,Tropical Moist Deciduous,Human Activity,Local Report,0.79,11,Moderate,84,82.9,0,1,0.452
+FF-0798,2025-08-24,2025,8,Monsoon,Periyar,Kerala,9.55819,77.10162,25.7,95.9,12.4,16.3,Grassland,Agricultural Burning,Satellite,1.04,10,Low,51,84.2,0,0,0.337
+FF-0799,2025-10-10,2025,10,Post-monsoon,Nagarhole,Karnataka,11.96512,75.74285,34.3,71.2,6.0,6.2,Tropical Dry Deciduous,Lightning,Satellite,3.95,13,Moderate,88,77.0,0,46,0.553
+FF-0800,2024-12-31,2024,12,Winter,Periyar,Kerala,9.69098,77.42234,33.2,52.2,19.7,4.6,Tropical Moist Deciduous,Campfire,Satellite,17.98,19,High,109,75.0,0,46,0.614
+FF-0801,2025-05-12,2025,5,Pre-monsoon,Western Ghats,Tamil Nadu,9.9527,77.2024,36.0,62.8,7.2,9.0,Tropical Moist Deciduous,Campfire,Satellite,1.62,15,High,102,60.2,0,29,0.56
+FF-0802,2024-06-01,2024,6,Monsoon,Nagarhole,Karnataka,11.67774,76.29889,30.2,58.0,33.7,18.6,Montane Forest,Unknown,Forest Watchtower,2.12,14,High,69,82.0,0,55,0.578
+FF-0803,2025-03-19,2025,3,Pre-monsoon,Similipal,Odisha,22.02733,86.44985,37.4,70.4,6.3,5.6,Tropical Dry Deciduous,Human Activity,Local Report,3.83,14,Moderate,23,69.8,0,0,0.494
+FF-0804,2023-12-19,2023,12,Winter,Gir,Gujarat,21.10967,70.88254,27.0,68.8,10.0,10.5,Tropical Dry Deciduous,Agricultural Burning,Local Report,3.73,8,Moderate,79,78.7,0,2,0.404
+FF-0805,2025-02-19,2025,2,Winter,Jim Corbett,Uttarakhand,29.54007,78.86534,23.0,28.9,8.5,2.8,Montane Forest,Human Activity,Sensor Network,5.0,15,Moderate,65,78.0,0,3,0.514
+FF-0806,2023-04-05,2023,4,Pre-monsoon,Kanha,Madhya Pradesh,22.08778,80.72555,35.9,43.2,9.7,2.2,Tropical Dry Deciduous,Unknown,Satellite,1.72,13,High,100,71.8,0,41,0.62
+FF-0807,2025-09-29,2025,9,Monsoon,Similipal,Odisha,21.89628,86.80994,28.5,88.2,18.4,17.6,Mangrove,Lightning,Satellite,1.44,15,Moderate,90,82.5,0,0,0.418
+FF-0808,2023-09-26,2023,9,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.72056,76.87478,30.9,75.7,8.1,27.3,Grassland,Campfire,Local Report,2.74,8,Moderate,94,82.8,0,6,0.42
+FF-0809,2024-12-20,2024,12,Winter,Wayanad,Kerala,11.83187,75.81554,24.8,76.0,3.6,9.4,Evergreen,Lightning,Satellite,5.4,12,Low,98,80.9,1,1,0.325
+FF-0810,2023-01-13,2023,1,Winter,Gir,Gujarat,21.12715,70.8804,24.9,54.1,5.9,10.0,Thorn Forest,Human Activity,Local Report,1.94,10,Moderate,97,92.4,0,4,0.438
+FF-0811,2023-06-20,2023,6,Monsoon,Western Ghats,Tamil Nadu,10.22975,77.40547,28.1,60.7,8.1,20.6,Grassland,Campfire,Patrol Team,2.22,17,Moderate,105,83.4,0,2,0.417
+FF-0812,2025-12-17,2025,12,Winter,Tadoba,Maharashtra,20.13687,79.51649,28.7,65.0,10.6,9.2,Tropical Dry Deciduous,Agricultural Burning,Forest Watchtower,1.0,9,Moderate,100,82.9,0,1,0.443
+FF-0813,2025-07-02,2025,7,Monsoon,Jim Corbett,Uttarakhand,29.15933,78.72321,17.5,79.4,5.1,21.0,Montane Forest,Unknown,Satellite,7.37,8,Low,86,93.8,0,3,0.234
+FF-0814,2023-09-01,2023,9,Monsoon,Nagarhole,Karnataka,12.04122,76.30969,27.7,74.1,5.5,35.6,Montane Forest,Unknown,Patrol Team,2.53,14,Moderate,72,73.8,0,0,0.408
+FF-0815,2023-05-24,2023,5,Pre-monsoon,Kanha,Madhya Pradesh,22.43528,80.76699,25.7,65.2,10.9,3.8,Montane Forest,Lightning,Local Report,7.1,14,Moderate,58,92.9,0,3,0.52
+FF-0816,2025-06-12,2025,6,Monsoon,Tadoba,Maharashtra,19.9479,79.76305,21.7,67.1,11.2,29.3,Grassland,Lightning,Local Report,2.24,12,Moderate,117,71.9,0,0,0.4
+FF-0817,2025-12-21,2025,12,Winter,Western Ghats,Tamil Nadu,10.19417,77.065,35.1,70.4,16.7,4.6,Evergreen,Agricultural Burning,Patrol Team,3.09,11,Moderate,83,77.6,0,2,0.525
+FF-0818,2023-07-04,2023,7,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.21481,76.60867,34.2,80.0,5.9,32.5,Evergreen,Unknown,Local Report,0.76,10,Moderate,101,75.8,0,1,0.498
+FF-0819,2024-12-28,2024,12,Winter,Sundarbans,West Bengal,21.74554,88.8449,23.5,44.2,13.2,2.5,Tropical Dry Deciduous,Campfire,Forest Watchtower,0.52,15,High,75,70.5,0,42,0.576
+FF-0820,2023-11-07,2023,11,Post-monsoon,Gir,Gujarat,21.10856,70.71176,27.5,47.5,8.5,8.4,Evergreen,Human Activity,Patrol Team,8.06,14,Moderate,98,72.2,0,0,0.51
+FF-0821,2025-03-26,2025,3,Pre-monsoon,Western Ghats,Tamil Nadu,9.9665,77.0398,34.2,48.2,6.5,1.0,Grassland,Agricultural Burning,Sensor Network,3.12,11,Moderate,38,70.3,0,2,0.532
+FF-0822,2024-04-03,2024,4,Pre-monsoon,Sundarbans,West Bengal,21.99828,88.40272,42.0,75.7,8.7,5.3,Grassland,Human Activity,Forest Watchtower,4.13,12,High,80,82.7,0,45,0.61
+FF-0823,2023-05-18,2023,5,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.52062,76.62175,31.8,56.1,9.5,1.3,Tropical Moist Deciduous,Agricultural Burning,Forest Watchtower,1.18,15,High,86,62.5,0,45,0.604
+FF-0824,2023-12-22,2023,12,Winter,Sundarbans,West Bengal,21.85982,88.96648,26.9,41.8,3.3,5.7,Evergreen,Unknown,Patrol Team,1.36,13,Moderate,90,83.3,0,1,0.535
+FF-0825,2024-08-13,2024,8,Monsoon,Sundarbans,West Bengal,21.50309,88.81122,33.0,35.5,3.5,19.8,Grassland,Unknown,Local Report,7.85,24,High,104,74.4,0,47,0.571
+FF-0826,2025-05-24,2025,5,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.24057,77.04837,32.3,58.3,14.4,8.2,Tropical Moist Deciduous,Lightning,Satellite,14.09,20,High,65,67.8,0,43,0.576
+FF-0827,2023-01-24,2023,1,Winter,Jim Corbett,Uttarakhand,29.69726,78.80241,32.2,64.7,7.0,8.7,Montane Forest,Lightning,Local Report,1.84,17,High,96,76.9,0,44,0.563
+FF-0828,2025-11-15,2025,11,Post-monsoon,Tadoba,Maharashtra,19.75552,79.53239,22.4,82.0,10.7,2.9,Grassland,Human Activity,Patrol Team,3.38,17,Low,90,79.2,0,3,0.339
+FF-0829,2024-12-12,2024,12,Winter,Tadoba,Maharashtra,20.1444,79.34706,28.2,53.7,14.1,2.8,Tropical Dry Deciduous,Human Activity,Local Report,3.2,11,Moderate,122,68.7,0,1,0.5
+FF-0830,2025-08-17,2025,8,Monsoon,Western Ghats,Tamil Nadu,10.1112,77.34875,18.5,83.9,8.7,18.2,Tropical Dry Deciduous,Lightning,Forest Watchtower,1.78,9,Moderate,81,74.9,0,1,0.353
+FF-0831,2025-10-16,2025,10,Post-monsoon,Bandipur,Karnataka,11.82873,76.65026,24.3,77.8,13.3,1.7,Grassland,Unknown,Forest Watchtower,10.37,16,Moderate,63,84.3,0,1,0.393
+FF-0832,2023-06-18,2023,6,Monsoon,Bandipur,Karnataka,11.59198,76.84638,29.8,72.7,9.6,26.8,Tropical Moist Deciduous,Lightning,Satellite,1.58,12,Moderate,51,84.4,0,2,0.43
+FF-0833,2023-04-13,2023,4,Pre-monsoon,Periyar,Kerala,9.56463,77.21007,33.8,42.0,9.9,0.1,Thorn Forest,Human Activity,Sensor Network,9.39,15,High,119,74.7,0,48,0.584
+FF-0834,2025-05-01,2025,5,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.49047,76.7893,32.6,48.4,19.3,5.8,Tropical Dry Deciduous,Agricultural Burning,Local Report,4.58,12,High,100,70.8,0,34,0.59
+FF-0835,2023-07-25,2023,7,Monsoon,Tadoba,Maharashtra,20.4938,79.36594,22.6,86.6,8.0,19.5,Tropical Dry Deciduous,Human Activity,Satellite,1.66,14,Low,63,82.2,0,1,0.284
+FF-0836,2023-06-12,2023,6,Monsoon,Kanha,Madhya Pradesh,22.26753,80.54811,25.0,78.8,14.5,29.0,Tropical Moist Deciduous,Human Activity,Sensor Network,7.17,13,Moderate,44,77.2,0,1,0.411
+FF-0837,2024-05-28,2024,5,Pre-monsoon,Kanha,Madhya Pradesh,22.36017,80.6729,35.4,61.6,2.8,21.3,Grassland,Campfire,Satellite,3.4,12,Moderate,62,63.5,0,5,0.49
+FF-0838,2025-09-28,2025,9,Monsoon,Bandipur,Karnataka,11.46239,77.00219,30.4,72.5,10.4,18.4,Montane Forest,Human Activity,Local Report,2.37,11,Moderate,89,78.9,0,1,0.474
+FF-0839,2025-05-21,2025,5,Pre-monsoon,Western Ghats,Tamil Nadu,10.49047,77.15133,22.2,29.4,22.5,1.5,Mangrove,Lightning,Forest Watchtower,10.29,20,High,91,75.2,0,41,0.572
+FF-0840,2024-07-21,2024,7,Monsoon,Tadoba,Maharashtra,20.07832,79.3755,22.3,100.0,35.2,20.8,Evergreen,Agricultural Burning,Patrol Team,7.69,11,Moderate,44,78.4,0,2,0.49
+FF-0841,2023-08-04,2023,8,Monsoon,Nagarhole,Karnataka,11.91028,76.3264,26.7,70.5,2.9,20.5,Thorn Forest,Human Activity,Patrol Team,6.15,8,Moderate,84,96.3,0,3,0.407
+FF-0842,2024-01-04,2024,1,Winter,Sundarbans,West Bengal,21.89644,89.10525,28.6,58.0,7.0,1.3,Tropical Dry Deciduous,Human Activity,Patrol Team,0.11,20,Moderate,55,63.5,1,42,0.555
+FF-0843,2025-01-24,2025,1,Winter,Tadoba,Maharashtra,19.94994,79.30211,30.8,65.1,4.2,23.7,Evergreen,Human Activity,Satellite,3.42,18,Moderate,99,71.4,0,5,0.434
+FF-0844,2023-06-22,2023,6,Monsoon,Western Ghats,Tamil Nadu,10.3366,76.77099,27.2,79.9,8.3,20.7,Montane Forest,Human Activity,Satellite,2.3,8,Moderate,71,85.5,0,3,0.343
+FF-0845,2024-07-28,2024,7,Monsoon,Western Ghats,Tamil Nadu,10.45479,77.29301,24.6,73.6,16.0,24.7,Tropical Moist Deciduous,Unknown,Satellite,2.43,24,Moderate,68,75.0,0,5,0.462
+FF-0846,2023-01-13,2023,1,Winter,Western Ghats,Tamil Nadu,10.34687,76.80049,26.6,65.8,19.8,8.9,Montane Forest,Lightning,Sensor Network,5.13,14,Moderate,101,59.1,0,54,0.553
+FF-0847,2023-12-23,2023,12,Winter,Nilgiri Biosphere,Tamil Nadu,11.14578,76.96459,27.9,65.4,20.2,0.9,Tropical Dry Deciduous,Lightning,Forest Watchtower,3.31,11,Moderate,85,82.8,0,1,0.488
+FF-0848,2023-09-29,2023,9,Monsoon,Western Ghats,Tamil Nadu,10.28019,77.23051,31.2,81.4,2.7,20.1,Tropical Dry Deciduous,Lightning,Local Report,4.09,14,Moderate,98,80.9,0,2,0.424
+FF-0849,2025-01-16,2025,1,Winter,Kanha,Madhya Pradesh,22.41872,80.77994,25.7,33.0,9.4,10.8,Evergreen,Campfire,Patrol Team,2.45,11,Moderate,85,58.6,0,43,0.557
+FF-0850,2025-09-28,2025,9,Monsoon,Sundarbans,West Bengal,21.59952,88.73762,25.7,100.0,5.8,33.4,Montane Forest,Human Activity,Forest Watchtower,5.7,6,Low,64,87.3,0,2,0.258
+FF-0851,2023-06-10,2023,6,Monsoon,Gir,Gujarat,20.92804,70.52055,26.8,76.9,7.9,20.2,Tropical Moist Deciduous,Unknown,Satellite,4.34,12,Moderate,68,73.7,0,1,0.412
+FF-0852,2025-05-23,2025,5,Pre-monsoon,Kanha,Madhya Pradesh,22.44025,80.64694,41.0,56.1,6.4,0.0,Thorn Forest,Human Activity,Forest Watchtower,5.3,15,High,91,68.8,0,45,0.594
+FF-0853,2024-12-19,2024,12,Winter,Gir,Gujarat,21.14322,70.79395,27.6,46.7,2.8,3.2,Tropical Dry Deciduous,Campfire,Local Report,3.62,16,Moderate,106,66.7,0,1,0.439
+FF-0854,2025-11-28,2025,11,Post-monsoon,Bandipur,Karnataka,11.76592,76.51152,33.3,59.4,19.9,4.0,Thorn Forest,Human Activity,Sensor Network,10.07,13,High,82,74.8,0,47,0.648
+FF-0855,2025-09-26,2025,9,Monsoon,Nagarhole,Karnataka,12.29752,76.11524,31.5,69.6,5.1,19.8,Evergreen,Human Activity,Satellite,5.89,22,Moderate,88,88.2,1,3,0.457
+FF-0856,2023-04-21,2023,4,Pre-monsoon,Tadoba,Maharashtra,20.27497,79.79814,33.7,68.6,5.9,0.2,Tropical Dry Deciduous,Lightning,Sensor Network,2.76,13,Moderate,67,77.0,0,60,0.55
+FF-0857,2025-03-25,2025,3,Pre-monsoon,Bandipur,Karnataka,11.80526,76.75021,33.1,39.8,22.6,0.0,Grassland,Human Activity,Forest Watchtower,9.83,17,High,57,50.5,0,54,0.702
+FF-0858,2024-10-11,2024,10,Post-monsoon,Western Ghats,Tamil Nadu,10.73372,77.38891,27.5,76.6,2.4,1.6,Grassland,Unknown,Satellite,2.98,11,Moderate,81,80.8,0,2,0.474
+FF-0859,2023-05-04,2023,5,Pre-monsoon,Jim Corbett,Uttarakhand,29.46579,78.95191,32.8,38.9,12.2,1.2,Evergreen,Agricultural Burning,Sensor Network,17.78,12,High,95,71.6,0,50,0.613
+FF-0860,2023-10-09,2023,10,Post-monsoon,Kanha,Madhya Pradesh,22.17234,80.8663,32.8,59.7,17.5,10.6,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,8.01,14,High,83,65.0,0,43,0.567
+FF-0861,2025-10-12,2025,10,Post-monsoon,Gir,Gujarat,21.16845,70.76579,30.0,62.6,21.5,14.1,Tropical Dry Deciduous,Human Activity,Satellite,1.7,16,Moderate,55,77.1,0,6,0.529
+FF-0862,2024-08-18,2024,8,Monsoon,Gir,Gujarat,21.17024,70.43014,27.1,97.0,11.7,22.3,Montane Forest,Agricultural Burning,Local Report,15.28,10,Moderate,76,89.1,0,2,0.384
+FF-0863,2024-01-06,2024,1,Winter,Nilgiri Biosphere,Tamil Nadu,11.31573,76.66605,23.9,39.5,14.7,1.7,Grassland,Human Activity,Patrol Team,0.5,12,Moderate,87,70.3,0,1,0.542
+FF-0864,2023-12-18,2023,12,Winter,Kanha,Madhya Pradesh,22.13482,80.74611,24.6,47.6,17.5,3.4,Thorn Forest,Campfire,Patrol Team,5.43,18,High,69,58.9,0,47,0.568
+FF-0865,2025-07-07,2025,7,Monsoon,Tadoba,Maharashtra,20.56958,79.12544,35.6,51.7,8.4,16.3,Grassland,Agricultural Burning,Local Report,1.68,18,Moderate,59,56.5,0,46,0.551
+FF-0866,2023-11-07,2023,11,Post-monsoon,Jim Corbett,Uttarakhand,29.55229,78.76825,28.2,50.8,4.6,17.6,Thorn Forest,Agricultural Burning,Forest Watchtower,11.62,11,Moderate,70,74.6,0,1,0.433
+FF-0867,2023-06-24,2023,6,Monsoon,Kanha,Madhya Pradesh,22.18283,80.47548,22.5,67.6,23.7,18.8,Tropical Dry Deciduous,Unknown,Forest Watchtower,3.49,15,Moderate,92,73.9,0,2,0.516
+FF-0868,2024-09-20,2024,9,Monsoon,Tadoba,Maharashtra,20.34655,79.57037,32.4,56.4,13.6,24.1,Evergreen,Agricultural Burning,Local Report,1.65,18,High,93,67.5,0,43,0.579
+FF-0869,2025-12-23,2025,12,Winter,Periyar,Kerala,9.48254,77.3349,30.3,55.7,9.4,13.4,Grassland,Agricultural Burning,Local Report,2.16,15,Moderate,63,70.4,0,3,0.498
+FF-0870,2023-07-20,2023,7,Monsoon,Western Ghats,Tamil Nadu,10.25954,77.31728,28.6,50.8,3.0,27.6,Tropical Dry Deciduous,Human Activity,Satellite,1.42,14,Moderate,80,81.5,0,2,0.48
+FF-0871,2023-10-07,2023,10,Post-monsoon,Periyar,Kerala,9.58996,77.31189,28.4,51.7,1.0,3.8,Tropical Dry Deciduous,Agricultural Burning,Satellite,2.0,15,Moderate,94,80.2,0,5,0.479
+FF-0872,2024-05-29,2024,5,Pre-monsoon,Bandipur,Karnataka,11.4933,76.5933,32.6,64.8,12.1,7.0,Grassland,Lightning,Satellite,2.39,16,High,64,74.5,0,43,0.568
+FF-0873,2023-08-07,2023,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.45642,76.73556,25.2,84.7,0.9,36.9,Mangrove,Human Activity,Satellite,0.91,9,Low,65,92.2,0,1,0.294
+FF-0874,2024-12-14,2024,12,Winter,Nilgiri Biosphere,Tamil Nadu,11.70607,76.48667,22.8,68.6,9.3,2.8,Grassland,Unknown,Satellite,2.92,9,Moderate,98,75.7,0,0,0.429
+FF-0875,2023-10-05,2023,10,Post-monsoon,Jim Corbett,Uttarakhand,29.57459,78.40644,28.6,52.0,5.3,0.9,Tropical Dry Deciduous,Human Activity,Satellite,3.44,10,Moderate,53,70.8,0,3,0.456
+FF-0876,2023-05-21,2023,5,Pre-monsoon,Similipal,Odisha,21.83981,86.42701,35.3,26.5,6.4,0.2,Montane Forest,Agricultural Burning,Forest Watchtower,1.49,17,High,109,66.8,0,52,0.611
+FF-0877,2023-10-14,2023,10,Post-monsoon,Similipal,Odisha,21.81886,86.45832,37.3,50.1,20.3,8.5,Tropical Dry Deciduous,Human Activity,Patrol Team,1.02,15,High,123,64.1,0,48,0.697
+FF-0878,2025-10-16,2025,10,Post-monsoon,Jim Corbett,Uttarakhand,29.43435,79.01767,29.4,65.4,5.4,3.9,Tropical Dry Deciduous,Lightning,Local Report,3.25,14,Moderate,73,61.2,0,3,0.461
+FF-0879,2025-10-21,2025,10,Post-monsoon,Similipal,Odisha,21.85937,86.68284,18.5,78.2,9.6,5.3,Montane Forest,Unknown,Forest Watchtower,2.74,7,Low,58,82.0,2,2,0.299
+FF-0880,2024-07-08,2024,7,Monsoon,Sundarbans,West Bengal,21.83955,89.1826,25.6,91.6,5.4,25.8,Thorn Forest,Human Activity,Satellite,3.2,7,Low,82,95.5,0,2,0.292
+FF-0881,2024-03-14,2024,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.54661,76.52036,46.0,56.8,11.3,0.2,Montane Forest,Agricultural Burning,Satellite,6.53,16,High,90,75.2,0,45,0.685
+FF-0882,2025-06-17,2025,6,Monsoon,Tadoba,Maharashtra,19.92269,79.23659,29.9,68.7,10.3,21.0,Thorn Forest,Agricultural Burning,Local Report,10.23,9,Moderate,37,82.8,0,0,0.495
+FF-0883,2023-08-01,2023,8,Monsoon,Periyar,Kerala,9.63792,77.28646,22.4,79.3,9.3,19.3,Grassland,Unknown,Local Report,4.54,8,Moderate,66,85.3,1,2,0.348
+FF-0884,2024-12-17,2024,12,Winter,Nilgiri Biosphere,Tamil Nadu,11.33925,77.15574,31.7,61.5,17.5,20.2,Tropical Moist Deciduous,Human Activity,Local Report,31.17,13,High,93,85.7,0,40,0.573
+FF-0885,2025-01-15,2025,1,Winter,Kanha,Madhya Pradesh,22.36031,80.86642,25.7,63.2,2.4,11.3,Tropical Moist Deciduous,Unknown,Patrol Team,34.78,13,Moderate,90,69.5,0,0,0.461
+FF-0886,2025-02-17,2025,2,Winter,Jim Corbett,Uttarakhand,29.31968,79.00149,22.9,94.5,1.8,3.9,Montane Forest,Lightning,Forest Watchtower,0.39,9,Low,48,77.9,0,0,0.295
+FF-0887,2023-08-27,2023,8,Monsoon,Western Ghats,Tamil Nadu,10.51258,77.1302,24.4,54.3,3.5,19.7,Mangrove,Lightning,Satellite,0.38,13,Moderate,72,87.1,0,0,0.458
+FF-0888,2025-02-23,2025,2,Winter,Bandipur,Karnataka,11.8993,76.44102,29.4,62.7,10.3,22.0,Tropical Moist Deciduous,Lightning,Forest Watchtower,2.34,12,Moderate,92,79.6,0,1,0.434
+FF-0889,2024-11-01,2024,11,Post-monsoon,Western Ghats,Tamil Nadu,10.45353,77.342,20.6,83.0,12.7,20.7,Tropical Moist Deciduous,Lightning,Satellite,2.95,9,Moderate,67,78.6,0,3,0.342
+FF-0890,2025-08-17,2025,8,Monsoon,Nagarhole,Karnataka,11.75764,75.90188,20.8,58.5,0.4,24.5,Tropical Moist Deciduous,Lightning,Satellite,1.66,8,Low,37,90.2,0,1,0.304
+FF-0891,2023-07-11,2023,7,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.53266,76.65708,26.0,70.0,12.5,21.5,Tropical Moist Deciduous,Human Activity,Patrol Team,3.84,11,Moderate,93,78.1,0,2,0.385
+FF-0892,2024-11-03,2024,11,Post-monsoon,Jim Corbett,Uttarakhand,29.56478,78.77934,27.2,58.6,7.1,1.3,Mangrove,Lightning,Satellite,1.86,17,Moderate,71,70.5,0,2,0.433
+FF-0893,2025-06-28,2025,6,Monsoon,Similipal,Odisha,21.64316,86.68672,27.8,75.9,24.0,18.3,Tropical Dry Deciduous,Agricultural Burning,Local Report,1.37,11,Moderate,96,72.2,0,1,0.456
+FF-0894,2023-11-01,2023,11,Post-monsoon,Gir,Gujarat,21.09611,70.73615,23.5,43.7,11.9,1.2,Tropical Moist Deciduous,Lightning,Satellite,1.94,23,Moderate,59,72.8,0,36,0.556
+FF-0895,2025-03-26,2025,3,Pre-monsoon,Jim Corbett,Uttarakhand,29.55833,78.36094,37.2,56.3,22.3,11.8,Montane Forest,Human Activity,Satellite,3.23,16,High,89,71.5,0,41,0.655
+FF-0896,2023-04-20,2023,4,Pre-monsoon,Sundarbans,West Bengal,21.98897,88.9908,28.7,57.3,19.7,0.0,Evergreen,Lightning,Patrol Team,7.31,19,High,98,81.8,1,49,0.624
+FF-0897,2025-02-26,2025,2,Winter,Similipal,Odisha,21.92836,86.27418,36.4,73.1,7.1,3.7,Tropical Moist Deciduous,Lightning,Forest Watchtower,1.94,15,Moderate,81,72.2,0,4,0.536
+FF-0898,2024-10-26,2024,10,Post-monsoon,Western Ghats,Tamil Nadu,10.3466,77.20767,21.3,53.8,16.1,0.8,Tropical Moist Deciduous,Agricultural Burning,Satellite,2.14,15,Moderate,58,73.2,0,0,0.504
+FF-0899,2023-07-31,2023,7,Monsoon,Western Ghats,Tamil Nadu,10.53578,77.18439,21.1,80.2,7.1,26.2,Tropical Dry Deciduous,Unknown,Satellite,2.78,7,Low,21,98.2,0,3,0.29
+FF-0900,2023-03-14,2023,3,Pre-monsoon,Sundarbans,West Bengal,22.09617,88.85073,35.9,35.4,25.9,5.4,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,3.79,16,High,124,75.2,0,57,0.728
+FF-0901,2025-03-28,2025,3,Pre-monsoon,Western Ghats,Tamil Nadu,9.84127,77.34226,41.5,43.3,7.6,3.7,Tropical Dry Deciduous,Agricultural Burning,Satellite,9.78,12,High,95,73.0,0,48,0.651
+FF-0902,2023-09-22,2023,9,Monsoon,Western Ghats,Tamil Nadu,10.24921,76.92408,27.4,100.0,13.1,19.7,Tropical Dry Deciduous,Human Activity,Sensor Network,1.06,11,Moderate,95,67.6,0,4,0.428
+FF-0903,2024-06-29,2024,6,Monsoon,Bandipur,Karnataka,11.67366,76.50694,28.5,80.3,29.0,16.6,Tropical Dry Deciduous,Campfire,Sensor Network,1.23,17,High,102,65.6,0,32,0.579
+FF-0904,2023-03-08,2023,3,Pre-monsoon,Tadoba,Maharashtra,19.91966,79.42313,34.1,31.4,13.5,1.2,Tropical Moist Deciduous,Human Activity,Patrol Team,4.61,15,High,99,63.0,0,30,0.623
+FF-0905,2025-11-21,2025,11,Post-monsoon,Periyar,Kerala,9.51507,77.08946,24.4,68.5,6.6,4.7,Tropical Dry Deciduous,Lightning,Satellite,3.34,16,Moderate,69,77.8,0,5,0.437
+FF-0906,2024-08-24,2024,8,Monsoon,Jim Corbett,Uttarakhand,29.6998,78.51041,23.8,60.1,3.1,25.6,Montane Forest,Human Activity,Local Report,1.06,10,Moderate,81,77.2,0,2,0.406
+FF-0907,2025-10-18,2025,10,Post-monsoon,Wayanad,Kerala,11.52615,76.22034,23.5,49.2,2.4,13.2,Tropical Dry Deciduous,Human Activity,Forest Watchtower,7.46,10,Moderate,101,92.9,0,2,0.44
+FF-0908,2023-06-25,2023,6,Monsoon,Bandipur,Karnataka,11.75382,76.80216,20.2,64.4,12.5,26.4,Tropical Moist Deciduous,Unknown,Patrol Team,9.92,9,Moderate,69,71.3,0,0,0.345
+FF-0909,2023-08-14,2023,8,Monsoon,Wayanad,Kerala,11.55347,76.0919,27.8,72.8,8.7,23.3,Mangrove,Human Activity,Local Report,1.41,15,Moderate,110,68.4,0,3,0.444
+FF-0910,2024-10-31,2024,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.29249,76.34705,23.9,79.1,3.5,5.6,Tropical Dry Deciduous,Human Activity,Satellite,7.87,19,Moderate,46,79.1,1,2,0.409
+FF-0911,2024-10-24,2024,10,Post-monsoon,Kanha,Madhya Pradesh,22.53638,80.72707,30.4,74.1,15.0,6.7,Evergreen,Human Activity,Satellite,0.35,23,Moderate,50,76.8,0,3,0.488
+FF-0912,2025-05-16,2025,5,Pre-monsoon,Bandipur,Karnataka,11.61319,76.30122,28.1,55.3,14.8,1.0,Mangrove,Campfire,Patrol Team,7.5,16,Moderate,101,53.0,0,2,0.545
+FF-0913,2025-10-14,2025,10,Post-monsoon,Wayanad,Kerala,11.77395,76.15558,30.3,50.6,8.6,6.1,Evergreen,Unknown,Patrol Team,1.29,16,Moderate,64,61.7,0,0,0.491
+FF-0914,2025-06-19,2025,6,Monsoon,Gir,Gujarat,20.80061,70.64026,23.8,71.4,22.9,20.7,Tropical Dry Deciduous,Unknown,Local Report,6.51,10,Moderate,118,75.2,0,5,0.52
+FF-0915,2023-06-03,2023,6,Monsoon,Sundarbans,West Bengal,22.19797,88.69123,32.3,82.8,2.0,44.9,Grassland,Unknown,Satellite,0.82,7,Low,91,96.3,0,2,0.326
+FF-0916,2023-12-06,2023,12,Winter,Periyar,Kerala,9.59642,77.12046,30.5,57.2,6.8,6.9,Grassland,Unknown,Patrol Team,2.43,10,Moderate,106,94.0,0,2,0.475
+FF-0917,2025-09-28,2025,9,Monsoon,Similipal,Odisha,21.8708,86.36701,31.6,75.1,13.4,16.3,Tropical Moist Deciduous,Lightning,Patrol Team,1.27,18,Moderate,93,72.2,0,3,0.467
+FF-0918,2024-08-24,2024,8,Monsoon,Kanha,Madhya Pradesh,22.39209,80.48404,22.6,85.2,3.9,19.5,Tropical Dry Deciduous,Human Activity,Patrol Team,1.67,16,Moderate,53,78.8,0,2,0.362
+FF-0919,2025-08-08,2025,8,Monsoon,Nagarhole,Karnataka,11.77443,76.20597,26.3,74.1,16.0,20.2,Tropical Dry Deciduous,Human Activity,Satellite,12.14,25,Moderate,48,65.5,0,4,0.473
+FF-0920,2024-09-09,2024,9,Monsoon,Sundarbans,West Bengal,22.0892,88.81971,21.6,82.2,19.1,27.6,Thorn Forest,Human Activity,Local Report,1.7,8,Low,93,90.0,0,3,0.327
+FF-0921,2023-02-24,2023,2,Winter,Tadoba,Maharashtra,20.14816,79.47643,27.1,88.3,0.6,7.7,Tropical Moist Deciduous,Agricultural Burning,Patrol Team,11.06,9,Low,39,96.9,0,0,0.322
+FF-0922,2024-06-02,2024,6,Monsoon,Similipal,Odisha,21.86735,86.45061,24.8,76.6,23.4,23.3,Tropical Dry Deciduous,Human Activity,Forest Watchtower,1.92,10,Moderate,107,88.3,0,1,0.492
+FF-0923,2025-06-22,2025,6,Monsoon,Periyar,Kerala,9.42134,77.07444,22.7,95.5,12.9,32.1,Evergreen,Human Activity,Satellite,6.36,7,Low,77,85.8,0,2,0.31
+FF-0924,2024-12-19,2024,12,Winter,Nilgiri Biosphere,Tamil Nadu,11.3071,76.54413,23.5,73.8,6.2,20.7,Montane Forest,Agricultural Burning,Forest Watchtower,0.46,9,Low,64,78.2,0,3,0.316
+FF-0925,2023-05-26,2023,5,Pre-monsoon,Bandipur,Karnataka,11.81115,76.30345,27.6,27.5,2.6,8.2,Tropical Dry Deciduous,Human Activity,Satellite,2.63,13,High,95,73.3,0,42,0.596
+FF-0926,2023-08-19,2023,8,Monsoon,Gir,Gujarat,21.14095,70.85233,15.5,63.6,17.4,19.8,Tropical Dry Deciduous,Human Activity,Patrol Team,1.21,8,Low,76,95.6,1,1,0.34
+FF-0927,2025-07-25,2025,7,Monsoon,Similipal,Odisha,22.00428,86.33617,21.2,67.3,3.4,19.9,Tropical Moist Deciduous,Human Activity,Satellite,7.32,9,Moderate,65,80.3,0,2,0.356
+FF-0928,2025-12-09,2025,12,Winter,Nagarhole,Karnataka,11.99859,75.673,31.8,54.0,12.9,14.5,Grassland,Agricultural Burning,Local Report,3.33,20,Moderate,107,58.2,0,2,0.521
+FF-0929,2025-04-05,2025,4,Pre-monsoon,Periyar,Kerala,9.58211,77.10357,26.8,46.7,3.5,1.9,Evergreen,Human Activity,Forest Watchtower,0.48,18,Moderate,106,70.7,0,4,0.523
+FF-0930,2023-04-18,2023,4,Pre-monsoon,Similipal,Odisha,21.83298,86.23781,27.8,56.6,9.2,3.2,Montane Forest,Human Activity,Patrol Team,0.97,11,Moderate,85,74.0,0,3,0.538
+FF-0931,2024-11-09,2024,11,Post-monsoon,Similipal,Odisha,22.25676,86.68362,37.1,83.6,16.9,3.4,Tropical Dry Deciduous,Human Activity,Patrol Team,1.28,18,Moderate,72,58.2,0,1,0.547
+FF-0932,2025-06-27,2025,6,Monsoon,Jim Corbett,Uttarakhand,29.24913,78.4935,23.1,83.3,6.2,17.6,Tropical Moist Deciduous,Unknown,Local Report,4.49,9,Moderate,93,85.0,0,5,0.367
+FF-0933,2024-12-02,2024,12,Winter,Nagarhole,Karnataka,12.20175,75.84056,30.4,59.8,23.3,27.3,Tropical Moist Deciduous,Human Activity,Patrol Team,6.78,12,High,51,77.5,0,50,0.605
+FF-0934,2024-10-13,2024,10,Post-monsoon,Sundarbans,West Bengal,22.11887,89.09979,31.9,36.8,13.6,5.3,Tropical Moist Deciduous,Human Activity,Forest Watchtower,2.96,14,High,99,85.7,0,47,0.655
+FF-0935,2024-05-27,2024,5,Pre-monsoon,Periyar,Kerala,9.36365,77.44422,37.0,49.0,3.9,16.0,Evergreen,Unknown,Patrol Team,1.93,15,Moderate,97,63.1,1,45,0.556
+FF-0936,2023-09-26,2023,9,Monsoon,Gir,Gujarat,21.45668,70.6659,19.1,79.4,2.8,20.0,Thorn Forest,Unknown,Patrol Team,3.16,7,Low,49,92.5,0,0,0.292
+FF-0937,2023-11-04,2023,11,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.55928,76.58622,28.0,68.6,4.9,2.8,Tropical Moist Deciduous,Human Activity,Forest Watchtower,1.04,15,Moderate,97,83.6,0,1,0.498
+FF-0938,2025-03-28,2025,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.55538,76.81092,26.7,77.5,8.9,7.5,Thorn Forest,Human Activity,Sensor Network,3.03,9,Moderate,69,87.1,0,5,0.373
+FF-0939,2023-03-18,2023,3,Pre-monsoon,Periyar,Kerala,9.50448,76.78112,45.0,65.4,24.7,11.1,Tropical Dry Deciduous,Human Activity,Forest Watchtower,5.27,17,High,81,61.3,0,43,0.657
+FF-0940,2023-04-03,2023,4,Pre-monsoon,Similipal,Odisha,21.86524,86.06499,26.8,59.0,27.7,11.8,Evergreen,Agricultural Burning,Local Report,2.32,11,Moderate,99,67.8,0,2,0.535
+FF-0941,2024-03-10,2024,3,Pre-monsoon,Jim Corbett,Uttarakhand,29.46649,78.74947,29.3,34.5,6.1,2.7,Tropical Moist Deciduous,Human Activity,Satellite,4.78,15,High,68,72.9,0,41,0.603
+FF-0942,2025-04-28,2025,4,Pre-monsoon,Wayanad,Kerala,11.76248,76.37898,29.3,40.8,5.9,8.3,Evergreen,Campfire,Patrol Team,2.94,11,Moderate,95,78.4,0,3,0.495
+FF-0943,2024-12-21,2024,12,Winter,Tadoba,Maharashtra,20.42419,79.22157,22.3,64.7,15.2,3.2,Tropical Dry Deciduous,Unknown,Forest Watchtower,3.59,11,Moderate,39,75.4,0,0,0.434
+FF-0944,2024-10-08,2024,10,Post-monsoon,Periyar,Kerala,9.52901,77.21817,35.1,55.1,15.1,6.0,Montane Forest,Agricultural Burning,Forest Watchtower,1.14,25,High,94,77.4,0,49,0.62
+FF-0945,2024-08-08,2024,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.25417,76.90408,36.9,86.0,21.0,20.2,Montane Forest,Human Activity,Satellite,4.66,12,Moderate,81,73.6,0,0,0.508
+FF-0946,2023-05-02,2023,5,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.53191,77.07924,31.9,53.0,21.3,1.6,Thorn Forest,Unknown,Sensor Network,8.01,12,High,77,58.6,0,45,0.595
+FF-0947,2023-12-30,2023,12,Winter,Gir,Gujarat,21.24738,70.69617,23.1,50.8,4.6,6.2,Montane Forest,Agricultural Burning,Satellite,3.14,12,Moderate,82,77.3,1,0,0.442
+FF-0948,2023-03-29,2023,3,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.50475,76.69697,23.9,64.8,2.3,0.0,Tropical Dry Deciduous,Unknown,Local Report,3.49,11,Moderate,69,85.5,0,3,0.382
+FF-0949,2025-04-10,2025,4,Pre-monsoon,Gir,Gujarat,21.21928,71.12797,32.9,49.4,13.8,10.3,Evergreen,Human Activity,Local Report,3.4,16,High,109,73.0,0,45,0.644
+FF-0950,2025-04-02,2025,4,Pre-monsoon,Nagarhole,Karnataka,11.95665,75.826,32.6,23.8,10.7,1.6,Tropical Moist Deciduous,Agricultural Burning,Patrol Team,7.39,17,High,98,73.7,1,43,0.61
+FF-0951,2023-10-10,2023,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.25136,76.88496,26.1,65.3,1.3,11.8,Mangrove,Unknown,Satellite,2.58,11,Moderate,84,91.2,0,0,0.451
+FF-0952,2023-11-18,2023,11,Post-monsoon,Nagarhole,Karnataka,11.86109,75.9167,30.0,69.9,2.3,2.0,Tropical Dry Deciduous,Campfire,Local Report,0.92,14,Moderate,81,69.0,0,2,0.452
+FF-0953,2023-12-14,2023,12,Winter,Sundarbans,West Bengal,21.63833,88.91845,30.8,79.6,13.3,3.6,Tropical Dry Deciduous,Agricultural Burning,Sensor Network,4.85,12,Moderate,67,75.6,0,1,0.446
+FF-0954,2025-09-01,2025,9,Monsoon,Periyar,Kerala,9.53791,77.15633,27.5,74.3,8.3,17.6,Grassland,Lightning,Satellite,0.52,8,Moderate,65,95.5,0,1,0.379
+FF-0955,2024-06-19,2024,6,Monsoon,Kanha,Madhya Pradesh,22.28665,80.42756,24.6,90.6,13.5,17.5,Tropical Dry Deciduous,Lightning,Satellite,2.65,14,Moderate,75,64.7,1,3,0.38
+FF-0956,2025-04-15,2025,4,Pre-monsoon,Sundarbans,West Bengal,21.8296,88.72304,29.0,50.6,3.7,0.4,Grassland,Agricultural Burning,Patrol Team,1.92,13,Moderate,76,76.5,0,3,0.491
+FF-0957,2024-05-06,2024,5,Pre-monsoon,Wayanad,Kerala,11.2271,76.14975,37.0,29.6,14.2,0.1,Tropical Moist Deciduous,Unknown,Satellite,2.68,18,High,112,78.4,0,50,0.666
+FF-0958,2025-02-04,2025,2,Winter,Sundarbans,West Bengal,21.70043,89.0792,29.1,46.2,11.6,1.6,Grassland,Agricultural Burning,Satellite,4.05,12,High,90,82.8,0,41,0.615
+FF-0959,2024-08-02,2024,8,Monsoon,Gir,Gujarat,21.27933,70.77665,30.0,94.7,14.9,21.6,Mangrove,Human Activity,Satellite,1.24,15,Moderate,80,83.9,0,4,0.417
+FF-0960,2023-11-02,2023,11,Post-monsoon,Wayanad,Kerala,11.59366,76.11262,32.6,82.7,6.4,9.3,Evergreen,Human Activity,Patrol Team,4.26,25,Moderate,55,76.5,0,2,0.506
+FF-0961,2025-08-18,2025,8,Monsoon,Nilgiri Biosphere,Tamil Nadu,11.45769,76.80281,19.6,83.5,5.4,25.7,Tropical Dry Deciduous,Agricultural Burning,Sensor Network,1.67,6,Low,78,80.0,0,1,0.256
+FF-0962,2025-02-16,2025,2,Winter,Wayanad,Kerala,11.47749,75.92511,22.5,86.9,2.6,0.6,Tropical Dry Deciduous,Unknown,Local Report,1.04,13,Low,54,94.5,0,0,0.303
+FF-0963,2025-04-23,2025,4,Pre-monsoon,Tadoba,Maharashtra,20.43019,79.43314,30.6,62.8,7.3,2.2,Tropical Dry Deciduous,Human Activity,Local Report,8.82,14,Moderate,62,66.0,0,6,0.518
+FF-0964,2025-11-05,2025,11,Post-monsoon,Bandipur,Karnataka,11.67696,76.74748,24.2,75.6,18.5,3.8,Tropical Dry Deciduous,Lightning,Satellite,2.82,12,Moderate,104,70.2,0,2,0.438
+FF-0965,2023-09-30,2023,9,Monsoon,Gir,Gujarat,21.14641,71.26865,29.4,66.2,21.9,32.4,Evergreen,Campfire,Forest Watchtower,4.39,16,Moderate,90,79.3,0,4,0.475
+FF-0966,2023-04-11,2023,4,Pre-monsoon,Sundarbans,West Bengal,22.27212,88.8323,35.6,72.2,3.4,2.4,Tropical Moist Deciduous,Lightning,Satellite,8.3,15,Moderate,94,73.2,0,4,0.46
+FF-0967,2024-09-30,2024,9,Monsoon,Sundarbans,West Bengal,22.14263,88.81755,30.9,86.5,8.8,21.2,Tropical Moist Deciduous,Human Activity,Forest Watchtower,6.74,16,Moderate,78,81.4,0,0,0.372
+FF-0968,2023-12-24,2023,12,Winter,Nagarhole,Karnataka,11.95095,76.23841,30.8,60.6,25.0,1.0,Tropical Dry Deciduous,Lightning,Forest Watchtower,6.02,13,High,88,75.3,1,41,0.637
+FF-0969,2024-04-22,2024,4,Pre-monsoon,Gir,Gujarat,21.00508,70.94744,34.9,38.6,27.1,0.3,Montane Forest,Lightning,Local Report,3.22,22,High,89,80.1,0,47,0.693
+FF-0970,2023-09-15,2023,9,Monsoon,Western Ghats,Tamil Nadu,10.24791,77.10368,31.4,82.6,7.0,16.9,Tropical Dry Deciduous,Human Activity,Forest Watchtower,0.79,14,Moderate,93,79.9,0,2,0.493
+FF-0971,2024-03-12,2024,3,Pre-monsoon,Nagarhole,Karnataka,12.08158,76.02743,36.1,24.6,19.6,4.0,Tropical Moist Deciduous,Agricultural Burning,Forest Watchtower,4.88,13,High,114,65.2,0,57,0.687
+FF-0972,2024-03-07,2024,3,Pre-monsoon,Periyar,Kerala,9.48316,77.2974,34.3,57.8,17.5,14.8,Evergreen,Agricultural Burning,Satellite,8.05,13,High,84,79.6,0,39,0.571
+FF-0973,2024-01-20,2024,1,Winter,Periyar,Kerala,9.43676,77.05103,35.7,52.7,16.6,2.4,Tropical Dry Deciduous,Agricultural Burning,Satellite,4.74,16,High,125,64.6,0,43,0.615
+FF-0974,2025-03-24,2025,3,Pre-monsoon,Periyar,Kerala,9.73475,77.1261,34.5,53.2,1.9,2.4,Montane Forest,Agricultural Burning,Forest Watchtower,0.16,13,Moderate,79,82.5,0,2,0.543
+FF-0975,2024-10-11,2024,10,Post-monsoon,Nilgiri Biosphere,Tamil Nadu,11.38173,76.71613,27.6,58.7,5.8,2.1,Tropical Dry Deciduous,Human Activity,Forest Watchtower,6.03,13,Moderate,56,76.3,0,1,0.526
+FF-0976,2024-06-03,2024,6,Monsoon,Bandipur,Karnataka,12.06793,76.77927,22.2,75.3,8.2,18.9,Grassland,Human Activity,Satellite,4.91,10,Moderate,42,84.4,0,1,0.409
+FF-0977,2023-05-04,2023,5,Pre-monsoon,Nilgiri Biosphere,Tamil Nadu,11.41452,76.59117,37.2,37.4,8.0,4.1,Grassland,Human Activity,Local Report,2.51,32,High,55,51.0,0,33,0.581
+FF-0978,2024-09-17,2024,9,Monsoon,Similipal,Odisha,22.18565,86.06837,31.6,76.7,8.8,39.1,Thorn Forest,Human Activity,Patrol Team,5.23,14,Moderate,66,61.2,0,1,0.415
+FF-0979,2023-07-11,2023,7,Monsoon,Wayanad,Kerala,11.75717,75.75501,25.8,100.0,29.0,32.1,Grassland,Agricultural Burning,Patrol Team,4.26,12,Moderate,72,66.4,0,2,0.462
+FF-0980,2023-12-11,2023,12,Winter,Similipal,Odisha,22.05407,86.17331,34.9,85.4,7.2,19.9,Thorn Forest,Human Activity,Patrol Team,1.21,9,Moderate,84,96.0,0,1,0.398
+FF-0981,2024-03-30,2024,3,Pre-monsoon,Sundarbans,West Bengal,21.78406,88.66363,25.1,53.0,12.0,9.9,Tropical Moist Deciduous,Agricultural Burning,Local Report,7.94,18,Moderate,79,65.3,0,2,0.496
+FF-0982,2023-06-04,2023,6,Monsoon,Jim Corbett,Uttarakhand,29.3634,78.77217,25.8,78.6,11.7,20.3,Evergreen,Human Activity,Sensor Network,0.71,13,Moderate,86,86.7,0,2,0.381
+FF-0983,2024-03-02,2024,3,Pre-monsoon,Similipal,Odisha,21.97355,86.186,33.8,59.8,8.9,1.8,Grassland,Human Activity,Local Report,2.85,12,Moderate,84,70.4,0,1,0.544
+FF-0984,2023-10-20,2023,10,Post-monsoon,Sundarbans,West Bengal,22.05817,88.7735,25.7,81.8,3.6,2.4,Evergreen,Human Activity,Local Report,1.82,9,Moderate,71,80.8,1,2,0.378
+FF-0985,2025-07-20,2025,7,Monsoon,Sundarbans,West Bengal,21.90644,88.76066,36.7,67.4,9.7,20.3,Evergreen,Lightning,Satellite,1.42,13,Moderate,71,75.5,0,3,0.524
+FF-0986,2025-07-31,2025,7,Monsoon,Sundarbans,West Bengal,21.69418,88.82071,25.7,77.9,1.2,33.0,Tropical Dry Deciduous,Agricultural Burning,Satellite,2.73,11,Moderate,96,94.7,0,1,0.384
+FF-0987,2023-01-06,2023,1,Winter,Sundarbans,West Bengal,21.68236,89.13805,27.2,40.5,12.9,16.8,Tropical Moist Deciduous,Unknown,Satellite,9.11,16,Moderate,55,78.5,0,3,0.544
+FF-0988,2024-10-22,2024,10,Post-monsoon,Nagarhole,Karnataka,11.77166,76.21915,29.1,81.7,1.0,29.8,Tropical Moist Deciduous,Human Activity,Forest Watchtower,6.47,11,Moderate,78,83.7,0,2,0.412
+FF-0989,2024-12-03,2024,12,Winter,Bandipur,Karnataka,11.41718,76.6029,20.0,94.9,12.1,6.5,Tropical Dry Deciduous,Agricultural Burning,Patrol Team,3.7,13,Moderate,66,91.9,1,1,0.361
+FF-0990,2024-02-19,2024,2,Winter,Kanha,Madhya Pradesh,22.31752,80.51702,25.6,67.1,5.5,1.3,Tropical Moist Deciduous,Unknown,Forest Watchtower,0.54,10,Moderate,88,75.7,0,3,0.421
+FF-0991,2024-05-29,2024,5,Pre-monsoon,Wayanad,Kerala,11.88001,76.02202,38.4,18.2,4.0,6.8,Tropical Dry Deciduous,Human Activity,Local Report,1.29,16,High,93,77.6,0,39,0.679
+FF-0992,2025-05-15,2025,5,Pre-monsoon,Similipal,Odisha,21.89785,86.45899,31.2,56.5,15.3,21.3,Evergreen,Human Activity,Patrol Team,3.32,19,Moderate,82,80.2,0,1,0.527
+FF-0993,2024-02-19,2024,2,Winter,Bandipur,Karnataka,11.33833,76.70515,25.3,53.3,6.6,18.7,Grassland,Human Activity,Satellite,2.58,16,Moderate,74,82.8,0,1,0.49
+FF-0994,2023-03-12,2023,3,Pre-monsoon,Periyar,Kerala,9.46948,77.03663,39.9,38.7,9.4,1.3,Evergreen,Human Activity,Forest Watchtower,2.4,15,High,115,69.7,0,37,0.637
+FF-0995,2024-02-13,2024,2,Winter,Similipal,Odisha,21.87395,86.40657,35.0,74.8,2.0,1.5,Grassland,Unknown,Satellite,15.09,15,Moderate,83,70.7,0,0,0.543
+FF-0996,2023-10-06,2023,10,Post-monsoon,Sundarbans,West Bengal,22.23536,88.53431,31.3,69.6,23.0,1.4,Tropical Dry Deciduous,Lightning,Satellite,3.6,14,High,121,66.2,0,43,0.587
+FF-0997,2024-02-24,2024,2,Winter,Similipal,Odisha,21.66686,86.43811,27.0,59.2,10.1,2.6,Tropical Dry Deciduous,Lightning,Sensor Network,4.39,10,Moderate,85,71.3,0,2,0.508
+FF-0998,2023-09-10,2023,9,Monsoon,Wayanad,Kerala,11.63749,76.23719,24.9,69.9,10.0,19.0,Grassland,Unknown,Patrol Team,5.29,19,Moderate,74,69.4,0,2,0.421
+FF-0999,2023-06-14,2023,6,Monsoon,Gir,Gujarat,21.37294,70.74959,22.4,80.8,13.0,20.0,Thorn Forest,Lightning,Patrol Team,2.21,9,Moderate,68,85.4,0,2,0.385
+FF-1000,2025-12-15,2025,12,Winter,Similipal,Odisha,21.972,86.72697,24.5,60.3,0.5,9.8,Grassland,Agricultural Burning,Local Report,20.97,11,Moderate,84,78.3,0,0,0.428
